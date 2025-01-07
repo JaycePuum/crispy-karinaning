@@ -6647,5 +6647,35 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-07 03:56:47 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2025-01-07 03:56:45 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-01-07 03:59:49 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-01-07 04:00:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-07 03:48:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

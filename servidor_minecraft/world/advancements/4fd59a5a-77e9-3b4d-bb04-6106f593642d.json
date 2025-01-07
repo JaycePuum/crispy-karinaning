@@ -9571,5 +9571,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-07 03:52:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
