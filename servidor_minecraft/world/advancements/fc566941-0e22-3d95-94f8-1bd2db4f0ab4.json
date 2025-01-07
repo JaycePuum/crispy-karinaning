@@ -8852,77 +8852,101 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_item": "2025-01-06 23:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_item": "2025-01-06 23:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_item": "2025-01-06 23:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/combat/tide_teal_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_item": "2025-01-06 23:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_sea_serpent_scales_teal": "2025-01-06 23:16:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_log": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "pfm:recipes/furniture/birch_kitchen_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_planks": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "pfm:recipes/furniture/birch_kitchen_counter": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_planks": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "pfm:recipes/furniture/birch_kitchen_counter_oven": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_planks": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_planks": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "pfm:recipes/furniture/birch_kitchen_drawer": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_planks": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "pfm:recipes/furniture/birch_log_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 00:05:18 +0000"
+      "has_log": "2025-01-06 23:18:11 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-06 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-06 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 23:18:11 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
@@ -8930,21 +8954,9 @@
     },
     "done": true
   },
-  "luminousworld:kill_king_crab": {
-    "criteria": {
-      "kill_king_crab_0": "2025-01-06 23:37:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_helmet": {
-    "criteria": {
-      "has_item": "2025-01-06 23:48:14 +0000"
     },
     "done": true
   },
@@ -8960,12 +8972,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-06 23:16:24 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/birch_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
@@ -8978,39 +8984,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2025-01-06 23:16:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-06 23:48:14 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
     },
     "done": true
   },
@@ -9044,18 +9020,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_boots": {
-    "criteria": {
-      "has_item": "2025-01-06 23:16:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
-    "criteria": {
-      "has_sea_serpent_scales_purple": "2025-01-06 23:48:14 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/birch_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
@@ -9068,51 +9032,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/birch_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_purple_leggings": {
-    "criteria": {
-      "has_item": "2025-01-06 23:48:14 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-01-06 23:18:16 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/birch_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_log_stool": {
-    "criteria": {
-      "has_log": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/birch_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
     },
     "done": true
   },
@@ -9131,36 +9059,6 @@
   "pfm:recipes/furniture/birch_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
-    "criteria": {
-      "has_item": "2025-01-06 23:16:24 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-01-06 23:18:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2025-01-06 23:16:24 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-06 23:18:11 +0000"
     },
     "done": true
   },
@@ -9200,15 +9098,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_purple_boots": {
+  "pfm:recipes/furniture/birch_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-06 23:18:16 +0000"
+    },
+    "done": true
+  },
+  "luminousworld:kill_king_crab": {
+    "criteria": {
+      "kill_king_crab_0": "2025-01-06 23:37:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
     "criteria": {
       "has_item": "2025-01-06 23:48:14 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/birch_table_basic": {
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
-      "has_planks": "2025-01-06 23:18:16 +0000"
+      "has_item": "2025-01-06 23:48:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-01-06 23:48:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 23:48:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 23:48:14 +0000"
     },
     "done": true
   },
