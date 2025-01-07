@@ -8986,6 +8986,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-07 02:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-01-07 01:51:58 +0000"
@@ -9051,6 +9057,12 @@
       "has_red_dye": "2025-01-07 01:51:58 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pumpkin_soup": "2025-01-07 02:21:57 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
     "criteria": {
