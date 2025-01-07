@@ -6671,6 +6671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:02:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-01-07 04:57:24 +0000"
@@ -6686,6 +6692,12 @@
   "mca:adventure/scythe_kill": {
     "criteria": {
       "iron": "2025-01-07 03:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-07 05:02:42 +0000"
     },
     "done": true
   },
@@ -6718,6 +6730,12 @@
       "chicken_soup": "2025-01-07 04:35:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:02:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
