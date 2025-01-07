@@ -6516,6 +6516,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-07 01:25:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-01-07 00:35:15 +0000"

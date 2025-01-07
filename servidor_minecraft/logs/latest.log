@@ -1183,3 +1183,40 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 01:20:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> onta p
 [07Jan2025 01:21:12.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:59764] logged in with entity id 36967 at (784.1298908270661, 76.0625, 4897.997299977748)
 [07Jan2025 01:21:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[07Jan2025 01:23:41.179] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[07Jan2025 01:24:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Drowned]
+[07Jan2025 01:25:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Bim Bam Boom !]
+[07Jan2025 01:25:14.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Drowned]
+[07Jan2025 01:25:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Drowned]
+[07Jan2025 01:25:55.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Drowned]
+[07Jan2025 01:26:17.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[07Jan2025 01:26:46.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Drowned]
+[07Jan2025 01:27:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aqui esta
+[07Jan2025 01:27:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:28:15.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was burnt to a crisp whilst fighting Fire Dragon
+[07Jan2025 01:28:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:28:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:28:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:29:03.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:29:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[07Jan2025 01:29:21.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:29:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:29:46.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[07Jan2025 01:29:50.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:30:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:30:13.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:30:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was incinerated by Fire Dragon
+[07Jan2025 01:30:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:30:48.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was turned into KFC by Fire Dragon
+[07Jan2025 01:30:50.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was turned into KFC by Fire Dragon
+[07Jan2025 01:30:56.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/Coralssus_Entity$Variant
+[07Jan2025 01:31:07.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was incinerated by Fire Dragon
+[07Jan2025 01:31:16.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was turned into KFC by Fire Dragon
+[07Jan2025 01:31:24.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was doomed to fall by Fire Dragon
+[07Jan2025 01:31:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:31:41.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:31:54.375] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[07Jan2025 01:32:16.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:32:17.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:32:37.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:32:40.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was turned into KFC by Fire Dragon
