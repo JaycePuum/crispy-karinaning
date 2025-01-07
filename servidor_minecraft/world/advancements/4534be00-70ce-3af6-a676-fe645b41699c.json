@@ -6690,6 +6690,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-07 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-07 05:21:18 +0000"
+    },
+    "done": true
+  },
   "mca:adventure/scythe_kill": {
     "criteria": {
       "iron": "2025-01-07 03:59:49 +0000"
@@ -6699,6 +6711,24 @@
   "l2complements:recipes/burnt/burnt/soul_soil": {
     "criteria": {
       "has_soul_soil": "2025-01-07 05:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-07 05:20:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-01-07 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-07 05:24:27 +0000"
     },
     "done": true
   },

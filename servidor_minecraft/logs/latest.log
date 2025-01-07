@@ -1186,3 +1186,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 05:13:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tomalo tu
 [07Jan2025 05:16:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito burned to death
 [07Jan2025 05:20:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Best Friends Forever]
+[07Jan2025 05:21:18.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [An Ear-Shattering Roar]
+[07Jan2025 05:22:00.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [The Song of the Dragons]
+[07Jan2025 05:22:39.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Dragon Commander]
+[07Jan2025 05:24:00.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 05:24:02.807] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07Jan2025 05:24:02.807] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Jan2025 05:24:03.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[07Jan2025 05:25:43.946] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[07Jan2025 05:27:03.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 05:29:44.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Soul Forge]
+[07Jan2025 05:30:05.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chizuru'/62, l='ServerLevel[world]', x=816.56, y=66.00, z=4850.29] died, message: 'Chizuru (Staying) was slain by Zombie'
+[07Jan2025 05:30:05.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chizuru'/62, l='ServerLevel[world]', x=816.56, y=66.00, z=4850.29] died: Chizuru (Staying) was slain by Zombie
