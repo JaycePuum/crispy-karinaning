@@ -1941,3 +1941,23 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 03:34:40.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.4228495162263075
 [07Jan2025 03:35:27.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.3666354059672487
 [07Jan2025 03:35:50.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.48039091812954604
+[07Jan2025 03:35:52.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.3133226036747926
+[07Jan2025 03:35:52.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.2851538474934193
+[07Jan2025 03:35:53.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.6747969299837953
+[07Jan2025 03:35:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jan2025 03:35:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jan2025 03:35:57.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Server closed
+[07Jan2025 03:35:57.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[07Jan2025 03:35:57.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS lost connection: Server closed
+[07Jan2025 03:35:57.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
+[07Jan2025 03:35:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jan2025 03:35:58.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jan2025 03:35:59.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jan2025 03:35:59.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jan2025 03:35:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jan2025 03:35:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jan2025 03:35:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jan2025 03:35:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jan2025 03:36:00.011] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jan2025 03:36:00.017] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jan2025 03:36:00.021] [Server thread/INFO] [Framework/]: Finished unloading server configs
