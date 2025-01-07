@@ -13664,3 +13664,38 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 03:13:22.511] [Server thread/INFO] [Supplementaries/]: Searching for structure ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna] from pos BlockPos{x=790, y=67, z=4896}
 [07Jan2025 03:14:52.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
 [07Jan2025 03:14:59.823] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean_ruin_warm took 42 ms
+[07Jan2025 03:16:08.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 4
+[07Jan2025 03:17:12.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:17:12.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:21:18.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved wrongly! 0.2966409945579471
+[07Jan2025 03:21:18.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved wrongly! 0.6657797162400811
+[07Jan2025 03:21:18.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved wrongly! 0.7055270363556474
+[07Jan2025 03:21:18.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved wrongly! 0.781050803028279
+[07Jan2025 03:21:18.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved wrongly! 0.29528480178294103
+[07Jan2025 03:22:12.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:22:12.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:22:25.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_2
+[07Jan2025 03:22:25.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_2
+[07Jan2025 03:22:25.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_2
+[07Jan2025 03:22:25.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_2
+[07Jan2025 03:22:25.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_2
+[07Jan2025 03:22:25.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_2
+[07Jan2025 03:23:11.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_1
+[07Jan2025 03:23:11.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[07Jan2025 03:23:11.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_brown_mushroom
+[07Jan2025 03:23:11.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_weapons
+[07Jan2025 03:23:11.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_rip
+[07Jan2025 03:23:11.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_tools
+[07Jan2025 03:23:11.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_food
+[07Jan2025 03:23:11.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_iron
+[07Jan2025 03:23:29.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/corner1
+[07Jan2025 03:23:29.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/wonky_1
+[07Jan2025 03:23:29.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/straight5
+[07Jan2025 03:23:29.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/small_farm
+[07Jan2025 03:23:29.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/weaponsmith
+[07Jan2025 03:23:29.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/large_farm
+[07Jan2025 03:23:29.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/cross
+[07Jan2025 03:23:36.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_3
+[07Jan2025 03:23:36.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_3
+[07Jan2025 03:23:36.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_3
+[07Jan2025 03:25:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]

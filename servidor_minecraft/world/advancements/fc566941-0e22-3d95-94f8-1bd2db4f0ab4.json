@@ -1577,10 +1577,15 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-01-07 03:18:20 +0000",
       "onion": "2025-01-01 20:43:21 +0000",
       "glow_berries": "2025-01-05 02:17:06 +0000",
+      "tomato": "2025-01-07 03:17:26 +0000",
       "kelp": "2025-01-01 22:49:43 +0000",
-      "wheat": "2025-01-05 00:54:30 +0000"
+      "rice": "2025-01-07 03:17:40 +0000",
+      "beetroot": "2025-01-07 03:17:53 +0000",
+      "wheat": "2025-01-05 00:54:30 +0000",
+      "carrot": "2025-01-07 03:17:32 +0000"
     },
     "done": false
   },
@@ -9294,6 +9299,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-07 02:00:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-01-07 03:17:40 +0000"
     },
     "done": true
   },
