@@ -186,21 +186,21 @@
 	MonstrosityHealthMultiplier = 15.0
 	#Monstrosity's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamageMultiplier = 15.0
+	MonstrosityDamageMultiplier = 20.0
 	#Monstrosity's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealingMultiplier = 8.0
+	MonstrosityHealingMultiplier = 10.0
 	# Monstrosity's Healing with out target
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityNatureHealing = 10.0
 	#Monstrosity's DamageCap
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamageCap = 22.0
+	MonstrosityDamageCap = 15.0
 	#Monstrosity's bodyBlocking verdict
 	NetheritemonstrosityBodyBloking = true
 	#Monstrosity's attack Hp Damage
 	#Range: 0.0 ~ 1.0
-	"Monstrosity's attack Hp Damage" = 0.08
+	"Monstrosity's attack Hp Damage" = 0.04
 	#Monstrosity's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Monstrosity's prevent attacks from far away Range" = 18.0
@@ -262,19 +262,19 @@
 ["The Harbinger"]
 	#Harbinger's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealthMultiplier = 12.0
+	HarbingerHealthMultiplier = 14.0
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 12.0
+	HarbingerDamageMultiplier = 14.0
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealingMultiplier = 4.0
+	HarbingerHealingMultiplier = 8.0
 	#Harbinger's Wither Missile's Damage
 	#Range: 0.0 ~ 1000000.0
-	"Harbinger's WitherMissiledamage" = 8.0
+	"Harbinger's WitherMissiledamage" = 15.0
 	#Harbinger's laser's Damage
 	#Range: 0.0 ~ 1000000.0
-	"Harbinger's laser damage" = 5.0
+	"Harbinger's laser damage" = 15.0
 	#Harbinger's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"The Harbinger's prevent attacks from far away Range" = 35.0

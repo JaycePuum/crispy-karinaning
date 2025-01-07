@@ -1,9 +1,9 @@
 
 [Nehemoth]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Nehemoth Heath Multipler" = 5.0
+	"Sets Nehemoth Heath Multipler" = 10.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Nehemoth Ranged Damage" = 5.0
+	"Sets Nehemoth Ranged Damage" = 8.0
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Nehemoth Laser Damage" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
@@ -60,7 +60,7 @@
 	"Cleric SpawnRoll" = 15
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
-	"Nehemoth SpawnRoll" = 8
+	"Nehemoth SpawnRoll" = 1
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
 	"Bulldrogioth SpawnRoll" = 15
