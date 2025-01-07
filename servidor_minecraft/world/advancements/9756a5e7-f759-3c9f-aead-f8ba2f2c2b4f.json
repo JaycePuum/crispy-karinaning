@@ -9716,9 +9716,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-07 05:13:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick_wall": {
     "criteria": {
       "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:18:17 +0000"
     },
     "done": true
   },
@@ -9746,9 +9758,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-07 05:18:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick_slab": {
     "criteria": {
       "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:18:17 +0000"
     },
     "done": true
   },
@@ -9763,6 +9787,12 @@
       "chicken_soup": "2025-01-07 04:37:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 05:18:17 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
     "criteria": {

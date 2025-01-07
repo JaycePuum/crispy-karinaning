@@ -1178,3 +1178,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 05:08:41.290] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 17313
 [07Jan2025 05:08:41.290] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
 [07Jan2025 05:09:20.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! 0.7712795713597416,-9.750547099158368,-3.514982546889769
+[07Jan2025 05:11:00.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -9.900544068422278,0.0,-1.996030167736535
+[07Jan2025 05:11:06.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69491, l='ServerLevel[world]', x=342.34, y=-20.00, z=754.52] died: Restless Spirit was killed
+[07Jan2025 05:11:06.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69493, l='ServerLevel[world]', x=340.89, y=-20.00, z=759.05] died: Restless Spirit was killed
+[07Jan2025 05:11:06.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69495, l='ServerLevel[world]', x=342.72, y=-20.00, z=762.34] died: Restless Spirit was killed
+[07Jan2025 05:12:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has completed the challenge [Beat Death]
+[07Jan2025 05:13:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tomalo tu
+[07Jan2025 05:16:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito burned to death
+[07Jan2025 05:20:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Best Friends Forever]

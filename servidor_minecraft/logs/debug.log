@@ -12849,3 +12849,31 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 05:09:42.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
 [07Jan2025 05:09:42.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
 [07Jan2025 05:09:42.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[07Jan2025 05:11:00.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -9.900544068422278,0.0,-1.996030167736535
+[07Jan2025 05:11:06.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69491, l='ServerLevel[world]', x=342.34, y=-20.00, z=754.52] died: Restless Spirit was killed
+[07Jan2025 05:11:06.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69493, l='ServerLevel[world]', x=340.89, y=-20.00, z=759.05] died: Restless Spirit was killed
+[07Jan2025 05:11:06.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69495, l='ServerLevel[world]', x=342.72, y=-20.00, z=762.34] died: Restless Spirit was killed
+[07Jan2025 05:12:26.630] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[07Jan2025 05:12:45.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has completed the challenge [Beat Death]
+[07Jan2025 05:13:17.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tomalo tu
+[07Jan2025 05:14:23.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
+[07Jan2025 05:14:23.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith
+[07Jan2025 05:14:29.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 05:14:29.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 05:14:49.850] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_0
+[07Jan2025 05:14:49.851] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_3
+[07Jan2025 05:14:49.853] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_4
+[07Jan2025 05:14:49.854] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_4
+[07Jan2025 05:14:49.856] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_2
+[07Jan2025 05:14:49.857] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_1
+[07Jan2025 05:14:49.859] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_0
+[07Jan2025 05:14:49.861] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_2
+[07Jan2025 05:14:49.862] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/hoglin_stable/starting_pieces/stairs_3_mirrored is being run through DFU (hash 44d7afcf0fa8155bf2c6b2300230086a6b90e3eb9a5237883afc10ae1fa8ef0c), this will cause launch time delays
+[07Jan2025 05:15:53.521] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:16:22.894] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_1_mirrored
+[07Jan2025 05:16:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito burned to death
+[07Jan2025 05:16:52.109] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[07Jan2025 05:17:13.581] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=1054, y=123, z=277} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:19:29.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 05:19:29.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 05:20:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Best Friends Forever]
