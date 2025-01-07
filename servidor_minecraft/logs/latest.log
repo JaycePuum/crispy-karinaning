@@ -1124,3 +1124,29 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 04:39:06.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=866, y=69, z=4979} BlockPos{x=866, y=67, z=4978}
 [07Jan2025 04:39:06.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=69, z=4979} BlockPos{x=866, y=67, z=4978}
 [07Jan2025 04:39:06.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=69, z=4979} BlockPos{x=866, y=67, z=4978}
+[07Jan2025 04:41:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 04:41:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 04:42:24.451] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07Jan2025 04:42:24.451] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Jan2025 04:44:40.875] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shin'ichi'/150, l='ServerLevel[world]', x=905.97, y=71.00, z=4894.20] died, message: 'Shin'ichi (Following) burned to death'
+[07Jan2025 04:44:40.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Shin'ichi'/150, l='ServerLevel[world]', x=905.97, y=71.00, z=4894.20] died: Shin'ichi (Following) burned to death
+[07Jan2025 04:46:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 04:46:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[07Jan2025 04:47:47.641] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Jan2025 04:47:47.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [We Need to Go Deeper]
+[07Jan2025 04:47:47.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Incendium]
+[07Jan2025 04:47:48.128] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[07Jan2025 04:47:48.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[07Jan2025 04:47:48.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[07Jan2025 04:47:48.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[07Jan2025 04:47:48.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[07Jan2025 04:47:49.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS moved too quickly! 6.956396730825304,-1.1767592750642422,7.143180293415753
+[07Jan2025 04:48:01.740] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Jan2025 04:48:01.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [We Need to Go Deeper]
+[07Jan2025 04:48:01.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Incendium]
+[07Jan2025 04:48:06.794] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07Jan2025 04:48:06.794] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Jan2025 04:48:06.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Settling In]
+[07Jan2025 04:48:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito hit the ground too hard whilst trying to escape DarkMoon
+[07Jan2025 04:48:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> en agua
+[07Jan2025 04:48:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si
