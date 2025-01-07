@@ -1150,3 +1150,24 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 04:48:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito hit the ground too hard whilst trying to escape DarkMoon
 [07Jan2025 04:48:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> en agua
 [07Jan2025 04:48:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si
+[07Jan2025 04:50:04.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> en agua noma :v
+[07Jan2025 04:50:35.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 04:50:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 04:51:02.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 04:51:15.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [A Terrible Fortress]
+[07Jan2025 04:51:21.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[07Jan2025 04:51:52.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 04:52:27.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 04:52:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[07Jan2025 04:52:32.746] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Jan2025 04:52:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [We Need to Go Deeper]
+[07Jan2025 04:52:32.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Incendium]
+[07Jan2025 04:52:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 withered away
+[07Jan2025 04:52:56.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [A Terrible Fortress]
+[07Jan2025 04:53:22.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[07Jan2025 04:53:22.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[07Jan2025 04:53:22.204] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[07Jan2025 04:55:53.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Cake] to ErickJaeger]
+[07Jan2025 04:57:24.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Dragon Growth Hormone]
+[07Jan2025 04:58:53.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon moved too quickly! -9.216279267507957,1.7967356006687112,-3.570773999674202
+[07Jan2025 04:59:26.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Into Fire]

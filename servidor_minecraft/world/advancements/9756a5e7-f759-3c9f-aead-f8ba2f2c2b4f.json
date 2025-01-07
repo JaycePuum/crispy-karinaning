@@ -1602,6 +1602,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-30 04:08:56 +0000",
       "cooked_mutton": "2025-01-01 20:21:34 +0000",
+      "sweet_berries": "2025-01-07 04:56:36 +0000",
       "cooked_beef": "2024-12-30 03:19:52 +0000",
       "apple": "2024-12-30 03:35:11 +0000",
       "bread": "2025-01-04 02:18:27 +0000",
@@ -9715,9 +9716,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick_wall": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-07 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_stairs": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_stairs_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-07 04:56:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_slab": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-07 04:55:15 +0000"
     },
     "done": true
   },
@@ -9732,6 +9763,18 @@
       "chicken_soup": "2025-01-07 04:37:45 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_slab_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-07 04:55:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
