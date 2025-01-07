@@ -9524,87 +9524,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 04:28:29 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2025-01-07 03:44:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "has_dandelion": "2025-01-07 04:02:13 +0000"
+      "has_cabbage": "2025-01-07 03:44:46 +0000"
     },
     "done": true
   },
@@ -9614,15 +9542,15 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/misc/generated/recycle/iron_plate_shield": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_iron_plate_shield": "2025-01-07 04:14:37 +0000"
+      "has_dandelion": "2025-01-07 04:02:13 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+  "l2weaponry:recipes/misc/generated/recycle/iron_plate_shield": {
     "criteria": {
-      "has_cabbage": "2025-01-07 03:44:46 +0000"
+      "has_iron_plate_shield": "2025-01-07 04:14:37 +0000"
     },
     "done": true
   },

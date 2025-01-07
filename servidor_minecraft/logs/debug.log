@@ -12562,3 +12562,19 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 04:28:43.363] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
 [07Jan2025 04:28:43.363] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [07Jan2025 04:28:43.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
+[07Jan2025 04:29:29.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 04:29:29.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 04:29:54.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[07Jan2025 04:29:54.207] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[07Jan2025 04:32:59.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xd
+[07Jan2025 04:34:29.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 04:34:29.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 04:34:40.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 04:34:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[07Jan2025 04:35:32.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 04:39:06.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=866, y=69, z=4978} BlockPos{x=866, y=67, z=4978}
+[07Jan2025 04:39:06.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=866, y=69, z=4979} BlockPos{x=866, y=67, z=4978}
+[07Jan2025 04:39:06.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=69, z=4979} BlockPos{x=866, y=67, z=4978}
+[07Jan2025 04:39:06.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=867, y=69, z=4979} BlockPos{x=866, y=67, z=4978}
+[07Jan2025 04:39:29.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 04:39:29.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

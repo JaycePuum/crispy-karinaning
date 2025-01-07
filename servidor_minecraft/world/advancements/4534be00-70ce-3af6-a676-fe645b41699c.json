@@ -6659,6 +6659,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-07 04:35:22 +0000"
+    },
+    "done": true
+  },
   "mca:adventure/scythe_kill": {
     "criteria": {
       "iron": "2025-01-07 03:59:49 +0000"
@@ -6676,6 +6682,12 @@
       "has_oak_trapdoor": "2025-01-07 03:48:50 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "chicken_soup": "2025-01-07 04:35:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
