@@ -1809,3 +1809,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 03:01:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> raa
 [07Jan2025 03:01:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> esa cosa arruga cuando vea mi nuke
 [07Jan2025 03:05:23.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Splintering II]
+[07Jan2025 03:05:40.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien regala 1 stack de comida
+[07Jan2025 03:13:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [What a Deal!]
+[07Jan2025 03:13:22.511] [Server thread/INFO] [Supplementaries/]: Searching for structure ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna] from pos BlockPos{x=790, y=67, z=4896}
+[07Jan2025 03:14:52.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[07Jan2025 03:14:59.823] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean_ruin_warm took 42 ms
