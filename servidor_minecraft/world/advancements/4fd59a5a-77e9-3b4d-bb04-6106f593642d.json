@@ -9006,99 +9006,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:root": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-01-07 02:44:39 +0000"
+      "requirement": "2025-01-07 00:56:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+      "entered_nether": "2025-01-07 00:56:28 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_filled_map": "2025-01-07 03:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-01-07 02:44:39 +0000"
+      "entered_nether": "2025-01-07 00:56:28 +0000"
     },
     "done": true
   },
@@ -9109,21 +9031,87 @@
     },
     "done": false
   },
-  "incendium:root": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "requirement": "2025-01-07 00:56:28 +0000"
+      "has_soul_sand": "2025-01-07 00:59:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "l2complements:recipes/burnt/burnt/soul_soil": {
     "criteria": {
-      "has_beetroot": "2025-01-07 02:55:35 +0000"
+      "has_soul_soil": "2025-01-07 00:59:11 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/light_wood_kitchen_drawer": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_planks": "2025-01-07 02:48:47 +0000"
+      "has_soul_sand": "2025-01-07 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-07 01:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-07 01:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-07 01:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-07 01:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-07 01:11:36 +0000"
     },
     "done": true
   },
@@ -9133,21 +9121,51 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_planks": "2025-01-07 02:48:47 +0000"
+      "has_blaze_rod": "2025-01-07 01:11:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_bricks": "2025-01-07 02:44:39 +0000"
+      "has_blaze_rod": "2025-01-07 01:11:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
-      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
+      "has_item": "2025-01-07 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-01-07 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-01-07 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-07 01:41:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-07 01:41:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-07 01:41:17 +0000"
     },
     "done": true
   },
@@ -9157,33 +9175,57 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2025-01-07 02:48:47 +0000"
+      "cooked_bacon": "2025-01-07 01:41:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
-      "has_soul_sand": "2025-01-07 00:59:11 +0000"
+      "cooked_bacon": "2025-01-07 01:41:51 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/stripped_oak_chair_classic": {
+  "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
-      "has_planks": "2025-01-07 02:48:47 +0000"
+      "cooked_bacon": "2025-01-07 01:41:51 +0000"
     },
     "done": true
   },
-  "chimes:recipes/decorations/amethyst_chimes": {
+  "chimes:recipes/decorations/glass_bells": {
     "criteria": {
-      "has_planks": "2025-01-07 02:43:55 +0000"
+      "has_bottle": "2025-01-07 01:49:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
-      "has_stripped_logs": "2025-01-07 02:48:47 +0000"
+      "has_glass_bottle": "2025-01-07 01:49:39 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-07 02:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-01-07 02:03:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-07 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-07 02:24:31 +0000"
     },
     "done": true
   },
@@ -9193,9 +9235,141 @@
     },
     "done": true
   },
-  "minecraft:nether/uneasy_alliance": {
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
-      "killed_ghast": "2025-01-07 02:03:16 +0000"
+      "has_tomato": "2025-01-07 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-01-07 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-07 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-07 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-07 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-07 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-07 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-07 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-07 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-07 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-07 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-07 02:45:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-07 02:48:47 +0000"
     },
     "done": true
   },
@@ -9223,81 +9397,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-01-07 01:41:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/soul_soil": {
-    "criteria": {
-      "has_soul_soil": "2025-01-07 00:59:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-01-07 01:41:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-01-07 02:39:39 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-01-07 02:44:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-07 01:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-01-07 02:55:35 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2025-01-07 02:07:15 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/glass_bells": {
-    "criteria": {
-      "has_bottle": "2025-01-07 01:49:39 +0000"
     },
     "done": true
   },
@@ -9313,12 +9415,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-01-07 02:55:35 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
@@ -9328,12 +9424,6 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
     },
     "done": true
   },
@@ -9349,39 +9439,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-07 01:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-01-07 01:01:56 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/light_wood_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-01-07 01:41:51 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/ghast_tear": {
-    "criteria": {
-      "has_ghast_tear": "2025-01-07 02:03:00 +0000"
     },
     "done": true
   },
@@ -9397,27 +9463,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-07 00:56:28 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-01-07 02:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
     },
     "done": true
   },
@@ -9427,57 +9475,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-01-07 02:24:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-01-07 03:05:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-07 01:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-01-07 01:09:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-01-07 02:39:39 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-01-07 01:09:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
     },
     "done": true
   },
@@ -9499,33 +9505,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-07 01:05:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-01-07 02:50:11 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-07 00:56:28 +0000"
     },
     "done": true
   },
@@ -9535,75 +9517,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-01-07 02:45:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
-    "criteria": {
-      "has_pumpkin_slice": "2025-01-07 01:40:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-07 00:59:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2025-01-07 02:39:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-07 02:39:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2025-01-07 02:39:39 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_table_classic": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-01-07 02:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-07 01:11:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-07 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-07 01:11:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-01-07 01:12:01 +0000"
     },
     "done": true
   },
@@ -9613,33 +9529,45 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/craft/wind_capture_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2025-01-07 01:49:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-01-07 01:41:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
-    "criteria": {
-      "has_pumpkin_slice": "2025-01-07 01:40:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-01-07 01:11:51 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-01-07 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-07 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-07 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-07 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-07 02:55:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-07 03:05:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-07 03:20:03 +0000"
     },
     "done": true
   },

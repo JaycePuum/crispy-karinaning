@@ -6485,87 +6485,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-01-07 02:42:28 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:barrel_success": {
-    "criteria": {
-      "barrel_success_0": "2025-01-07 00:53:58 +0000"
+      "has_item": "2025-01-07 00:35:15 +0000"
     },
     "done": true
   },
@@ -6575,27 +6497,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
     "criteria": {
-      "has_any_ingredient": "2025-01-07 02:26:59 +0000"
+      "has_anvil": "2025-01-07 00:52:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/conduit": {
+  "goblins_tyranny:barrel_success": {
     "criteria": {
-      "has_nautilus_shell": "2025-01-07 02:12:02 +0000"
+      "barrel_success_0": "2025-01-07 00:53:58 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
-      "lava_bucket": "2025-01-07 02:30:06 +0000"
+      "has_mangrove_roots": "2025-01-07 00:57:50 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/emerald_block": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+      "has_netherrack": "2025-01-07 00:59:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-01-07 01:18:48 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-07 01:25:03 +0000"
     },
     "done": true
   },
@@ -6611,12 +6545,6 @@
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2025-01-07 02:11:24 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-01-07 01:35:48 +0000"
@@ -6629,21 +6557,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
-      "has_netherrack": "2025-01-07 00:59:14 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/enchantments/enchantments/heavy": {
-    "criteria": {
-      "has_anvil": "2025-01-07 00:52:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2025-01-07 01:18:48 +0000"
+      "has_dragonscales_gray": "2025-01-07 01:35:48 +0000"
     },
     "done": true
   },
@@ -6653,21 +6569,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-01-07 01:35:48 +0000"
-    },
-    "done": true
-  },
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2025-01-07 02:04:24 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
-    "criteria": {
-      "has_emerald_block": "2025-01-07 02:42:28 +0000"
     },
     "done": true
   },
@@ -6677,33 +6581,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_mangrove_roots": "2025-01-07 00:57:50 +0000"
+      "has_wither_skeleton_skull": "2025-01-07 02:10:13 +0000"
     },
     "done": true
   },
-  "goblins_tyranny:bomb_success": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "bomb_success_0": "2025-01-07 01:25:03 +0000"
+      "factory": "2025-01-07 02:11:24 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+      "has_nautilus_shell": "2025-01-07 02:12:02 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_arrow": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "has_item": "2025-01-07 00:35:15 +0000"
+      "has_any_ingredient": "2025-01-07 02:26:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_prismarine_crystals": "2025-01-07 02:46:54 +0000"
+      "lava_bucket": "2025-01-07 02:30:06 +0000"
     },
     "done": true
   },
@@ -6713,9 +6617,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-01-07 02:10:13 +0000"
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-07 02:46:54 +0000"
     },
     "done": true
   },

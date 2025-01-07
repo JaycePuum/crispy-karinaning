@@ -6887,81 +6887,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-07 03:35:12 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-07 02:19:55 +0000"
+      "has_bone_block": "2025-01-07 00:42:25 +0000"
     },
     "done": true
   },
@@ -6971,15 +6899,27 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-07 02:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-01-07 02:18:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-07 02:19:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
     "criteria": {
-      "has_bone_block": "2025-01-07 00:42:25 +0000"
+      "has_planks": "2025-01-07 02:19:55 +0000"
     },
     "done": true
   },
@@ -7043,12 +6983,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-01-07 02:24:50 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-07 02:19:55 +0000"
@@ -7073,21 +7007,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-01-07 02:24:50 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-07 02:19:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-01-07 02:24:50 +0000"
     },
     "done": true
   },
@@ -7115,12 +7037,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-01-07 02:18:20 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/stripped_spruce_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-07 02:19:55 +0000"
@@ -7139,9 +7055,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_dried_kelp_block": "2025-01-07 02:18:20 +0000"
+      "has_raw_silver": "2025-01-07 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-07 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-07 02:24:50 +0000"
     },
     "done": true
   },
