@@ -1241,3 +1241,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 01:48:56.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
 [07Jan2025 01:49:26.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
 [07Jan2025 01:49:46.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
+[07Jan2025 01:57:13.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 475.500000, 63.500000, 276.500000]
+[07Jan2025 01:57:52.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jan2025 01:58:33.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jan2025 01:59:01.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k
+[07Jan2025 01:59:04.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 01:59:06.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> toi dejando mis cosa
+[07Jan2025 02:00:35.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 02:00:37.742] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[07Jan2025 02:01:16.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xd
+[07Jan2025 02:03:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has completed the challenge [Uneasy Alliance]
