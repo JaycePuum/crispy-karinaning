@@ -9583,6 +9583,12 @@
     },
     "done": true
   },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-01-07 04:22:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-01-07 04:13:18 +0000"

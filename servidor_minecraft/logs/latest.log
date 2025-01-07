@@ -1107,3 +1107,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 04:18:19.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon moved too quickly! 0.9165232236916836,-1.127890238205481,-9.98103056774653
 [07Jan2025 04:18:19.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! -9.819669401344527,0.0,-2.729632694128668
 [07Jan2025 04:18:39.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -959.700000, 77.830000, 3616.300000]
+[07Jan2025 04:22:51.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [You Monster!]
+[07Jan2025 04:24:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 04:28:29.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=46, z=4291} BlockPos{x=-172, y=47, z=4291}
+[07Jan2025 04:28:34.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Disconnected
+[07Jan2025 04:28:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
+[07Jan2025 04:28:43.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MotoMoto_7[/172.22.250.207:62670] logged in with entity id 49724 at (902.656108035836, 71.0, 4887.205524205307)
+[07Jan2025 04:28:43.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
