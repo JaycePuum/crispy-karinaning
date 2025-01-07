@@ -9593,6 +9593,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-01-07 02:36:05 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_spear": {
     "criteria": {
       "has_diamond_block": "2025-01-07 01:17:21 +0000"
