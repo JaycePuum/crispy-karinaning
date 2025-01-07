@@ -12911,3 +12911,43 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 05:29:44.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Soul Forge]
 [07Jan2025 05:30:05.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chizuru'/62, l='ServerLevel[world]', x=816.56, y=66.00, z=4850.29] died, message: 'Chizuru (Staying) was slain by Zombie'
 [07Jan2025 05:30:05.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chizuru'/62, l='ServerLevel[world]', x=816.56, y=66.00, z=4850.29] died: Chizuru (Staying) was slain by Zombie
+[07Jan2025 05:31:28.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Morihiro eres feliz?
+[07Jan2025 05:31:51.115] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:31:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [The Soul Forge]
+[07Jan2025 05:32:50.326] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[07Jan2025 05:33:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Morihiro que sabes de cepatito?
+[07Jan2025 05:33:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Morihiro, que sabes de este pueblo?
+[07Jan2025 05:33:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Morihiro alguna anecdota real de aqui?
+[07Jan2025 05:34:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Morihiro me haces descuento?
+[07Jan2025 05:34:21.296] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[07Jan2025 05:34:21.296] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:34:21.297] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:34:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Dale pues, porfa
+[07Jan2025 05:34:29.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 05:34:29.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 05:34:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Gracias Morihiro
+[07Jan2025 05:35:31.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> mi spawn
+[07Jan2025 05:35:38.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tengo k morir
+[07Jan2025 05:35:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 05:35:53.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[07Jan2025 05:36:09.905] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[07Jan2025 05:36:56.027] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:36:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [A Terrible Fortress]
+[07Jan2025 05:37:10.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 05:37:19.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[07Jan2025 05:37:19.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[07Jan2025 05:37:29.494] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[07Jan2025 05:38:18.080] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 05:38:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> dw
+[07Jan2025 05:38:31.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Into Fire]
+[07Jan2025 05:38:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was doomed to fall
+[07Jan2025 05:38:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tepeate
+[07Jan2025 05:38:52.675] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[07Jan2025 05:38:58.345] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[07Jan2025 05:38:58.478] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_0
+[07Jan2025 05:38:58.480] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:bastion/treasure/bases/centers/center_3 is being run through DFU (hash d094fc78bd492e5724194b333911b034e369b34e7c6cee074186061900f6a605), this will cause launch time delays
+[07Jan2025 05:38:59.531] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/ramparts/rampart_1
+[07Jan2025 05:38:59.534] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/rampart_plates/plate_0
+[07Jan2025 05:39:29.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 05:39:29.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 05:40:11.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Cover Me with Diamonds]
