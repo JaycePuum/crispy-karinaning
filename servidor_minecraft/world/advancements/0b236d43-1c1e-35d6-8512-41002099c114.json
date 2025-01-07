@@ -6971,6 +6971,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-07 02:24:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-07 02:19:55 +0000"
@@ -6995,9 +7001,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-07 02:24:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-07 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-07 02:24:50 +0000"
     },
     "done": true
   },
