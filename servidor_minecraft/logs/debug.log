@@ -13644,3 +13644,14 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 02:50:08.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xd
 [07Jan2025 02:52:12.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jan2025 02:52:12.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 02:57:12.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:57:12.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 02:59:05.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['TulioTrubiño'/233, l='ServerLevel[world]', x=886.83, y=66.00, z=4865.50] died, message: 'TulioTrubiño was grilled to perfection'
+[07Jan2025 02:59:05.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['TulioTrubiño'/233, l='ServerLevel[world]', x=886.83, y=66.00, z=4865.50] died: TulioTrubiño was grilled to perfection
+[07Jan2025 03:01:00.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Lorem Ipsum]
+[07Jan2025 03:01:24.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> el k no arriesga no gana
+[07Jan2025 03:01:26.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> raa
+[07Jan2025 03:01:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> esa cosa arruga cuando vea mi nuke
+[07Jan2025 03:02:12.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:02:12.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:05:23.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Splintering II]
