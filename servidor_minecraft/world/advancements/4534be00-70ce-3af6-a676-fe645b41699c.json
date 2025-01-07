@@ -6485,6 +6485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:barrel_success": {
     "criteria": {
       "barrel_success_0": "2025-01-07 00:53:58 +0000"
@@ -6512,6 +6518,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-07 02:30:06 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/emerald_block": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
     },
     "done": true
   },
@@ -6581,6 +6593,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/diffusion/diffusion/emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-07 02:10:13 +0000"
@@ -6599,9 +6617,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/diffusion/diffusion/deepslate_emerald_ore": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 02:42:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-01-07 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-07 02:46:54 +0000"
     },
     "done": true
   },
