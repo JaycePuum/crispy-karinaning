@@ -9140,5 +9140,11 @@
     },
     "done": true
   },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-07 00:52:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

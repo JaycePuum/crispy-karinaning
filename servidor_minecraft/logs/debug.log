@@ -11840,3 +11840,237 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 00:51:05.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [07Jan2025 00:51:05.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> pera
 [07Jan2025 00:51:13.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si creo
+[07Jan2025 00:51:51.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 00:51:51.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 00:52:50.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Bim Bam Boom !]
+[07Jan2025 00:52:52.352] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[07Jan2025 00:53:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has completed the challenge [Kinda Sus]
+[07Jan2025 00:56:22.525] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Jan2025 00:56:22.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[07Jan2025 00:56:22.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[07Jan2025 00:56:23.452] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[07Jan2025 00:56:27.808] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[07Jan2025 00:56:27.810] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[07Jan2025 00:56:27.815] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[07Jan2025 00:56:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Incendium]
+[07Jan2025 00:56:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [We Need to Go Deeper]
+[07Jan2025 00:56:28.308] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 00:56:28.309] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 00:56:28.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[07Jan2025 00:56:29.322] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[07Jan2025 00:56:29.561] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[07Jan2025 00:56:29.638] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[07Jan2025 00:56:29.660] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[07Jan2025 00:56:29.673] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[07Jan2025 00:56:29.679] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[07Jan2025 00:56:29.788] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[07Jan2025 00:56:29.833] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance_base
+[07Jan2025 00:56:29.844] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/walls/wall_base_0
+[07Jan2025 00:56:29.853] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/walls/wall_base_1
+[07Jan2025 00:56:29.874] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance
+[07Jan2025 00:56:29.885] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/ramparts/rampart_0
+[07Jan2025 00:56:29.899] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/bridge_pieces/bridge
+[07Jan2025 00:56:29.909] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance_face
+[07Jan2025 00:56:29.912] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/legs/leg_1
+[07Jan2025 00:56:30.264] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[07Jan2025 00:56:33.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/edge_0_large
+[07Jan2025 00:56:33.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_2
+[07Jan2025 00:56:33.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/wall_base
+[07Jan2025 00:56:33.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/fillers/stage_0
+[07Jan2025 00:56:33.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/rot/stage_1_0
+[07Jan2025 00:56:33.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_0
+[07Jan2025 00:56:33.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_wall_0
+[07Jan2025 00:56:33.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/connected_wall
+[07Jan2025 00:56:33.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_0
+[07Jan2025 00:56:33.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_1
+[07Jan2025 00:56:33.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_3
+[07Jan2025 00:56:33.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_1
+[07Jan2025 00:56:33.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_0
+[07Jan2025 00:56:33.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/rampart_plates/plate_0
+[07Jan2025 00:56:33.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_0
+[07Jan2025 00:56:33.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_3
+[07Jan2025 00:56:33.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_2
+[07Jan2025 00:56:33.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/edges/edge_0
+[07Jan2025 00:56:33.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_0
+[07Jan2025 00:56:33.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_0
+[07Jan2025 00:56:33.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_2
+[07Jan2025 00:56:33.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_1
+[07Jan2025 00:56:34.593] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/lava_basin
+[07Jan2025 00:56:34.598] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/entrances/entrance_0
+[07Jan2025 00:56:34.601] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_3
+[07Jan2025 00:56:34.603] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_2
+[07Jan2025 00:56:34.606] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_1
+[07Jan2025 00:56:34.608] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_1
+[07Jan2025 00:56:34.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/stairs/lower_stairs
+[07Jan2025 00:56:34.618] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_main
+[07Jan2025 00:56:34.625] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_side
+[07Jan2025 00:56:34.630] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_side
+[07Jan2025 00:56:34.637] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_main
+[07Jan2025 00:56:34.640] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_1
+[07Jan2025 00:56:34.641] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/tall_outer_wall
+[07Jan2025 00:56:34.642] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/outer_wall
+[07Jan2025 00:56:34.643] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/medium_outer_wall
+[07Jan2025 00:56:34.643] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_0
+[07Jan2025 00:56:34.644] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_0
+[07Jan2025 00:56:34.645] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_1
+[07Jan2025 00:56:34.645] [Worker-Main-3/DEBUG] [ModernFix/]: Structure minecraft:bastion/treasure/extensions/large_bridge_3 is being run through DFU (hash 61242bbde93a2989b3569264a7f8ff5f3440bdbd997a715944b10e51e9baf641), this will cause launch time delays
+[07Jan2025 00:56:34.830] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_2
+[07Jan2025 00:56:34.831] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/roofed_bridge
+[07Jan2025 00:56:34.833] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/center_roof
+[07Jan2025 00:56:34.838] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/fire_room
+[07Jan2025 00:56:34.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/top_wall
+[07Jan2025 00:56:34.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/bottom_wall_0
+[07Jan2025 00:56:34.851] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_0
+[07Jan2025 00:56:34.854] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/main_entrance
+[07Jan2025 00:56:34.856] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
+[07Jan2025 00:56:34.859] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_1
+[07Jan2025 00:56:34.861] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
+[07Jan2025 00:56:34.864] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_0
+[07Jan2025 00:56:34.866] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/lava_wall
+[07Jan2025 00:56:34.868] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/entrance_wall
+[07Jan2025 00:56:34.871] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_1
+[07Jan2025 00:56:34.872] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/wall_roof
+[07Jan2025 00:56:34.873] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_1
+[07Jan2025 00:56:34.874] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_0
+[07Jan2025 00:56:34.875] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_3
+[07Jan2025 00:56:34.876] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_0
+[07Jan2025 00:56:34.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_2
+[07Jan2025 00:56:34.877] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/corner_roof
+[07Jan2025 00:56:34.878] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_0
+[07Jan2025 00:56:34.887] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_1
+[07Jan2025 00:56:34.889] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_0
+[07Jan2025 00:56:35.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito moved too quickly! -6.769235435916244,5.773128844602937,-4.780621947494183
+[07Jan2025 00:56:35.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13007ms or 260 ticks behind
+[07Jan2025 00:56:38.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_1
+[07Jan2025 00:56:38.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_3
+[07Jan2025 00:56:38.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_1
+[07Jan2025 00:56:42.040] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/walls/wall_base
+[07Jan2025 00:56:42.042] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_4
+[07Jan2025 00:56:42.048] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/walls/side_wall_0
+[07Jan2025 00:56:42.055] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/ramparts/ramparts_3
+[07Jan2025 00:56:42.058] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/posts/end_post
+[07Jan2025 00:56:42.059] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/posts/stair_post
+[07Jan2025 00:56:42.061] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_1
+[07Jan2025 00:56:42.062] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_1
+[07Jan2025 00:56:42.065] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_2
+[07Jan2025 00:56:42.075] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/ramparts/ramparts_2
+[07Jan2025 00:56:42.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_0_mirrored
+[07Jan2025 00:56:42.083] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_1
+[07Jan2025 00:56:42.085] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_0
+[07Jan2025 00:56:42.086] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_3
+[07Jan2025 00:56:42.088] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_2
+[07Jan2025 00:56:42.090] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_1
+[07Jan2025 00:56:42.091] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_0
+[07Jan2025 00:56:42.093] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_4
+[07Jan2025 00:56:42.095] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_3
+[07Jan2025 00:56:42.097] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_2
+[07Jan2025 00:56:42.098] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_2
+[07Jan2025 00:56:42.101] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_1
+[07Jan2025 00:56:42.104] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_0
+[07Jan2025 00:56:42.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_3
+[07Jan2025 00:56:42.111] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_1
+[07Jan2025 00:56:42.114] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_3
+[07Jan2025 00:56:42.117] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_1
+[07Jan2025 00:56:42.120] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_2
+[07Jan2025 00:56:42.123] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_3
+[07Jan2025 00:56:42.128] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_4
+[07Jan2025 00:56:42.131] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_4
+[07Jan2025 00:56:42.134] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_4
+[07Jan2025 00:56:42.137] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_0
+[07Jan2025 00:56:42.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_2
+[07Jan2025 00:56:42.143] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_0
+[07Jan2025 00:56:42.145] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_2
+[07Jan2025 00:56:42.148] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_4
+[07Jan2025 00:56:42.162] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_3
+[07Jan2025 00:56:42.166] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_3
+[07Jan2025 00:56:44.514] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_7
+[07Jan2025 00:56:44.546] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[07Jan2025 00:56:45.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[07Jan2025 00:56:45.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[07Jan2025 00:56:45.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[07Jan2025 00:56:45.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[07Jan2025 00:56:45.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[07Jan2025 00:56:45.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[07Jan2025 00:56:45.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[07Jan2025 00:56:45.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[07Jan2025 00:56:45.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[07Jan2025 00:56:45.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[07Jan2025 00:56:45.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[07Jan2025 00:56:45.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[07Jan2025 00:56:45.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[07Jan2025 00:56:45.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[07Jan2025 00:56:45.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[07Jan2025 00:56:45.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[07Jan2025 00:56:45.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[07Jan2025 00:56:45.728] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[07Jan2025 00:56:45.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[07Jan2025 00:56:45.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[07Jan2025 00:56:45.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[07Jan2025 00:56:45.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[07Jan2025 00:56:45.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[07Jan2025 00:56:45.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[07Jan2025 00:56:45.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[07Jan2025 00:56:45.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[07Jan2025 00:56:45.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[07Jan2025 00:56:45.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[07Jan2025 00:56:45.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[07Jan2025 00:56:45.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[07Jan2025 00:56:45.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[07Jan2025 00:56:45.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[07Jan2025 00:56:45.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[07Jan2025 00:56:45.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[07Jan2025 00:56:45.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[07Jan2025 00:56:45.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[07Jan2025 00:56:50.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[07Jan2025 00:56:51.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[07Jan2025 00:56:51.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[07Jan2025 00:56:51.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[07Jan2025 00:56:51.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[07Jan2025 00:56:51.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[07Jan2025 00:56:51.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[07Jan2025 00:56:51.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[07Jan2025 00:56:52.742] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[07Jan2025 00:57:04.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 00:57:04.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 00:57:07.935] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[07Jan2025 00:57:07.952] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[07Jan2025 00:57:07.952] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[07Jan2025 00:58:56.433] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[07Jan2025 00:58:56.435] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 00:58:56.435] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 00:59:43.330] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[07Jan2025 00:59:43.344] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[07Jan2025 00:59:43.344] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[07Jan2025 01:00:38.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3174595564809124
+[07Jan2025 01:00:38.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7083911799759335
+[07Jan2025 01:00:38.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.12509522098037
+[07Jan2025 01:00:38.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.323281325167045
+[07Jan2025 01:00:39.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2799124353955449
+[07Jan2025 01:00:39.586] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[07Jan2025 01:00:39.587] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 01:00:39.588] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=856, y=68, z=4977} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[07Jan2025 01:01:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k
+[07Jan2025 01:01:12.055] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/portalroom
+[07Jan2025 01:01:12.057] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room6
+[07Jan2025 01:01:12.058] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway4
+[07Jan2025 01:01:12.058] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway2
+[07Jan2025 01:01:12.063] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway6
+[07Jan2025 01:01:12.064] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway5
+[07Jan2025 01:01:12.064] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway3
+[07Jan2025 01:01:12.065] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway1
+[07Jan2025 01:01:12.071] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room7
+[07Jan2025 01:01:12.073] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room5
+[07Jan2025 01:01:12.073] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room3
+[07Jan2025 01:01:12.076] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room9
+[07Jan2025 01:01:12.078] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/library
+[07Jan2025 01:01:12.080] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room2
+[07Jan2025 01:01:12.081] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room8
+[07Jan2025 01:01:12.083] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room1
+[07Jan2025 01:01:12.086] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room10
+[07Jan2025 01:01:12.088] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room4
+[07Jan2025 01:01:12.090] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/smeltery
+[07Jan2025 01:01:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> voy
+[07Jan2025 01:01:30.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Cyclops
+[07Jan2025 01:01:33.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[07Jan2025 01:01:33.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[07Jan2025 01:01:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [A Terrible Fortress]

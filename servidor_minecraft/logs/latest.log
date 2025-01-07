@@ -1059,3 +1059,28 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 00:51:05.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [07Jan2025 00:51:05.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> pera
 [07Jan2025 00:51:13.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si creo
+[07Jan2025 00:52:50.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Bim Bam Boom !]
+[07Jan2025 00:52:52.352] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[07Jan2025 00:53:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has completed the challenge [Kinda Sus]
+[07Jan2025 00:56:22.525] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[07Jan2025 00:56:27.808] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[07Jan2025 00:56:27.810] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[07Jan2025 00:56:27.815] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[07Jan2025 00:56:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Incendium]
+[07Jan2025 00:56:28.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [We Need to Go Deeper]
+[07Jan2025 00:56:28.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[07Jan2025 00:56:29.322] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[07Jan2025 00:56:30.264] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[07Jan2025 00:56:35.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito moved too quickly! -6.769235435916244,5.773128844602937,-4.780621947494183
+[07Jan2025 00:56:35.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13007ms or 260 ticks behind
+[07Jan2025 01:00:38.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3174595564809124
+[07Jan2025 01:00:38.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7083911799759335
+[07Jan2025 01:00:38.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.12509522098037
+[07Jan2025 01:00:38.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.323281325167045
+[07Jan2025 01:00:39.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2799124353955449
+[07Jan2025 01:01:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k
+[07Jan2025 01:01:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> voy
+[07Jan2025 01:01:30.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Cyclops
+[07Jan2025 01:01:33.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[07Jan2025 01:01:33.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[07Jan2025 01:01:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [A Terrible Fortress]

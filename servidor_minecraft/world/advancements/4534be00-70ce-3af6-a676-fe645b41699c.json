@@ -6480,6 +6480,24 @@
     },
     "done": true
   },
+  "goblins_tyranny:barrel_success": {
+    "criteria": {
+      "barrel_success_0": "2025-01-07 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-01-07 00:52:28 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-01-07 00:52:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-01-07 00:35:15 +0000"
