@@ -12801,3 +12801,709 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 02:02:27.664] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
 [07Jan2025 02:02:27.666] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_5
 [07Jan2025 02:03:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has completed the challenge [Uneasy Alliance]
+[07Jan2025 02:03:59.899] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[07Jan2025 02:03:59.901] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[07Jan2025 02:03:59.903] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_potions
+[07Jan2025 02:03:59.904] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tools
+[07Jan2025 02:03:59.907] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/r_anchor
+[07Jan2025 02:03:59.910] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[07Jan2025 02:03:59.911] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_food
+[07Jan2025 02:03:59.912] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_3
+[07Jan2025 02:03:59.912] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_redstone
+[07Jan2025 02:03:59.915] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/map
+[07Jan2025 02:03:59.917] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[07Jan2025 02:03:59.921] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[07Jan2025 02:03:59.922] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[07Jan2025 02:03:59.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[07Jan2025 02:03:59.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[07Jan2025 02:03:59.926] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[07Jan2025 02:03:59.927] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[07Jan2025 02:03:59.928] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[07Jan2025 02:03:59.930] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_5
+[07Jan2025 02:03:59.931] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[07Jan2025 02:03:59.932] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_5
+[07Jan2025 02:03:59.934] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[07Jan2025 02:03:59.935] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down
+[07Jan2025 02:03:59.938] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_1
+[07Jan2025 02:03:59.944] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[07Jan2025 02:04:00.122] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[07Jan2025 02:04:00.122] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_books
+[07Jan2025 02:04:00.123] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[07Jan2025 02:04:00.125] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[07Jan2025 02:04:00.127] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_melon
+[07Jan2025 02:04:00.128] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_wheat
+[07Jan2025 02:04:00.129] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils
+[07Jan2025 02:04:00.130] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[07Jan2025 02:04:00.130] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[07Jan2025 02:04:00.131] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_2
+[07Jan2025 02:04:00.132] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_diamonds
+[07Jan2025 02:04:00.133] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/prison
+[07Jan2025 02:04:00.136] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/archer
+[07Jan2025 02:04:00.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[07Jan2025 02:04:00.138] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[07Jan2025 02:04:00.139] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_beetroot
+[07Jan2025 02:04:00.139] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom
+[07Jan2025 02:04:00.140] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_pumpkin
+[07Jan2025 02:04:00.141] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[07Jan2025 02:04:00.142] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[07Jan2025 02:04:00.143] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/stews
+[07Jan2025 02:04:00.144] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[07Jan2025 02:04:00.145] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_1
+[07Jan2025 02:04:00.145] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_3
+[07Jan2025 02:04:00.146] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[07Jan2025 02:04:00.147] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[07Jan2025 02:04:00.147] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_smelting
+[07Jan2025 02:04:00.148] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_amethyst
+[07Jan2025 02:04:00.149] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_weapons
+[07Jan2025 02:04:00.149] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[07Jan2025 02:04:00.150] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_copper
+[07Jan2025 02:04:00.151] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_carrot
+[07Jan2025 02:04:00.152] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/copper
+[07Jan2025 02:04:00.152] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[07Jan2025 02:04:00.153] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/iron_golem
+[07Jan2025 02:04:00.154] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_lapis
+[07Jan2025 02:04:00.155] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_potato
+[07Jan2025 02:04:00.156] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/portal
+[07Jan2025 02:04:00.157] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_crafting
+[07Jan2025 02:04:01.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! 17.483998859602707,-2.454499090685431,3.9918608136385956
+[07Jan2025 02:04:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> acepta aaaa
+[07Jan2025 02:04:03.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
+[07Jan2025 02:04:11.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 02:04:24.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has reached the goal [When the Stew is Sus]
+[07Jan2025 02:04:42.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> ZZZZZZZZZZZZZZZZZZZZZ
+[07Jan2025 02:04:52.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[07Jan2025 02:05:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[07Jan2025 02:05:09.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> z
+[07Jan2025 02:05:09.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> z
+[07Jan2025 02:05:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> z
+[07Jan2025 02:05:10.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> z
+[07Jan2025 02:05:19.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[07Jan2025 02:05:24.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[07Jan2025 02:05:30.911] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=3419, y=67, z=5237}
+[07Jan2025 02:05:31.228] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of revampedvillages:desert/worker/church
+[07Jan2025 02:05:31.430] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[07Jan2025 02:05:31.548] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/sheep_1
+[07Jan2025 02:05:32.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3419, y=67, z=5238} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[07Jan2025 02:05:32.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=3419, y=67, z=5238}
+[07Jan2025 02:05:32.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3419, y=66, z=5238} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[07Jan2025 02:05:32.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=3419, y=66, z=5238}
+[07Jan2025 02:05:32.935] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3419, y=67, z=5237} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[07Jan2025 02:05:32.935] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=3419, y=67, z=5237}
+[07Jan2025 02:05:35.592] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_1
+[07Jan2025 02:05:35.593] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/down_5
+[07Jan2025 02:05:35.596] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[07Jan2025 02:05:35.601] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1_alt
+[07Jan2025 02:05:35.605] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_1
+[07Jan2025 02:05:35.609] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/pathlong_3
+[07Jan2025 02:05:35.612] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_alt
+[07Jan2025 02:05:35.614] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_1
+[07Jan2025 02:05:35.615] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_1_alt
+[07Jan2025 02:05:35.620] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/map
+[07Jan2025 02:05:35.622] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_bedroom_2
+[07Jan2025 02:05:35.624] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_fossils_2
+[07Jan2025 02:05:35.626] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_fossils
+[07Jan2025 02:05:35.627] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_brown_mushroom
+[07Jan2025 02:05:35.628] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_redstone
+[07Jan2025 02:05:35.630] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/prison
+[07Jan2025 02:05:35.632] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_amethyst
+[07Jan2025 02:05:35.633] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_fossils_1
+[07Jan2025 02:05:35.633] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_gold
+[07Jan2025 02:05:35.634] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_books
+[07Jan2025 02:05:35.635] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_copper
+[07Jan2025 02:05:35.636] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/portal
+[07Jan2025 02:05:35.638] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/iron_golem
+[07Jan2025 02:05:35.640] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_food
+[07Jan2025 02:05:35.641] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_smelting
+[07Jan2025 02:05:35.643] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/archer
+[07Jan2025 02:05:35.646] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/r_anchor
+[07Jan2025 02:05:35.647] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_iron
+[07Jan2025 02:05:35.649] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_crafting
+[07Jan2025 02:05:35.651] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/farm_melon
+[07Jan2025 02:05:35.653] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/farm_beetroot
+[07Jan2025 02:05:35.655] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/farm_wheat
+[07Jan2025 02:05:35.657] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_potions
+[07Jan2025 02:05:35.659] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/stews
+[07Jan2025 02:05:35.660] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_emerald
+[07Jan2025 02:05:35.660] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_lapis
+[07Jan2025 02:05:35.661] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_weapons
+[07Jan2025 02:05:35.662] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_red_mushroom
+[07Jan2025 02:05:35.663] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/copper
+[07Jan2025 02:05:35.665] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/camp
+[07Jan2025 02:05:35.666] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_armor
+[07Jan2025 02:05:35.667] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/potions
+[07Jan2025 02:05:35.669] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/music
+[07Jan2025 02:05:35.671] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_archer
+[07Jan2025 02:05:35.672] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_tnt
+[07Jan2025 02:05:35.673] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_prison
+[07Jan2025 02:05:35.674] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_rip
+[07Jan2025 02:05:35.676] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/farm_carrot
+[07Jan2025 02:05:35.678] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/farm_potato
+[07Jan2025 02:05:35.679] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_bedroom_3
+[07Jan2025 02:05:35.682] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_bedroom
+[07Jan2025 02:05:35.684] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_diamonds
+[07Jan2025 02:05:35.685] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_bedroom_1
+[07Jan2025 02:05:35.686] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/big_rooms/farm_pumpkin
+[07Jan2025 02:05:35.688] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_fossils_3
+[07Jan2025 02:05:35.688] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/room_tools
+[07Jan2025 02:05:35.810] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_crafting
+[07Jan2025 02:05:35.812] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_2
+[07Jan2025 02:05:35.813] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_2
+[07Jan2025 02:05:35.814] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_2
+[07Jan2025 02:05:35.818] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path
+[07Jan2025 02:05:35.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_5
+[07Jan2025 02:05:35.820] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_5
+[07Jan2025 02:05:35.822] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_1
+[07Jan2025 02:05:35.823] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_3
+[07Jan2025 02:05:35.825] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_4
+[07Jan2025 02:05:35.826] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down
+[07Jan2025 02:05:35.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_4
+[07Jan2025 02:05:35.830] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_3
+[07Jan2025 02:05:35.832] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_1
+[07Jan2025 02:05:35.949] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_potions
+[07Jan2025 02:05:35.950] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_gold
+[07Jan2025 02:05:35.952] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/stews
+[07Jan2025 02:05:35.953] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_rip
+[07Jan2025 02:05:35.954] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_lapis
+[07Jan2025 02:05:35.955] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/r_anchor
+[07Jan2025 02:05:35.956] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_books
+[07Jan2025 02:05:35.956] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_tools
+[07Jan2025 02:05:35.958] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/camp
+[07Jan2025 02:05:35.958] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_emerald
+[07Jan2025 02:05:35.959] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_amethyst
+[07Jan2025 02:05:35.960] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_brown_mushroom
+[07Jan2025 02:05:35.961] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_bedroom_2
+[07Jan2025 02:05:35.962] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_wheat
+[07Jan2025 02:05:35.963] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_beetroot
+[07Jan2025 02:05:35.964] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_bedroom_1
+[07Jan2025 02:05:35.965] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_redstone
+[07Jan2025 02:05:35.966] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/music
+[07Jan2025 02:05:35.967] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_fossils_3
+[07Jan2025 02:05:35.968] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_red_mushroom
+[07Jan2025 02:05:35.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_archer
+[07Jan2025 02:05:35.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/portal
+[07Jan2025 02:05:35.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/potions
+[07Jan2025 02:05:35.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_food
+[07Jan2025 02:05:35.973] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_fossils_1
+[07Jan2025 02:05:35.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/prison
+[07Jan2025 02:05:35.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_potato
+[07Jan2025 02:05:35.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/map
+[07Jan2025 02:05:35.978] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_prison
+[07Jan2025 02:05:35.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/archer
+[07Jan2025 02:05:35.980] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_weapons
+[07Jan2025 02:05:35.981] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_melon
+[07Jan2025 02:05:35.982] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/iron_golem
+[07Jan2025 02:05:35.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_iron
+[07Jan2025 02:05:35.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_smelting
+[07Jan2025 02:05:35.985] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_fossils
+[07Jan2025 02:05:35.985] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_copper
+[07Jan2025 02:05:35.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_carrot
+[07Jan2025 02:05:35.987] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_diamonds
+[07Jan2025 02:05:35.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_fossils_2
+[07Jan2025 02:05:35.988] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_bedroom
+[07Jan2025 02:05:35.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_armor
+[07Jan2025 02:05:35.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_tnt
+[07Jan2025 02:05:35.992] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_pumpkin
+[07Jan2025 02:05:35.994] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_bedroom_3
+[07Jan2025 02:05:35.997] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/copper
+[07Jan2025 02:05:36.530] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_2
+[07Jan2025 02:05:36.531] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/connector_1
+[07Jan2025 02:05:36.532] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_1_down_sculk
+[07Jan2025 02:05:36.534] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_2_down
+[07Jan2025 02:05:36.535] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_1
+[07Jan2025 02:05:36.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_1_down
+[07Jan2025 02:05:36.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_2_sculk
+[07Jan2025 02:05:36.540] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/connector_2
+[07Jan2025 02:05:36.542] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_2_down_sculk
+[07Jan2025 02:05:36.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/minecart/path_1_sculk
+[07Jan2025 02:06:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Deepling Brute
+[07Jan2025 02:07:10.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/down_5
+[07Jan2025 02:07:12.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:07:12.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 02:07:15.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Sunken City]
+[07Jan2025 02:07:29.080] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_copper is being run through DFU (hash de00cdb2f7d44facf284305aa28084e3f28e0fce41c6fe1f4059ba9e44a09423), this will cause launch time delays
+[07Jan2025 02:07:29.183] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn
+[07Jan2025 02:07:29.185] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_amethyst is being run through DFU (hash a06510462de47c1e37f27dbcd8954a7123f7baa9727d2b11d0449883a3c92df1), this will cause launch time delays
+[07Jan2025 02:07:29.202] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/stews is being run through DFU (hash d3b5139b9bf997632bb926b8cb5d2c05f4467c63c53c33a571c0b14b68aa84e8), this will cause launch time delays
+[07Jan2025 02:07:29.241] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_bedroom is being run through DFU (hash e250032d0013441a5f80a9d94eead48fa1fe2d26b0f7dd108eb4636550409af6), this will cause launch time delays
+[07Jan2025 02:07:29.261] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/archer is being run through DFU (hash 0495ff3067ecb622d47639e9a94a6f1c0f3da1a0d6f4186baeebc77848b2bb18), this will cause launch time delays
+[07Jan2025 02:07:29.298] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_food is being run through DFU (hash e00064b3544120f55ce60f4483eeadbe73f11b0dbea30d00aed5a3bb5a76aa1d), this will cause launch time delays
+[07Jan2025 02:07:29.382] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_weapons is being run through DFU (hash 71258053704470763037bf4574e6d088ab14f2f2f34a00cda29286b3226208b1), this will cause launch time delays
+[07Jan2025 02:07:29.392] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_fossils_1 is being run through DFU (hash 1e435eaebbb10a3cc3fa285c670e2aa087b477a7af5a7cfcc2c61224307b6c55), this will cause launch time delays
+[07Jan2025 02:07:29.401] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_red_mushroom is being run through DFU (hash 048c4aea003d781027b73b56a71fd49235d61492aeda31ba7edc4ea509cbad96), this will cause launch time delays
+[07Jan2025 02:07:29.408] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/map is being run through DFU (hash fd303014850757d00bbd03fe356b709f4183d80fb3b5e8624d278dae032f8a95), this will cause launch time delays
+[07Jan2025 02:07:29.418] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_lapis is being run through DFU (hash 74216955cf0a2070434215f6f1d049923f40bad2d83fbd608c1deb9db5a5323c), this will cause launch time delays
+[07Jan2025 02:07:29.423] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_rip is being run through DFU (hash af34d6118c83f7df191ecbec10496d87b1619667b0d3530d3663d52c7df07a02), this will cause launch time delays
+[07Jan2025 02:07:29.430] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/farm_beetroot is being run through DFU (hash 199080484e9755105b8762236988a6e3f091bdb19e1487df0c5a3e3ffadb4bc6), this will cause launch time delays
+[07Jan2025 02:07:29.437] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_armor is being run through DFU (hash a12b0f588b8c282e02bdf8371bc2142e8f1366c298909cc92b7ea9cd0453306a), this will cause launch time delays
+[07Jan2025 02:07:29.553] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/copper is being run through DFU (hash fb259d1d1fb7b234001620a47b27f8e93cb92a2fd0bfc4a1a5609a94d42218b5), this will cause launch time delays
+[07Jan2025 02:07:29.559] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_smelting is being run through DFU (hash 67b7cfc9cc3309e707a1330e9bcff483a4e7e3974368fa03e3558eb6f1da7033), this will cause launch time delays
+[07Jan2025 02:07:29.565] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/camp is being run through DFU (hash 1ca034dc3f7bb173eb712bfd56fd482b0ce7797d08dfbe43f4ffc2d546ec46a9), this will cause launch time delays
+[07Jan2025 02:07:29.570] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_crafting is being run through DFU (hash 8e324c1871d20164a850738e362608a9276225f6eed36e171b2a717aadcf5ec9), this will cause launch time delays
+[07Jan2025 02:07:29.574] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_fossils_3 is being run through DFU (hash d2d270ef5e3a84ab99fedf7f3215bc026d198f6fa01bcae30315c600fa7311c2), this will cause launch time delays
+[07Jan2025 02:07:29.578] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/iron_golem is being run through DFU (hash f0c1fbba4c777c494516d7cf38fe90eaf64a9a6c00c6d0fcb03b6492d20480ba), this will cause launch time delays
+[07Jan2025 02:07:29.584] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_diamonds is being run through DFU (hash d1cc0e7d190d5432fbaff62be8dbdaec228224b883f712ed32227a2aa501ea24), this will cause launch time delays
+[07Jan2025 02:07:29.588] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_gold is being run through DFU (hash b7aae176fa1e9a4b4ce5d8ae24069ae165bd57aef67b1d7dc05066165d701436), this will cause launch time delays
+[07Jan2025 02:07:29.591] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_tools is being run through DFU (hash e8cf82d78fde47d07d30a58917cd2bcc5661cc0f255d94575dfec51b00a1c91b), this will cause launch time delays
+[07Jan2025 02:07:29.595] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_bedroom_1 is being run through DFU (hash 23c00b98e5be850692a3e253a8b45d0ea5983a47b2ded54cb9ec69148a574947), this will cause launch time delays
+[07Jan2025 02:07:29.600] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_redstone is being run through DFU (hash 598fd2506232dee92e2bf53461166533f52fd1149e6cbae2f315f157434fbee3), this will cause launch time delays
+[07Jan2025 02:07:29.603] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/prison is being run through DFU (hash 00840f1c94cf3bae575a4042ef72c2d38403e74d5679be12e7d7931feed7c8e1), this will cause launch time delays
+[07Jan2025 02:07:29.622] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_brown_mushroom is being run through DFU (hash 4d53b4f50f37046749d0bc23eac8b06af4d39c9311bf480469224b9aaca5f48b), this will cause launch time delays
+[07Jan2025 02:07:29.626] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/farm_carrot is being run through DFU (hash f74388bc305e78b036e7177a5e6357cdb73bb939ab56375c7596791b89785f56), this will cause launch time delays
+[07Jan2025 02:07:29.632] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_fossils_2 is being run through DFU (hash 593e627dc188627985be61203e087db2b7964050c1738b8cc9c1ea53edae1e95), this will cause launch time delays
+[07Jan2025 02:07:29.636] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_books is being run through DFU (hash 9fe215e058765f4455f0399555b4dcd33031178c4904cd638311a3b502eeff89), this will cause launch time delays
+[07Jan2025 02:07:29.641] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/portal is being run through DFU (hash 4b7666e46d14d119ba8903bd706c2cdb74577a60ea9f773e6d2cbd64a233d935), this will cause launch time delays
+[07Jan2025 02:07:29.649] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_bedroom_2 is being run through DFU (hash 44bebe70383d2efb9a67f24701d670cee09c15880bf1a4fd02e44425f4d76c50), this will cause launch time delays
+[07Jan2025 02:07:29.654] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/farm_wheat is being run through DFU (hash d334fef9e93caa6a64bc848ef066e08b249bd7b7eae2508990224eee2aaa8094), this will cause launch time delays
+[07Jan2025 02:07:29.660] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/r_anchor is being run through DFU (hash a25d2fadde0531404910e1f4ded67b6bda20559e468f8634e59a0d3e7c043576), this will cause launch time delays
+[07Jan2025 02:07:29.665] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_prison is being run through DFU (hash 3bb2215748fbc41c61a351371e51e6520f931aa72eccde33266f76ea7824e109), this will cause launch time delays
+[07Jan2025 02:07:29.668] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_iron is being run through DFU (hash 17b51a94759ff1a9850103ff8b78ee1eacb86155368538e7c4ae4eb8ddbdc4ce), this will cause launch time delays
+[07Jan2025 02:07:29.672] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_fossils is being run through DFU (hash 7cd24b6df45acb6e7f9287a42fe582ed44a8e043dcc5792a38c605c7d9c2fa1a), this will cause launch time delays
+[07Jan2025 02:07:29.676] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/music is being run through DFU (hash 58cdf87a992513fa1ac1cdf325fe5e8cc5e9c55ac2e87b2c976001d5fc26f068), this will cause launch time delays
+[07Jan2025 02:07:29.682] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_tnt is being run through DFU (hash 8bf1aff481e7376b8659405f033ffa618c8f1360b2f10070fb111f8bb0898338), this will cause launch time delays
+[07Jan2025 02:07:29.686] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_archer is being run through DFU (hash 7ec3c97e00e827a6a9c53338b7877b39f122e49f5d8513ab654056d06542e541), this will cause launch time delays
+[07Jan2025 02:07:29.689] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_bedroom_3 is being run through DFU (hash ac50d12633ec7edbb3dd0b81d0d8dc9de223c8ec3da92bc1b5064fc327329f7c), this will cause launch time delays
+[07Jan2025 02:07:29.695] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/farm_pumpkin is being run through DFU (hash 813f85b2ebc02333fee2b89b3c1ae92a4335fcb2e075451c82f2aa79e7f415f3), this will cause launch time delays
+[07Jan2025 02:07:29.703] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_potions is being run through DFU (hash 29f6ed05840f193a3d8a361688d14ae2794a0678a2374df6083e1f407d24fb7c), this will cause launch time delays
+[07Jan2025 02:07:29.710] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/potions is being run through DFU (hash d233540ba798f7642a8bd96578a1b32cdc30363c044ea97113d1cd8300c092ff), this will cause launch time delays
+[07Jan2025 02:07:29.739] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/farm_melon is being run through DFU (hash e77344d50edd20605cbbda6711e4eb8c4e24db62cb2cc0fd07b8df52d15e0443), this will cause launch time delays
+[07Jan2025 02:07:29.748] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/room_emerald is being run through DFU (hash d1cd5f8c8c1d77869e876d8e84c24d5667d2c527e453cccca8e5c60df1ca94d6), this will cause launch time delays
+[07Jan2025 02:07:29.753] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/big_rooms/farm_potato is being run through DFU (hash fb86ede91a72acffe1459d4d94b453249cfc02b9d286d00b8473513bab1a1bc1), this will cause launch time delays
+[07Jan2025 02:07:29.790] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/down_4
+[07Jan2025 02:07:29.792] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_4
+[07Jan2025 02:07:29.793] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_alt
+[07Jan2025 02:07:29.794] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1_alt
+[07Jan2025 02:07:29.795] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_alt
+[07Jan2025 02:07:29.795] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_1
+[07Jan2025 02:07:29.796] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_5
+[07Jan2025 02:07:29.796] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/down_2
+[07Jan2025 02:07:29.797] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_1_alt
+[07Jan2025 02:07:29.797] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1
+[07Jan2025 02:07:29.798] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn_2
+[07Jan2025 02:07:29.798] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_1
+[07Jan2025 02:07:29.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_2
+[07Jan2025 02:07:29.800] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_3
+[07Jan2025 02:07:29.801] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/down_3
+[07Jan2025 02:07:30.298] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/connector_2 is being run through DFU (hash f4cb74217d383dfc74f4219cb2c3b8d47a32db1372e22131c56f1276a03c5ab1), this will cause launch time delays
+[07Jan2025 02:07:30.354] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_1_down is being run through DFU (hash 13abdc2ede37281a323a7eb718482aa1f994eff01719c27b6b466835f1e82982), this will cause launch time delays
+[07Jan2025 02:07:30.359] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_2 is being run through DFU (hash 0a36f0779630b9235a5394e1e3fd412cd2edfbbd8538fc503f50eb6a874da3ed), this will cause launch time delays
+[07Jan2025 02:07:30.365] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_1_sculk is being run through DFU (hash 9e86dd1af084ba7672a0a26f2e50c3a2cbf249af99047058e3d270481ae093c2), this will cause launch time delays
+[07Jan2025 02:07:30.371] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_2_sculk is being run through DFU (hash 90dcf05f801559592c4a6e068020977a9b792f79cdaaa17a297e6702b1214f8c), this will cause launch time delays
+[07Jan2025 02:07:30.427] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_2_down_sculk is being run through DFU (hash e86179320c23d8203a57cb773040a9a46bc27587e1efd9e53f69905f61658292), this will cause launch time delays
+[07Jan2025 02:07:30.433] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_2_down is being run through DFU (hash 6129e1bfd1c2dc99fabbb837fea7032d0e14ef143d29d437dca9b0a3419f10b7), this will cause launch time delays
+[07Jan2025 02:07:30.439] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_1_down_sculk is being run through DFU (hash 6923955b2313208f1cb578f5d01e533693fb0d4823fa584bd41e02ddb21971d5), this will cause launch time delays
+[07Jan2025 02:07:30.443] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/connector_1 is being run through DFU (hash 0eb0759acc05807c65b15c9d6fbb23e89c4fca63ab7be483ab90349569f3143c), this will cause launch time delays
+[07Jan2025 02:07:30.450] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/minecart/path_1 is being run through DFU (hash 00809d9de49fe5e4f851c9ea2358b5b4d793efc7a6397f21dc046772af217687), this will cause launch time delays
+[07Jan2025 02:08:28.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Jungle Fliers]
+[07Jan2025 02:08:32.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.7130488576560972
+[07Jan2025 02:08:56.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was impaled by Deepling
+[07Jan2025 02:08:57.887] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn_1
+[07Jan2025 02:09:12.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> w
+[07Jan2025 02:09:22.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.6868715860070002
+[07Jan2025 02:09:23.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.808605530446568
+[07Jan2025 02:09:25.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Deepling Brute
+[07Jan2025 02:09:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca hay bestias
+[07Jan2025 02:09:45.041] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[07Jan2025 02:09:52.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8292258197744606
+[07Jan2025 02:09:52.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8298249273543604
+[07Jan2025 02:09:53.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 17.243660423269375,-13.353425238260357,-2.2118365130500024
+[07Jan2025 02:09:53.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 9.88273360932999,-6.6758084804154265,-0.956986857121592
+[07Jan2025 02:09:53.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 9.882482632136544,-6.702275390562903,-0.9643189262105807
+[07Jan2025 02:09:53.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 9.055356934871725,-6.5277902667530725,-0.9706378006076193
+[07Jan2025 02:09:53.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 8.228035996424751,-6.373894387552795,-0.9825299222238755
+[07Jan2025 02:10:09.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.44001199684883435
+[07Jan2025 02:10:10.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.6505998419287755
+[07Jan2025 02:10:11.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was impaled by Deepling
+[07Jan2025 02:10:13.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Spooky Scary Skeleton]
+[07Jan2025 02:10:22.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was impaled by Deepling
+[07Jan2025 02:10:23.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 126.94471210129404,10.127460555911142,-63.086705295915635
+[07Jan2025 02:10:23.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 126.84726950556296,10.425460558891373,-63.0971428007897
+[07Jan2025 02:10:23.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 126.66388254039748,10.688296561519934,-63.11678618496171
+[07Jan2025 02:10:24.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -2.039060304095983,10.252753154155755,4.347322620781597
+[07Jan2025 02:10:24.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -2.2222871746689634,10.252753154155755,4.326238133805418
+[07Jan2025 02:10:24.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -2.4812508040431567,10.252753154155755,4.296438381979897
+[07Jan2025 02:10:24.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -2.8070142546798706,10.252753154155755,4.258951766557402
+[07Jan2025 02:10:24.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -3.1916951476700888,10.252753154155755,4.214685337442461
+[07Jan2025 02:10:24.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -3.6283412248162676,10.252753154155755,4.164439112650143
+[07Jan2025 02:10:24.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -3.7256987543451032,10.154753154155756,4.1532358783379095
+[07Jan2025 02:10:24.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -3.9089256249180835,10.06831715415575,4.132151391361731
+[07Jan2025 02:10:24.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -4.167889254292277,9.992080602155752,4.102351639536209
+[07Jan2025 02:10:24.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -4.265246783821112,9.992080602155752,4.091148405223976
+[07Jan2025 02:10:24.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -4.448473654394093,9.992080602155752,4.070063918247797
+[07Jan2025 02:10:24.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -4.707437283768286,9.992080602155752,4.040264166422276
+[07Jan2025 02:10:24.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -5.033200734405,9.992080602155752,4.002777550999781
+[07Jan2025 02:10:24.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -5.417881627395218,9.992080602155752,3.9585111218848397
+[07Jan2025 02:10:24.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -5.854527704541397,9.992080602155752,3.908264897092522
+[07Jan2025 02:10:24.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -5.951885234070232,9.894080602155753,3.8970616627802883
+[07Jan2025 02:10:24.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -6.135112104643213,9.807644602155747,3.8759771758041097
+[07Jan2025 02:10:24.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -6.394075734017406,9.73140805015575,3.846177423978588
+[07Jan2025 02:10:24.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -6.71983918465412,9.664167411291743,3.8086908085560935
+[07Jan2025 02:10:24.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -7.104520077644338,9.604861167813695,3.7644243794411523
+[07Jan2025 02:10:24.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -7.541166154790517,9.55255306106605,3.7141781546488346
+[07Jan2025 02:10:25.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -7.6385236843193525,9.45455306106605,3.702974920336601
+[07Jan2025 02:10:25.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -7.821750554892333,9.368117061066044,3.6818904333604223
+[07Jan2025 02:10:25.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -7.919108084421168,9.368117061066044,3.6706871990481886
+[07Jan2025 02:10:25.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -8.102334954994149,9.368117061066044,3.64960271207201
+[07Jan2025 02:10:25.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -8.361298584368342,9.368117061066044,3.6198029602464885
+[07Jan2025 02:10:25.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -8.687062035005056,9.368117061066044,3.582316344823994
+[07Jan2025 02:10:25.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -9.071742927995274,9.368117061066044,3.5380499157090526
+[07Jan2025 02:10:25.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -9.508389005141453,9.368117061066044,3.487803690916735
+[07Jan2025 02:10:25.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -9.990868374713045,9.368117061066044,3.4322832863381336
+[07Jan2025 02:10:25.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -10.51377270820376,9.368117061066044,3.372111055186906
+[07Jan2025 02:10:25.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -11.07233185987161,9.368117061066044,3.307835912999508
+[07Jan2025 02:10:25.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -11.662338561171055,9.368117061066044,3.239942003277065
+[07Jan2025 02:10:25.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.280082001246228,9.368117061066044,3.1688563405896275
+[07Jan2025 02:10:25.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.922289244921103,9.368117061066044,3.0949555517872795
+[07Jan2025 02:10:25.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -13.586073563370974,9.368117061066044,3.018571821750811
+[07Jan2025 02:10:25.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -14.268797779077431,9.368117061066044,2.93923310102673
+[07Jan2025 02:10:25.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -14.968062663808269,9.368117061066044,2.856020889714273
+[07Jan2025 02:10:25.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -15.681771438660235,9.368117061066044,2.7683689652194516
+[07Jan2025 02:10:25.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -16.40818249243739,9.368117061066044,2.676550279206822
+[07Jan2025 02:10:25.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -17.14579695622615,9.368117061066044,2.581056509536211
+[07Jan2025 02:10:26.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -17.893292827645382,9.368117061066044,2.4823213160789237
+[07Jan2025 02:10:26.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -18.64950410059464,9.368117061066044,2.3807271868417956
+[07Jan2025 02:10:26.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -125.59653198983915,-11.304923745583949,63.23430343199652
+[07Jan2025 02:10:26.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8202323315253439
+[07Jan2025 02:10:26.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8202323315253439
+[07Jan2025 02:10:27.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8288638727096176
+[07Jan2025 02:10:27.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8288638727096176
+[07Jan2025 02:10:27.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8288638727096176
+[07Jan2025 02:11:04.668] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[07Jan2025 02:11:04.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabone
+[07Jan2025 02:11:20.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Deepling
+[07Jan2025 02:11:20.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca hay un sacerdote
+[07Jan2025 02:11:22.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.830161041817306
+[07Jan2025 02:11:23.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8303135822624209
+[07Jan2025 02:11:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Sunken City]
+[07Jan2025 02:11:26.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 50.46159417980766,-6.041977350263281,2.3639612131582908
+[07Jan2025 02:11:26.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 49.72325259969466,-6.041977350263281,2.303406335393447
+[07Jan2025 02:11:26.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 48.97735840117548,-6.041977350263281,2.224693175620814
+[07Jan2025 02:11:26.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 48.225718672860694,-6.041977350263281,2.126757337021445
+[07Jan2025 02:11:26.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 47.46939394860533,-5.8419773472830485,2.010638066356478
+[07Jan2025 02:11:30.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 60.139784356520295,0.7286514527857548,4.324443784134019
+[07Jan2025 02:11:30.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 59.309349749795274,0.7286514527857548,4.323222383473876
+[07Jan2025 02:11:30.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 58.47891403445192,0.7286514527857548,4.322000982813734
+[07Jan2025 02:11:30.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 57.64847734130717,0.7286514527857548,4.320779582153591
+[07Jan2025 02:11:30.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 56.818039785741576,0.7286514527857548,4.3195581814934485
+[07Jan2025 02:11:30.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 55.987601469520996,0.7286514527857548,4.318336780833306
+[07Jan2025 02:11:30.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 55.157162482402555,0.7286514527857548,4.317115380173163
+[07Jan2025 02:11:30.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 54.32672290355208,0.7286514527857548,4.315893979513021
+[07Jan2025 02:11:30.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 53.49628280279421,0.7286514527857548,4.314672578852878
+[07Jan2025 02:11:30.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 52.66584224171379,0.7286514527857548,4.313451178192736
+[07Jan2025 02:11:31.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 51.83540127462902,0.7286514527857548,4.312229777532593
+[07Jan2025 02:11:31.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 51.00495994944822,0.7286514527857548,4.311008376872451
+[07Jan2025 02:11:31.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 50.17451830842697,0.7286514527857548,4.309786976212308
+[07Jan2025 02:11:31.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 49.34407638883431,0.7286514527857548,4.308565575552166
+[07Jan2025 02:11:31.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 48.51363422354166,0.7286514527857548,4.307344174892023
+[07Jan2025 02:11:31.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 47.68319184154166,0.7286514527857548,4.306122774231881
+[07Jan2025 02:11:31.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 46.85274926840589,0.7286514527857548,4.304901373571738
+[07Jan2025 02:11:31.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 46.022306526688226,0.7286514527857548,4.3036799729115955
+[07Jan2025 02:11:31.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 45.19186363628137,0.7286514527857548,4.302458572251453
+[07Jan2025 02:11:31.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 44.361420614730605,0.7286514527857548,4.3012371715913105
+[07Jan2025 02:11:31.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 43.53097747751099,0.7286514527857548,4.300015770931168
+[07Jan2025 02:11:31.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 42.7005342382713,0.7286514527857548,4.298794370271025
+[07Jan2025 02:11:31.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 41.87009090905008,0.7286514527857548,4.297572969610883
+[07Jan2025 02:11:31.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 41.03964750046498,0.7286514527857548,4.29635156895074
+[07Jan2025 02:11:31.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 40.20920402188108,0.7286514527857548,4.295130168290598
+[07Jan2025 02:11:31.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 39.378760481558174,0.7286514527857548,4.293908767630455
+[07Jan2025 02:11:31.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 38.54831688678155,0.7286514527857548,4.292687366970313
+[07Jan2025 02:11:31.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 37.717873243976555,0.7286514527857548,4.29146596631017
+[07Jan2025 02:11:31.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 36.88742955881071,0.7286514527857548,4.290244565650028
+[07Jan2025 02:11:31.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 36.05698583628259,0.7286514527857548,4.289023164989885
+[07Jan2025 02:11:32.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 35.226542080800755,0.7286514527857548,4.287801764329743
+[07Jan2025 02:11:32.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 34.39609829625397,0.7286514527857548,4.2865803636696
+[07Jan2025 02:11:32.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 33.56565448607171,0.7286514527857548,4.2853589630094575
+[07Jan2025 02:11:32.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 32.73521065327918,0.7286514527857548,4.284137562349315
+[07Jan2025 02:11:32.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 31.904766800544166,0.7286514527857548,4.282916161689172
+[07Jan2025 02:11:32.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 31.074322930219978,0.7286514527857548,4.28169476102903
+[07Jan2025 02:11:32.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 30.24387904438231,0.7286514527857548,4.280473360368887
+[07Jan2025 02:11:32.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 29.413435144861523,0.7286514527857548,4.279251959708745
+[07Jan2025 02:11:32.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 28.582991233272423,0.7286514527857548,4.278030559048602
+[07Jan2025 02:11:32.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 27.752547311038825,0.7286514527857548,4.27680915838846
+[07Jan2025 02:11:32.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 26.922103379416967,0.7286514527857548,4.275587757728317
+[07Jan2025 02:11:32.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 26.091659439514615,0.7286514527857548,4.274366357068175
+[07Jan2025 02:11:32.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 25.261215492308793,0.7286514527857548,4.273144956408032
+[07Jan2025 02:11:32.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 24.430771538661475,0.7286514527857548,4.27192355574789
+[07Jan2025 02:11:32.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 23.600327579332543,0.7286514527857548,4.270702155087747
+[07Jan2025 02:11:32.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 22.769883614992523,0.7286514527857548,4.2694807544276046
+[07Jan2025 02:11:32.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 21.939439646232813,0.7286514527857548,4.268259353767462
+[07Jan2025 02:11:32.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 21.108995673574782,0.7286514527857548,4.2670379531073195
+[07Jan2025 02:11:32.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 20.278551697478633,0.7286514527857548,4.265816552447177
+[07Jan2025 02:11:32.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 19.448107718349775,0.7286514527857548,4.264595151787034
+[07Jan2025 02:11:33.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 18.61766373654632,0.7286514527857548,4.263373751126892
+[07Jan2025 02:11:33.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 17.787219752383862,0.7286514527857548,4.262152350466749
+[07Jan2025 02:11:33.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 16.95677576614048,0.7286514527857548,4.260930949806607
+[07Jan2025 02:11:33.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 16.126331778061967,0.7286514527857548,4.259709549146464
+[07Jan2025 02:11:33.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 15.29588778836478,0.7286514527857548,4.258488148486322
+[07Jan2025 02:11:33.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 14.465443797240141,0.7286514527857548,4.257266747826179
+[07Jan2025 02:11:33.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 13.634999804856307,0.7286514527857548,4.256045347166037
+[07Jan2025 02:11:33.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 12.804555811361752,0.7286514527857548,4.254823946505894
+[07Jan2025 02:11:33.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 11.974111816887671,0.7286514527857548,4.253602545845752
+[07Jan2025 02:11:33.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 11.143667821549798,0.7286514527857548,4.252381145185609
+[07Jan2025 02:11:33.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 10.313223825449768,0.7286514527857548,4.2511597445254665
+[07Jan2025 02:11:33.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 9.482779828677621,0.7286514527857548,4.249938343865324
+[07Jan2025 02:11:37.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 62.4508324888111,3.6421287176297312,-1.3630558510803894
+[07Jan2025 02:11:37.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 62.4508324888111,3.6421287176297312,-1.3630558510803894
+[07Jan2025 02:11:37.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 62.4508324888111,3.6421287176297312,-1.3630558510803894
+[07Jan2025 02:11:37.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 62.4508324888111,3.6421287176297312,-1.3630558510803894
+[07Jan2025 02:11:37.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 109.92022643741643,-2.1998486296533173,0.6475822152760884
+[07Jan2025 02:11:37.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 109.09240345704188,-2.1998486296533173,0.5849472190666347
+[07Jan2025 02:11:37.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 108.26493538776617,-2.1998486296533173,0.5182479372924718
+[07Jan2025 02:11:37.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 107.43793920301982,-2.1998486296533173,0.4466866023340117
+[07Jan2025 02:11:37.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 106.61146231858606,-2.1998486296533173,0.3700734259755336
+[07Jan2025 02:11:37.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 105.78555255999618,-2.1998486296533173,0.2882418503095323
+[07Jan2025 02:11:37.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 104.96018023856232,-2.1998486296533173,0.20155671196425828
+[07Jan2025 02:11:37.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 104.13528193670027,-2.1998486296533173,0.11059073133674246
+[07Jan2025 02:11:37.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 103.31080172010047,-2.1998486296533173,0.015849047815208905
+[07Jan2025 02:11:37.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 102.4866902547019,-2.1998486296533173,-0.08222280565860274
+[07Jan2025 02:11:37.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 101.66290402786285,-2.1998486296533173,-0.18323186903035094
+[07Jan2025 02:11:37.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 100.83932950200028,-2.1998486296533173,-0.2863202883527265
+[07Jan2025 02:11:37.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 100.01541513059055,-2.1998486296533173,-0.3869154049016288
+[07Jan2025 02:11:37.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 99.19080591873512,-2.1998486296533173,-0.47967927535501076
+[07Jan2025 02:11:37.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 98.36550077158995,-2.1998486296533173,-0.5616849216303308
+[07Jan2025 02:11:37.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 97.53961693882889,-2.1998486296533173,-0.6313834405027592
+[07Jan2025 02:11:37.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 96.71327617036536,-2.1998486296533173,-0.688687132990708
+[07Jan2025 02:11:37.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 95.88654350636261,-2.1998486296533173,-0.7348051507742639
+[07Jan2025 02:11:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 95.05946519049417,-2.1998486296533173,-0.7710574034681486
+[07Jan2025 02:11:38.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 94.2320820096802,-2.1998486296533173,-0.7986080513528577
+[07Jan2025 02:11:38.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 93.40442993798433,-2.1998486296533173,-0.8184838837969437
+[07Jan2025 02:11:38.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 92.57654070453054,-2.1998486296533173,-0.8315905290210139
+[07Jan2025 02:11:38.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 91.74844229440623,-2.1998486296533173,-0.8387267511179743
+[07Jan2025 02:11:38.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved wrongly! 0.8294972547764901
+[07Jan2025 02:11:39.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ACA
+[07Jan2025 02:11:39.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -21.56271627784463,-12.782596894280672,-3.046514938450855
+[07Jan2025 02:11:39.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Deepling Angler
+[07Jan2025 02:11:39.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -22.392010020492762,-12.689464379157002,-3.0754131000348934
+[07Jan2025 02:11:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -21.56265162140653,-12.806046436716741,-3.051681387395547
+[07Jan2025 02:11:39.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -20.733388180022075,-12.888189315055811,-3.02036196759218
+[07Jan2025 02:11:39.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -21.562624895691897,-12.815739296360746,-3.0538169371457116
+[07Jan2025 02:11:39.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -22.39183803928131,-12.7518383798717,-3.0891554615782297
+[07Jan2025 02:11:39.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -23.221030392295916,-12.69547777152836,-3.1261552814139577
+[07Jan2025 02:11:39.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -24.050204408023546,-12.645767714969537,-3.1646203637956205
+[07Jan2025 02:11:39.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -24.879362250263966,-12.601923445084651,-3.2043778077431853
+[07Jan2025 02:11:39.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -25.708505827488807,-12.563252799046182,-3.245275114591095
+[07Jan2025 02:11:40.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -26.537636822969716,-12.529145289240248,-3.2871777805175952
+[07Jan2025 02:11:40.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -27.366756721352658,-12.499062465591422,-3.32996717315109
+[07Jan2025 02:11:40.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -28.195866832095135,-12.472529415133152,-3.373538658740472
+[07Jan2025 02:11:40.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -29.024968310138775,-12.449127264628956,-3.417799950317203
+[07Jan2025 02:11:40.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -29.854104996385104,-12.428486567884264,-3.46190040197871
+[07Jan2025 02:11:40.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -30.683402517278637,-12.41028147335544,-3.5012479891156545
+[07Jan2025 02:11:40.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -31.511585002202764,-12.394224579981014,-3.5203009814104007
+[07Jan2025 02:11:40.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -32.335612340550824,-12.38006240002477,-3.507975263165463
+[07Jan2025 02:11:40.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -33.1540524415816,-12.367571357303362,-3.4623959527871193
+[07Jan2025 02:11:40.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -33.9673836780953,-12.356554257623088,-3.387012962112749
+[07Jan2025 02:11:40.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -34.775545814316956,-12.346837175705076,-3.2836741823730335
+[07Jan2025 02:11:40.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -35.57784193417183,-12.338266709453393,-3.152601103592133
+[07Jan2025 02:11:40.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -70.15477721570414,-12.15197871103608,0.637450830871785
+[07Jan2025 02:11:40.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -70.94539767403626,-12.145311539647707,0.8187599991351817
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -69.35850893134648,-12.159537862270057,0.48005442214980576
+[07Jan2025 02:11:40.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 22.389933363059754,-14.359386491923374,-0.3586723289681686
+[07Jan2025 02:11:40.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 21.60508703909818,-14.153506043778592,-0.15466216334425553
+[07Jan2025 02:11:41.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! -12.42335717146102,7.3957289153772905,-1.6240617433313673
+[07Jan2025 02:11:41.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 9.18172986763716,-6.757777128401301,-1.7787239066756229
+[07Jan2025 02:11:41.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 8.578694377483089,-6.706043904758019,-1.2755310279699188
+[07Jan2025 02:11:41.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of EdrianferXD10) moved too quickly! 7.958841974487768,-6.660415201504634,-0.7885364162921178
+[07Jan2025 02:12:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tepeate a mi p
+[07Jan2025 02:12:04.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Deepling
+[07Jan2025 02:12:12.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:12:12.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 02:12:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Deepling Brute
+[07Jan2025 02:13:53.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was impaled by Deepling Brute
+[07Jan2025 02:14:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Sunken City]
+[07Jan2025 02:14:04.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ya lo encontre

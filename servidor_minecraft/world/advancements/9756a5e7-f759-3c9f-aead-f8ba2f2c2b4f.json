@@ -9491,6 +9491,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-07 02:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-07 01:21:02 +0000"
@@ -9545,6 +9551,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-07 02:10:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-07 02:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-01-07 01:10:33 +0000"
@@ -9587,9 +9605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-07 02:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-07 02:10:00 +0000"
     },
     "done": true
   },
