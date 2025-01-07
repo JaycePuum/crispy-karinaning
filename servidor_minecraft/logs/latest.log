@@ -1220,3 +1220,25 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 05:38:34.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was doomed to fall
 [07Jan2025 05:38:40.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tepeate
 [07Jan2025 05:40:11.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Cover Me with Diamonds]
+[07Jan2025 05:45:36.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [The Dust Settles]
+[07Jan2025 05:45:44.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> a k
+[07Jan2025 05:46:43.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
+[07Jan2025 05:46:43.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[07Jan2025 05:47:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jan2025 05:47:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jan2025 05:47:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jan2025 05:47:53.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon lost connection: Disconnected
+[07Jan2025 05:47:53.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon left the game
+[07Jan2025 05:47:53.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Server closed
+[07Jan2025 05:47:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
+[07Jan2025 05:47:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jan2025 05:47:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jan2025 05:47:54.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jan2025 05:47:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jan2025 05:47:54.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jan2025 05:47:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jan2025 05:47:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jan2025 05:47:54.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jan2025 05:47:55.014] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jan2025 05:47:55.016] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jan2025 05:47:55.017] [Server thread/INFO] [Framework/]: Finished unloading server configs
