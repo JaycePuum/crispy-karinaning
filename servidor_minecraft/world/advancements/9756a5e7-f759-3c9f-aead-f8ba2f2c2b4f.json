@@ -6923,6 +6923,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-05 01:04:10 +0000",
+      "minecraft:soul_sand_valley": "2025-01-07 01:08:50 +0000",
       "minecraft:warped_forest": "2025-01-05 01:15:54 +0000"
     },
     "done": false
@@ -9486,6 +9487,180 @@
   "pfm:recipes/building_blocks/jungle_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-01-06 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:21:02 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_throwing_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_javelin": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cod": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:21:02 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_scythe": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_nunchaku": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-01-07 01:10:33 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_plate_shield": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_hammer": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_sword": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_spear": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_dagger": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_round_shield": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_leggings": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_helmet": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_shovel": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_battle_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:21:02 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_claw": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:21:02 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/diamond_machete": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-01-07 01:17:21 +0000"
     },
     "done": true
   },

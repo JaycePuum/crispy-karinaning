@@ -1084,3 +1084,102 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 01:01:33.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
 [07Jan2025 01:01:33.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [07Jan2025 01:01:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [A Terrible Fortress]
+[07Jan2025 01:02:05.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Cyclops
+[07Jan2025 01:02:21.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[07Jan2025 01:04:11.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2screentracker/screen/packets/ScreenType
+[07Jan2025 01:05:46.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.41394898927592294
+[07Jan2025 01:05:46.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7905940834016292
+[07Jan2025 01:05:46.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.0
+[07Jan2025 01:05:47.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.33273170302737326
+[07Jan2025 01:06:15.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22779, l='ServerLevel[world]', x=342.73, y=-20.00, z=751.61] died: Restless Spirit was killed
+[07Jan2025 01:06:15.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22782, l='ServerLevel[world]', x=338.81, y=-20.00, z=740.47] died: Restless Spirit was killed
+[07Jan2025 01:06:15.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22784, l='ServerLevel[world]', x=341.52, y=-20.00, z=742.02] died: Restless Spirit was killed
+[07Jan2025 01:06:15.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22786, l='ServerLevel[world]', x=342.60, y=-20.00, z=742.29] died: Restless Spirit was killed
+[07Jan2025 01:06:22.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22891, l='ServerLevel[world]', x=352.81, y=-20.00, z=742.47] died: Restless Spirit was killed
+[07Jan2025 01:06:22.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22893, l='ServerLevel[world]', x=355.52, y=-20.00, z=744.02] died: Restless Spirit was killed
+[07Jan2025 01:06:22.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22895, l='ServerLevel[world]', x=356.60, y=-20.00, z=744.29] died: Restless Spirit was killed
+[07Jan2025 01:06:22.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22908, l='ServerLevel[world]', x=356.24, y=-20.00, z=753.32] died: Restless Spirit was killed
+[07Jan2025 01:06:22.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22911, l='ServerLevel[world]', x=357.65, y=-20.00, z=760.83] died: Restless Spirit was killed
+[07Jan2025 01:06:22.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22914, l='ServerLevel[world]', x=355.70, y=-20.00, z=764.56] died: Restless Spirit was killed
+[07Jan2025 01:06:22.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22917, l='ServerLevel[world]', x=357.16, y=-20.00, z=765.04] died: Restless Spirit was killed
+[07Jan2025 01:06:22.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22919, l='ServerLevel[world]', x=354.52, y=-20.00, z=756.12] died: Restless Spirit was killed
+[07Jan2025 01:06:52.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2523970862519256
+[07Jan2025 01:07:06.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07Jan2025 01:07:06.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7694346892439247
+[07Jan2025 01:07:25.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[07Jan2025 01:07:40.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was doomed to fall by Phantom
+[07Jan2025 01:08:05.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ontas
+[07Jan2025 01:08:53.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:62747] logged in with entity id 26886 at (786.5758879842949, 67.0, 4897.752921989625)
+[07Jan2025 01:08:53.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[07Jan2025 01:08:53.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[07Jan2025 01:09:14.607] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[07Jan2025 01:09:14.608] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[07Jan2025 01:09:14.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[07Jan2025 01:09:19.021] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/OnIsPoweredResult
+[07Jan2025 01:09:44.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[07Jan2025 01:09:44.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[07Jan2025 01:09:44.077] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[07Jan2025 01:09:48.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Creeper
+[07Jan2025 01:09:50.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1048, y=20, z=5270} BlockPos{x=-1048, y=19, z=5270}
+[07Jan2025 01:10:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:10:02.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[07Jan2025 01:10:11.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was incinerated by Fire Dragon
+[07Jan2025 01:10:15.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[07Jan2025 01:10:27.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[07Jan2025 01:10:36.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was incinerated by Fire Dragon
+[07Jan2025 01:11:01.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:11:06.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[07Jan2025 01:11:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:11:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:11:46.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:11:51.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Into Fire]
+[07Jan2025 01:11:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[07Jan2025 01:12:05.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:12:12.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was turned into KFC by Fire Dragon
+[07Jan2025 01:12:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was incinerated by Fire Dragon
+[07Jan2025 01:12:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[07Jan2025 01:12:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[07Jan2025 01:13:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[07Jan2025 01:13:10.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was incinerated by Fire Dragon
+[07Jan2025 01:13:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x2
+[07Jan2025 01:14:45.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> no veo nd
+[07Jan2025 01:15:09.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si era :v
+[07Jan2025 01:16:03.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was shot by Skeleton
+[07Jan2025 01:17:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[07Jan2025 01:17:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ya
+[07Jan2025 01:17:42.497] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-1147, y=73, z=5531}
+[07Jan2025 01:17:42.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[07Jan2025 01:18:22.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Timed out
+[07Jan2025 01:18:22.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[07Jan2025 01:18:22.156] [Netty Epoll Server IO #6/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda$24915/0x00007a2bd2ba1ee0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md4b5d96$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md4b5d96$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[07Jan2025 01:18:22.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jan2025 01:20:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> onta p
+[07Jan2025 01:21:12.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:59764] logged in with entity id 36967 at (784.1298908270661, 76.0625, 4897.997299977748)
+[07Jan2025 01:21:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game

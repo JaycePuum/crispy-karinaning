@@ -1411,6 +1411,7 @@
       "minecraft:creeper": "2025-01-01 22:01:20 +0000",
       "minecraft:slime": "2025-01-05 03:19:24 +0000",
       "minecraft:evoker": "2025-01-06 05:44:04 +0000",
+      "minecraft:phantom": "2025-01-07 01:07:48 +0000",
       "minecraft:zombified_piglin": "2025-01-05 04:15:05 +0000",
       "minecraft:witch": "2025-01-06 05:43:46 +0000",
       "minecraft:wither_skeleton": "2025-01-05 03:24:49 +0000",
@@ -9140,9 +9141,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:05:35 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cod": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:05:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/yellow_shower_towel": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-07 01:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-07 01:02:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_yellow": {
+    "criteria": {
+      "oak_chair_classic_yellow": "2025-01-07 01:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-07 01:02:30 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:bomb_success": {
     "criteria": {
       "bomb_success_0": "2025-01-07 00:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-01-07 01:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-07 01:05:35 +0000"
     },
     "done": true
   },
