@@ -43,10 +43,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-01-08 02:27:09 +0000",
       "log_spam_fixer": "2025-01-04 01:58:05 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -9701,6 +9700,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-08 02:37:01 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-01-08 02:20:44 +0000"
@@ -9710,6 +9715,12 @@
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-01-08 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-08 02:37:01 +0000"
     },
     "done": true
   },
@@ -9734,6 +9745,12 @@
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2025-01-08 02:22:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-08 02:37:01 +0000"
     },
     "done": true
   },

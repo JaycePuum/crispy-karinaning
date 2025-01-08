@@ -12071,3 +12071,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 02:24:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Splintering II]
 [08Jan2025 02:27:09.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 02:27:09.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:32:09.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:32:09.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:34:03.812] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[08Jan2025 02:34:03.847] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[08Jan2025 02:34:03.870] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[08Jan2025 02:34:03.877] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[08Jan2025 02:34:03.926] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[08Jan2025 02:37:09.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:37:09.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
