@@ -12061,3 +12061,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 02:17:02.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
 [08Jan2025 02:17:09.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 02:17:09.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:19:00.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Mayor]
+[08Jan2025 02:20:44.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [A Burning Arena]
+[08Jan2025 02:21:56.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Imperfect thing]
+[08Jan2025 02:22:09.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:22:09.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:22:42.730] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[08Jan2025 02:24:13.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by DarkMoon
+[08Jan2025 02:24:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Splintering II]
+[08Jan2025 02:27:09.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:27:09.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

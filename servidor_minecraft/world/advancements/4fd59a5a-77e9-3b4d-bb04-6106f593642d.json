@@ -9670,6 +9670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-08 02:18:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-08 00:36:04 +0000"
@@ -9706,6 +9712,12 @@
     },
     "done": true
   },
+  "mca:baby_sirben_smelted": {
+    "criteria": {
+      "baby": "2025-01-08 02:19:00 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
     "criteria": {
       "forge:dyes/blue": "2025-01-08 00:36:04 +0000"
@@ -9721,6 +9733,12 @@
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-01-08 00:30:18 +0000"
+    },
+    "done": true
+  },
+  "mca:mayor": {
+    "criteria": {
+      "baby": "2025-01-08 02:19:00 +0000"
     },
     "done": true
   },

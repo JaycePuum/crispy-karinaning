@@ -7155,6 +7155,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-08 02:24:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
     "criteria": {
       "has_ash_bricks": "2025-01-08 01:58:57 +0000"
