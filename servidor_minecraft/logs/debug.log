@@ -12098,3 +12098,51 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 02:47:37.381] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/rampart_plates/plate_0
 [08Jan2025 02:47:37.382] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/legs/leg_0
 [08Jan2025 02:47:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Dust Settles]
+[08Jan2025 02:48:50.805] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[08Jan2025 02:48:50.806] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[08Jan2025 02:48:50.806] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[08Jan2025 02:48:50.807] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[08Jan2025 02:48:50.808] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[08Jan2025 02:48:50.808] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[08Jan2025 02:48:50.809] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[08Jan2025 02:48:50.809] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[08Jan2025 02:48:50.810] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[08Jan2025 02:48:50.811] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[08Jan2025 02:48:50.811] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[08Jan2025 02:48:50.813] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[08Jan2025 02:48:50.813] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[08Jan2025 02:48:50.816] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[08Jan2025 02:48:50.818] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[08Jan2025 02:48:50.819] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[08Jan2025 02:48:50.821] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[08Jan2025 02:48:50.822] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[08Jan2025 02:48:50.823] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[08Jan2025 02:49:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 45 [Oak Wood] to ErickJaeger]
+[08Jan2025 02:49:25.246] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_0
+[08Jan2025 02:49:38.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:49:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:49:43.506] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jan2025 02:50:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:50:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Into Fire]
+[08Jan2025 02:51:07.450] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[08Jan2025 02:51:08.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[08Jan2025 02:51:40.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> como estan
+[08Jan2025 02:52:09.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:52:09.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:52:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:52:38.174] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jan2025 02:53:29.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/63961, l='ServerLevel[world]', x=866.32, y=-20.00, z=1616.80] died: Toxic Slime was killed
+[08Jan2025 02:55:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:55:15.057] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jan2025 02:56:06.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:56:11.288] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jan2025 02:56:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:56:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:56:57.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/65282, l='ServerLevel[world]', x=847.59, y=-20.00, z=1635.51] died: Toxic Slime was killed
+[08Jan2025 02:57:02.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Spooky Scary Skeleton]
+[08Jan2025 02:57:09.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:57:09.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:58:01.312] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[08Jan2025 02:58:35.981] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=875, y=66, z=4947} in minecraft:overworld
+[08Jan2025 02:58:35.981] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 19600
+[08Jan2025 02:58:35.983] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems

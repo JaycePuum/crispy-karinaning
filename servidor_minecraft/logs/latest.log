@@ -179,3 +179,22 @@
 [08Jan2025 02:47:24.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Hellish Paradise]
 [08Jan2025 02:47:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Floor is Tears]
 [08Jan2025 02:47:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Dust Settles]
+[08Jan2025 02:49:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 45 [Oak Wood] to ErickJaeger]
+[08Jan2025 02:49:38.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:49:41.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:50:12.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:50:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Into Fire]
+[08Jan2025 02:51:07.450] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[08Jan2025 02:51:08.653] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[08Jan2025 02:51:40.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> como estan
+[08Jan2025 02:52:34.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:53:29.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/63961, l='ServerLevel[world]', x=866.32, y=-20.00, z=1616.80] died: Toxic Slime was killed
+[08Jan2025 02:55:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:56:06.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Wither Skeleton
+[08Jan2025 02:56:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:56:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:56:57.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/65282, l='ServerLevel[world]', x=847.59, y=-20.00, z=1635.51] died: Toxic Slime was killed
+[08Jan2025 02:57:02.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Spooky Scary Skeleton]
+[08Jan2025 02:58:35.981] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=875, y=66, z=4947} in minecraft:overworld
+[08Jan2025 02:58:35.981] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 19600
+[08Jan2025 02:58:35.983] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
