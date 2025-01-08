@@ -259,3 +259,30 @@
 [08Jan2025 03:26:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Spooky Scary Skeleton]
 [08Jan2025 03:26:43.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Spooky Scary Skeleton]
 [08Jan2025 03:28:32.633] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Jan2025 03:29:33.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Withering Heights]
+[08Jan2025 03:30:05.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [A Seedy Place]
+[08Jan2025 03:36:00.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:36:37.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:36:38.309] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[08Jan2025 03:36:46.944] [Worker-Main-83/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[08Jan2025 03:36:54.707] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[08Jan2025 03:36:54.742] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[08Jan2025 03:36:57.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yuhi'/69348, l='ServerLevel[world]', x=836.50, y=67.00, z=4883.72] died, message: 'Yuhi was slain by Zombie'
+[08Jan2025 03:37:11.132] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.146] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.147] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.147] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.147] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.148] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.150] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.150] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.150] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.152] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.160] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.162] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.163] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:11.166] [Worker-Main-82/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[08Jan2025 03:37:45.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miwako'/75272, l='ServerLevel[world]', x=883.37, y=64.00, z=4881.47] died, message: 'Miwako was slain by Zombie'
+[08Jan2025 03:38:00.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Sea Serpent
+[08Jan2025 03:39:17.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Sea Serpent
+[08Jan2025 03:39:23.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]

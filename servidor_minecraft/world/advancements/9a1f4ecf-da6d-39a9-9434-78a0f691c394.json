@@ -9865,6 +9865,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-08 03:34:26 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
       "poison": "2025-01-08 03:07:05 +0000"

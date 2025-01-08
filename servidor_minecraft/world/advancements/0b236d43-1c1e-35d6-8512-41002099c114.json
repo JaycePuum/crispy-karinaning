@@ -2129,7 +2129,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-01-04 03:52:05 +0000"
+      "sweet_berries": "2025-01-04 03:52:05 +0000",
+      "nether_wart": "2025-01-08 03:30:05 +0000"
     },
     "done": false
   },
@@ -7237,6 +7238,12 @@
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-01-08 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-01-08 03:30:05 +0000"
     },
     "done": true
   },
