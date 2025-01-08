@@ -107,3 +107,32 @@
 [08Jan2025 01:36:53.585] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [08Jan2025 01:36:53.585] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
 [08Jan2025 01:36:53.585] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[08Jan2025 01:37:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 01:38:14.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Hidden in the Depths]
+[08Jan2025 01:38:33.121] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[08Jan2025 01:38:39.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[08Jan2025 01:38:47.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2506, y=69, z=-943} but found not block entity block Block{minecraft:grass_block}[snowy=false] at location
+[08Jan2025 01:38:47.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:grass_block}[snowy=false] but failed at location BlockPos{x=2506, y=69, z=-943}
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2509, y=71, z=-944} but found not block entity block Block{minecraft:air} at location
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2509, y=71, z=-944}
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2510, y=71, z=-944} but found not block entity block Block{minecraft:air} at location
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2510, y=71, z=-944}
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2508, y=71, z=-944} but found not block entity block Block{minecraft:tall_grass}[half=upper] at location
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:tall_grass}[half=upper] but failed at location BlockPos{x=2508, y=71, z=-944}
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2506, y=69, z=-939} but found not block entity block Block{minecraft:dirt} at location
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=2506, y=69, z=-939}
+[08Jan2025 01:38:47.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2508, y=71, z=-938} but found not block entity block Block{minecraft:dandelion} at location
+[08Jan2025 01:38:47.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:dandelion} but failed at location BlockPos{x=2508, y=71, z=-938}
+[08Jan2025 01:38:47.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2509, y=71, z=-938} but found not block entity block Block{minecraft:tall_grass}[half=lower] at location
+[08Jan2025 01:38:47.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:tall_grass}[half=lower] but failed at location BlockPos{x=2509, y=71, z=-938}
+[08Jan2025 01:38:47.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2510, y=71, z=-938} but found not block entity block Block{minecraft:grass} at location
+[08Jan2025 01:38:47.301] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:grass} but failed at location BlockPos{x=2510, y=71, z=-938}
+[08Jan2025 01:40:52.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! 2.7865745819080985,-3.713788283718685,8.883676246500272
+[08Jan2025 01:40:52.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
+[08Jan2025 01:46:04.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Hydra]
+[08Jan2025 01:46:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 01:46:45.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[08Jan2025 01:46:45.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[08Jan2025 01:46:45.490] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[08Jan2025 01:46:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 34 [Bread] to ErickJaeger]
+[08Jan2025 01:47:26.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
