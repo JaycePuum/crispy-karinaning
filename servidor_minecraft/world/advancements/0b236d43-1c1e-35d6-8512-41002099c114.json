@@ -7133,6 +7133,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-08 03:43:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-08 02:43:37 +0000"
@@ -7178,6 +7184,12 @@
   "mca:noble": {
     "criteria": {
       "baby": "2025-01-08 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-08 03:43:56 +0000"
     },
     "done": true
   },
@@ -7244,6 +7256,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-01-08 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-08 03:43:56 +0000"
     },
     "done": true
   },
