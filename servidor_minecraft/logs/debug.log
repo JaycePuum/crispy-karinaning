@@ -10806,3 +10806,27 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 23:44:15.088] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars1
 [08Jan2025 23:44:15.090] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars2
 [08Jan2025 23:44:15.090] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:lamp1
+[08Jan2025 23:48:56.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:48:56.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:49:19.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-721, y=65, z=4943} BlockPos{x=-721, y=63, z=4942}
+[08Jan2025 23:51:56.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[08Jan2025 23:51:56.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[08Jan2025 23:51:56.179] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[08Jan2025 23:52:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Fire Dragon
+[08Jan2025 23:52:18.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[08Jan2025 23:52:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Fire Dragon
+[08Jan2025 23:53:14.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Fire Dragon
+[08Jan2025 23:53:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Fire Dragon
+[08Jan2025 23:53:54.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Zombie
+[08Jan2025 23:53:56.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:53:56.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:54:11.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Jan2025 23:54:11.926] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[08Jan2025 23:54:11.926] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[08Jan2025 23:54:11.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was blown up by Creeper
+[08Jan2025 23:54:32.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Spider
+[08Jan2025 23:54:55.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Zombie
+[08Jan2025 23:56:06.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Jan2025 23:56:41.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was shot by Skeleton
+[08Jan2025 23:57:26.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Fire Dragon
+[08Jan2025 23:57:46.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was incinerated by Fire Dragon
