@@ -50,3 +50,13 @@
 [08Jan2025 00:59:55.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [08Jan2025 01:01:06.878] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [08Jan2025 01:04:46.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 01:09:21.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 01:10:10.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Jan2025 01:12:23.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2screentracker/screen/packets/ScreenType
+[08Jan2025 01:13:26.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:56760] logged in with entity id 15214 at (31.336238592801077, 20.0, 1002.6999999880791)
+[08Jan2025 01:13:26.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[08Jan2025 01:13:26.620] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[08Jan2025 01:15:35.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon lost connection: Disconnected
+[08Jan2025 01:15:35.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon left the game
+[08Jan2025 01:15:43.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:49556] logged in with entity id 16143 at (838.8671537315898, 60.0, 4851.732875287092)
+[08Jan2025 01:15:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
