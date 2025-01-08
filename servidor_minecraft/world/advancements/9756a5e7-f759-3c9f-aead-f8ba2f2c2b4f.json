@@ -9912,6 +9912,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:droblin_success": {
+    "criteria": {
+      "droblin_success_0": "2025-01-08 04:03:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-08 01:18:05 +0000"

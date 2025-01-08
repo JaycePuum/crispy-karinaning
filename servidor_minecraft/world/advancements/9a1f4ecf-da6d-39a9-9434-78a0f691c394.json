@@ -4960,6 +4960,7 @@
       "brown_mushroom": "2025-01-04 04:05:33 +0000",
       "sugar_cane": "2025-01-07 03:11:12 +0000",
       "potato": "2025-01-05 02:10:37 +0000",
+      "nether_wart": "2025-01-08 03:48:14 +0000",
       "carrot": "2025-01-05 02:10:33 +0000"
     },
     "done": false
@@ -9869,6 +9870,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/eternium_nugget": {
+    "criteria": {
+      "has_explosion_shard": "2025-01-08 04:04:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-01-08 03:44:06 +0000"
@@ -9913,6 +9920,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:droblin_success": {
+    "criteria": {
+      "droblin_success_0": "2025-01-08 03:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-01-08 02:47:22 +0000"
@@ -9931,6 +9944,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/renew/ancient_debris": {
+    "criteria": {
+      "has_explosion_shard": "2025-01-08 04:04:30 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_table_classic": {
     "criteria": {
       "stone_table_classic": "2025-01-08 03:43:40 +0000"
@@ -9940,6 +9959,12 @@
   "l2complements:recipes/burnt/burnt/soul_sand": {
     "criteria": {
       "has_soul_sand": "2025-01-08 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-08 04:03:33 +0000"
     },
     "done": true
   },
@@ -9988,6 +10013,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/explosion_reject": {
+    "criteria": {
+      "has_explosion_shard": "2025-01-08 04:04:30 +0000"
     },
     "done": true
   },
@@ -10090,6 +10121,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-08 03:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-01-08 03:48:14 +0000"
     },
     "done": true
   },
