@@ -9682,6 +9682,12 @@
     },
     "done": true
   },
+  "mca:noble": {
+    "criteria": {
+      "baby": "2025-01-08 01:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-01-08 00:36:04 +0000"
