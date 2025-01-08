@@ -9634,5 +9634,23 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/birch_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-08 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-01-08 00:04:44 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-01-08 00:05:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

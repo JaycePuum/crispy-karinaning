@@ -1,2 +1,5 @@
 [08Jan2025 00:04:34.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
 [08Jan2025 00:05:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [This is Goblin Musk]
+[08Jan2025 00:10:12.491] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[08Jan2025 00:10:13.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Jan2025 00:10:13.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
