@@ -6,3 +6,10 @@
 [08Jan2025 00:21:26.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [08Jan2025 00:21:26.722] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [08Jan2025 00:21:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[08Jan2025 00:27:23.406] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[08Jan2025 00:34:24.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:58080] logged in with entity id 5243 at (1215.5695880482012, 73.0, 259.5468041859086)
+[08Jan2025 00:34:24.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[08Jan2025 00:34:56.797] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[08Jan2025 00:35:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 00:35:41.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[08Jan2025 00:35:48.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Generated structure "minecraft:ocean_ruin_warm" at 1287, 127, 140]
