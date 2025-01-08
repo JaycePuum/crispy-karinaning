@@ -10492,3 +10492,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [07Jan2025 23:52:47.590] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [07Jan2025 23:53:24.263] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
 [07Jan2025 23:53:24.263] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[07Jan2025 23:56:35.541] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[07Jan2025 23:56:52.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 23:56:52.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 23:58:09.167] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[08Jan2025 00:01:52.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 00:01:52.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 00:04:34.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[08Jan2025 00:05:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [This is Goblin Musk]
