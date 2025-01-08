@@ -144,3 +144,18 @@
 [08Jan2025 01:57:06.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
 [08Jan2025 01:57:06.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
 [08Jan2025 01:57:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Hydra
+[08Jan2025 01:59:23.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Hydra
+[08Jan2025 02:00:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Hydra
+[08Jan2025 02:00:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:00:28.849] [Worker-Main-82/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[08Jan2025 02:01:44.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
+[08Jan2025 02:01:44.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[08Jan2025 02:01:49.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:02:41.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 02:03:11.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 02:03:28.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 02:03:47.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 02:04:06.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 02:04:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 02:05:41.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:54514] logged in with entity id 45257 at (25.30000001192093, 6.0, 1509.1118576970696)
+[08Jan2025 02:05:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game

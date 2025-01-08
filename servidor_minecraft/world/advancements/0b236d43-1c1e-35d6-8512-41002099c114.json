@@ -7119,9 +7119,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick_wall": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-08 01:58:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_stairs": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-08 01:58:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_stairs_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-08 01:58:57 +0000"
+    },
+    "done": true
+  },
   "mca:noble": {
     "criteria": {
       "baby": "2025-01-08 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_slab": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-08 01:58:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-08 01:58:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_slab_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-08 01:58:57 +0000"
     },
     "done": true
   },
