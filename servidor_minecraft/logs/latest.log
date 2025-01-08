@@ -4353,3 +4353,27 @@
 [08Jan2025 04:32:55.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
 [08Jan2025 04:32:55.321] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Jan2025 04:40:05.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has completed the challenge [Monarch]
+[08Jan2025 04:43:05.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> ya emilio este es el plan
+[08Jan2025 04:43:14.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> Estas
+[08Jan2025 04:43:17.885] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[08Jan2025 04:43:17.885] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[08Jan2025 04:43:23.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS lost connection: Disconnected
+[08Jan2025 04:43:23.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
+[08Jan2025 04:43:28.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> Ya casi acabo el tunel bajo la casa de Edrianfer pa roberme a ese perro :v
+[08Jan2025 04:45:11.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Local Brewery]
+[08Jan2025 04:46:34.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
+[08Jan2025 04:46:34.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[08Jan2025 04:46:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Jan2025 04:46:38.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2025 04:46:38.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2025 04:46:38.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2025 04:46:38.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2025 04:46:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jan2025 04:46:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jan2025 04:46:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 04:46:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2025 04:46:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 04:46:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jan2025 04:46:38.854] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Jan2025 04:46:38.856] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Jan2025 04:46:38.857] [Server thread/INFO] [Framework/]: Finished unloading server configs
