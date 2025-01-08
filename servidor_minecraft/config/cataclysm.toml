@@ -268,13 +268,13 @@
 	HarbingerDamageMultiplier = 14.0
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealingMultiplier = 8.0
+	HarbingerHealingMultiplier = 4.0
 	#Harbinger's Wither Missile's Damage
 	#Range: 0.0 ~ 1000000.0
 	"Harbinger's WitherMissiledamage" = 15.0
 	#Harbinger's laser's Damage
 	#Range: 0.0 ~ 1000000.0
-	"Harbinger's laser damage" = 15.0
+	"Harbinger's laser damage" = 20.0
 	#Harbinger's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"The Harbinger's prevent attacks from far away Range" = 35.0

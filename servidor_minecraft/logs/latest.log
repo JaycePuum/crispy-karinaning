@@ -4347,3 +4347,9 @@
 [08Jan2025 04:28:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Lava Bucket] to ErickJaeger]
 [08Jan2025 04:30:17.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by EdrianferXD10
 [08Jan2025 04:30:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by EdrianferXD10
+[08Jan2025 04:30:58.674] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Jan2025 04:32:33.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from EdrianferXD10: Location (792.75, 76.2441591322422, 4894.352565169334) too far away from hit block BlockPos{x=791, y=76, z=4894}.
+[08Jan2025 04:32:55.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[08Jan2025 04:32:55.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[08Jan2025 04:32:55.321] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 04:40:05.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has completed the challenge [Monarch]
