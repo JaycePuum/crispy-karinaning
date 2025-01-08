@@ -13,3 +13,14 @@
 [08Jan2025 00:35:23.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [08Jan2025 00:35:41.877] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [08Jan2025 00:35:48.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Generated structure "minecraft:ocean_ruin_warm" at 1287, 127, 140]
+[08Jan2025 00:37:33.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[08Jan2025 00:37:33.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Successfully filled 179 block(s)]
+[08Jan2025 00:37:43.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Successfully filled 298 block(s)]
+[08Jan2025 00:38:23.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[08Jan2025 00:38:23.619] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ocean_ruin_warm took 8 ms
+[08Jan2025 00:40:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[08Jan2025 00:42:28.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> guudni hola
+[08Jan2025 00:42:44.453] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[08Jan2025 00:42:44.453] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[08Jan2025 00:44:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> Lala es bonito donde vives?
+[08Jan2025 00:45:59.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 66.000000, 3216.500000]
