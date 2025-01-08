@@ -10773,3 +10773,36 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 23:35:23.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
 [08Jan2025 23:35:31.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [08Jan2025 23:37:34.959] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[08Jan2025 23:38:56.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:38:56.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:40:18.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[08Jan2025 23:40:18.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[08Jan2025 23:40:18.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[08Jan2025 23:40:25.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[08Jan2025 23:40:45.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_2
+[08Jan2025 23:40:53.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_1
+[08Jan2025 23:40:53.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_1
+[08Jan2025 23:40:53.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_1
+[08Jan2025 23:43:06.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_3
+[08Jan2025 23:43:06.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_3
+[08Jan2025 23:43:06.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_3
+[08Jan2025 23:43:06.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[08Jan2025 23:43:06.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[08Jan2025 23:43:06.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[08Jan2025 23:43:14.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_8
+[08Jan2025 23:43:14.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[08Jan2025 23:43:14.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[08Jan2025 23:43:56.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 23:43:56.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 23:43:57.608] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[08Jan2025 23:44:01.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[08Jan2025 23:44:02.259] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[08Jan2025 23:44:02.267] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[08Jan2025 23:44:02.781] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
+[08Jan2025 23:44:02.817] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew1
+[08Jan2025 23:44:15.085] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars1
+[08Jan2025 23:44:15.086] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars2
+[08Jan2025 23:44:15.087] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars3
+[08Jan2025 23:44:15.088] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars1
+[08Jan2025 23:44:15.090] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars2
+[08Jan2025 23:44:15.090] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:lamp1
