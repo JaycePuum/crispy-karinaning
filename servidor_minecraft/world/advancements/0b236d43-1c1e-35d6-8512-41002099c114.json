@@ -7125,6 +7125,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-08 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-08 02:43:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick_stairs": {
     "criteria": {
       "has_ash_bricks": "2025-01-08 01:58:57 +0000"
@@ -7143,6 +7155,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-08 02:43:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-08 02:43:58 +0000"
+    },
+    "done": true
+  },
   "mca:noble": {
     "criteria": {
       "baby": "2025-01-08 01:29:01 +0000"
@@ -7158,6 +7182,30 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-01-08 02:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-08 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-08 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-08 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-08 02:43:37 +0000"
     },
     "done": true
   },
