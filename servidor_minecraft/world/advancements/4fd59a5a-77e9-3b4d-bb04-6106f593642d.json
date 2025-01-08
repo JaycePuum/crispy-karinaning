@@ -9646,6 +9646,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-08 03:01:33 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2025-01-08 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-08 00:36:04 +0000"

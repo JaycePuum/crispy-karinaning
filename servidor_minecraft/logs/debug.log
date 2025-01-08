@@ -12146,3 +12146,25 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 02:58:35.981] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=875, y=66, z=4947} in minecraft:overworld
 [08Jan2025 02:58:35.981] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 19600
 [08Jan2025 02:58:35.983] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[08Jan2025 02:59:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by EXPRIMEVACAS
+[08Jan2025 03:00:13.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS withered away
+[08Jan2025 03:01:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has completed the challenge [Beat Death]
+[08Jan2025 03:01:30.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67464, l='ServerLevel[world]', x=897.40, y=-20.00, z=1616.84] died: Toxic Slime was killed
+[08Jan2025 03:02:09.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 03:02:09.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 03:03:32.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 03:04:38.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Bulldrogioth
+[08Jan2025 03:04:59.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Bulldrogioth
+[08Jan2025 03:05:02.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Bulldrogioth
+[08Jan2025 03:05:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
+[08Jan2025 03:05:39.198] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[08Jan2025 03:05:39.198] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jan2025 03:05:39.199] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[08Jan2025 03:06:25.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Radioactive]
+[08Jan2025 03:06:56.494] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[08Jan2025 03:07:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Toxic Personality]
+[08Jan2025 03:07:09.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 03:07:09.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 03:07:14.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70316, l='ServerLevel[world]', x=929.94, y=51.72, z=1542.26] died: Toxic Slime was slain by EdrianferXD10
+[08Jan2025 03:07:36.295] [Worker-Main-42/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[08Jan2025 03:08:21.884] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.

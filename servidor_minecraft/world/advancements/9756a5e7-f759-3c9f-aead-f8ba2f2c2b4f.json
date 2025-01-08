@@ -9868,6 +9868,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-08 02:57:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-08 01:18:05 +0000"
@@ -9877,6 +9883,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-08 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-08 03:01:57 +0000"
     },
     "done": true
   },

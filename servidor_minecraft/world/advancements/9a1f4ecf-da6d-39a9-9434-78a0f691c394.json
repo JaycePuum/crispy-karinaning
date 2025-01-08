@@ -9731,9 +9731,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-08 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-01-08 02:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-01-08 03:04:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-01-08 03:06:25 +0000"
     },
     "done": true
   },
@@ -9752,7 +9794,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-01-08 02:47:56 +0000",
-      "incendium:quartz_flats": "2025-01-08 02:47:24 +0000"
+      "incendium:quartz_flats": "2025-01-08 02:47:24 +0000",
+      "incendium:toxic_heap": "2025-01-08 03:06:25 +0000"
     },
     "done": false
   },
@@ -9774,9 +9817,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-01-08 03:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-01-08 02:47:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-08 03:06:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-08 03:06:15 +0000"
     },
     "done": true
   },
@@ -9786,9 +9847,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-08 03:03:58 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
       "requirement": "2025-01-08 02:47:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-01-08 03:07:05 +0000"
     },
     "done": true
   },
@@ -9807,6 +9886,18 @@
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-01-08 02:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-01-08 03:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-08 03:06:15 +0000"
     },
     "done": true
   },
