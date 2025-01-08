@@ -9934,6 +9934,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/xbox_fridge": {
+    "criteria": {
+      "has_black_concrete": "2025-01-08 02:09:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-08 01:18:05 +0000"

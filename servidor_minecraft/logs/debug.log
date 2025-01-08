@@ -12044,3 +12044,20 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 02:07:09.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 02:07:09.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 02:07:51.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[08Jan2025 02:10:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was doomed to fall by Skeleton
+[08Jan2025 02:10:56.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[08Jan2025 02:10:56.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[08Jan2025 02:10:56.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[08Jan2025 02:11:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Oh Shiny]
+[08Jan2025 02:12:09.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:12:09.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:12:11.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_3_mirrored
+[08Jan2025 02:12:15.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Auðbjörg'/47975, l='ServerLevel[world]', x=2510.35, y=71.00, z=-639.72] died, message: 'Auðbjörg was slain by ErickJaeger'
+[08Jan2025 02:12:15.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Auðbjörg'/47975, l='ServerLevel[world]', x=2510.35, y=71.00, z=-639.72] died: Auðbjörg was slain by ErickJaeger
+[08Jan2025 02:12:41.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:12:44.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[08Jan2025 02:12:58.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:14:56.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[08Jan2025 02:17:02.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[08Jan2025 02:17:09.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:17:09.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

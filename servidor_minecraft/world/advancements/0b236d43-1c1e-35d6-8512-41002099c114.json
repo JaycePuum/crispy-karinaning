@@ -7137,6 +7137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-08 02:14:26 +0000"
+    },
+    "done": true
+  },
   "mca:noble": {
     "criteria": {
       "baby": "2025-01-08 01:29:01 +0000"

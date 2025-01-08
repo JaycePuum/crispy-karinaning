@@ -159,3 +159,12 @@
 [08Jan2025 02:04:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Bulldrogioth
 [08Jan2025 02:05:41.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:54514] logged in with entity id 45257 at (25.30000001192093, 6.0, 1509.1118576970696)
 [08Jan2025 02:05:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[08Jan2025 02:10:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was doomed to fall by Skeleton
+[08Jan2025 02:11:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Oh Shiny]
+[08Jan2025 02:12:15.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Auðbjörg'/47975, l='ServerLevel[world]', x=2510.35, y=71.00, z=-639.72] died, message: 'Auðbjörg was slain by ErickJaeger'
+[08Jan2025 02:12:15.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Auðbjörg'/47975, l='ServerLevel[world]', x=2510.35, y=71.00, z=-639.72] died: Auðbjörg was slain by ErickJaeger
+[08Jan2025 02:12:41.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 02:12:44.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[08Jan2025 02:12:58.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 02:14:56.597] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[08Jan2025 02:17:02.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
