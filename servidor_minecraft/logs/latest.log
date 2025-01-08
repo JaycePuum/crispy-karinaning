@@ -60,3 +60,9 @@
 [08Jan2025 01:15:35.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon left the game
 [08Jan2025 01:15:43.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:49556] logged in with entity id 16143 at (838.8671537315898, 60.0, 4851.732875287092)
 [08Jan2025 01:15:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[08Jan2025 01:19:18.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[08Jan2025 01:22:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 01:22:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[08Jan2025 01:23:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Nehemoth]
+[08Jan2025 01:23:41.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 01:26:58.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -9.588958560213428,1.7531999805212024,-2.8139633387327194

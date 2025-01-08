@@ -11483,3 +11483,111 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 01:15:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
 [08Jan2025 01:16:55.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 01:16:55.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 01:17:54.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/lava_basin
+[08Jan2025 01:17:54.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/entrances/entrance_0
+[08Jan2025 01:17:54.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_2
+[08Jan2025 01:17:54.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_2
+[08Jan2025 01:17:54.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/stairs/lower_stairs
+[08Jan2025 01:17:54.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_1
+[08Jan2025 01:17:54.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_main
+[08Jan2025 01:17:54.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_1
+[08Jan2025 01:17:54.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/medium_outer_wall
+[08Jan2025 01:17:54.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/center_roof
+[08Jan2025 01:17:54.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_0
+[08Jan2025 01:17:54.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_1
+[08Jan2025 01:17:54.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/fire_room
+[08Jan2025 01:17:54.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/bottom_wall_0
+[08Jan2025 01:17:54.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/top_wall
+[08Jan2025 01:17:54.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_side
+[08Jan2025 01:17:54.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_side
+[08Jan2025 01:17:54.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_1
+[08Jan2025 01:17:54.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/main_entrance
+[08Jan2025 01:17:54.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_0
+[08Jan2025 01:17:54.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_0
+[08Jan2025 01:17:54.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_main
+[08Jan2025 01:17:54.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/roofed_bridge
+[08Jan2025 01:17:54.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_1
+[08Jan2025 01:17:54.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/outer_wall
+[08Jan2025 01:17:54.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_2
+[08Jan2025 01:17:54.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_1
+[08Jan2025 01:17:54.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_1
+[08Jan2025 01:17:54.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_0
+[08Jan2025 01:17:54.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/entrance_wall
+[08Jan2025 01:17:54.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/wall_roof
+[08Jan2025 01:17:54.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_3
+[08Jan2025 01:17:54.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_0
+[08Jan2025 01:17:54.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_1
+[08Jan2025 01:17:54.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/tall_outer_wall
+[08Jan2025 01:17:54.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_0
+[08Jan2025 01:17:54.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_2
+[08Jan2025 01:17:54.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/lava_wall
+[08Jan2025 01:17:54.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/corner_roof
+[08Jan2025 01:17:54.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/wall_base
+[08Jan2025 01:17:54.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_0
+[08Jan2025 01:17:54.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/edge_0_large
+[08Jan2025 01:17:54.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_0
+[08Jan2025 01:17:54.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/connected_wall
+[08Jan2025 01:17:54.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_0
+[08Jan2025 01:17:54.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_wall_0
+[08Jan2025 01:17:54.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/rot/stage_1_0
+[08Jan2025 01:17:54.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/fillers/stage_0
+[08Jan2025 01:17:54.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/rampart_plates/plate_0
+[08Jan2025 01:17:54.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_3
+[08Jan2025 01:17:54.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_0
+[08Jan2025 01:17:54.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_2
+[08Jan2025 01:17:54.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_1
+[08Jan2025 01:17:54.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_3
+[08Jan2025 01:17:54.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_2
+[08Jan2025 01:17:54.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_0
+[08Jan2025 01:17:54.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/edges/edge_0
+[08Jan2025 01:17:54.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_1
+[08Jan2025 01:17:54.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_3
+[08Jan2025 01:17:54.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_0
+[08Jan2025 01:17:54.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_1
+[08Jan2025 01:17:54.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_2
+[08Jan2025 01:18:47.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_0
+[08Jan2025 01:18:47.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_1
+[08Jan2025 01:18:47.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_3
+[08Jan2025 01:18:47.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_1_mirrored
+[08Jan2025 01:18:47.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_2
+[08Jan2025 01:19:18.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[08Jan2025 01:21:55.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 01:21:55.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 01:22:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 01:22:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[08Jan2025 01:23:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Nehemoth]
+[08Jan2025 01:23:41.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 01:24:57.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_7
+[08Jan2025 01:24:57.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_3
+[08Jan2025 01:24:57.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_1
+[08Jan2025 01:24:57.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_0
+[08Jan2025 01:24:57.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
+[08Jan2025 01:24:57.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
+[08Jan2025 01:24:57.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_0
+[08Jan2025 01:25:10.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_1
+[08Jan2025 01:25:10.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/unit_0
+[08Jan2025 01:25:10.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_2
+[08Jan2025 01:25:10.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_0
+[08Jan2025 01:26:13.600] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[08Jan2025 01:26:16.690] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[08Jan2025 01:26:16.749] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[08Jan2025 01:26:16.814] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[08Jan2025 01:26:16.863] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[08Jan2025 01:26:16.911] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[08Jan2025 01:26:16.951] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[08Jan2025 01:26:16.981] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[08Jan2025 01:26:17.011] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[08Jan2025 01:26:28.893] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_3
+[08Jan2025 01:26:28.897] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_4
+[08Jan2025 01:26:28.900] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_4
+[08Jan2025 01:26:28.902] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_2
+[08Jan2025 01:26:28.904] [Worker-Main-82/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_0
+[08Jan2025 01:26:33.773] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[08Jan2025 01:26:33.808] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[08Jan2025 01:26:33.863] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[08Jan2025 01:26:33.893] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[08Jan2025 01:26:33.900] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[08Jan2025 01:26:33.924] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[08Jan2025 01:26:55.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 01:26:55.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 01:26:58.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -9.588958560213428,1.7531999805212024,-2.8139633387327194
