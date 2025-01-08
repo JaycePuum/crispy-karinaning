@@ -9818,5 +9818,23 @@
     },
     "done": true
   },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-01-08 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-01-08 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-08 00:51:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

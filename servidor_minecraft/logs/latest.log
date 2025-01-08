@@ -24,3 +24,26 @@
 [08Jan2025 00:42:44.453] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [08Jan2025 00:44:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> Lala es bonito donde vives?
 [08Jan2025 00:45:59.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 66.000000, 3216.500000]
+[08Jan2025 00:46:53.898] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rosa'/8304, l='ServerLevel[world]', x=166.71, y=75.00, z=3217.25] died, message: 'Rosa was slain by ErickJaeger'
+[08Jan2025 00:46:53.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rosa'/8304, l='ServerLevel[world]', x=166.71, y=75.00, z=3217.25] died: Rosa was slain by ErickJaeger
+[08Jan2025 00:46:53.902] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[08Jan2025 00:46:53.911] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[08Jan2025 00:46:53.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Become the Grim Reaper]
+[08Jan2025 00:47:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[08Jan2025 00:48:00.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has completed the challenge [A Soul for a Soul]
+[08Jan2025 00:49:52.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Chizuru te vas a volver un zombie, cagaste
+[08Jan2025 00:51:24.182] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[08Jan2025 00:51:24.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[08Jan2025 00:51:24.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[08Jan2025 00:51:24.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[08Jan2025 00:51:24.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[08Jan2025 00:51:24.747] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[08Jan2025 00:51:26.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[08Jan2025 00:51:26.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[08Jan2025 00:51:26.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[08Jan2025 00:51:26.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[08Jan2025 00:51:27.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[08Jan2025 00:51:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 00:55:23.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:49278] logged in with entity id 10500 at (857.1021162472953, 70.0, 4876.300000011921)
+[08Jan2025 00:55:23.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[08Jan2025 00:56:09.855] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/c2s/ReportBuildingMessage$Action
