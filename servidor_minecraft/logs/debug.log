@@ -11793,3 +11793,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [08Jan2025 01:47:09.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 01:47:09.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 01:47:26.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 01:47:41.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 01:50:41.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Who is Cutting Onions?]
+[08Jan2025 01:52:09.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 01:52:09.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 01:55:18.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[08Jan2025 01:56:22.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[08Jan2025 01:57:04.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Hydra
+[08Jan2025 01:57:06.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[08Jan2025 01:57:06.346] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[08Jan2025 01:57:09.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 01:57:09.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 01:57:34.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Hydra

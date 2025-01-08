@@ -9532,6 +9532,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-08 01:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-08 01:27:14 +0000"
@@ -9562,6 +9568,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-08 01:50:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_table_dinner": {
     "criteria": {
       "blackstone_table_dinner": "2025-01-08 01:34:13 +0000"
@@ -9577,6 +9589,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-08 01:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-08 01:50:41 +0000"
     },
     "done": true
   },
