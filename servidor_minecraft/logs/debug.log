@@ -12126,3 +12126,54 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 00:59:04.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 00:59:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
 [09Jan2025 00:59:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:00:02.404] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[09Jan2025 01:00:02.405] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 01:00:02.405] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 01:02:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Hidden in the Depths]
+[09Jan2025 01:03:45.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Hidden in the Depths]
+[09Jan2025 01:04:04.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:04:04.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:05:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:07:34.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was shot by Skeleton
+[09Jan2025 01:07:59.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Zombie
+[09Jan2025 01:09:04.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:09:04.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:12:00.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was shot by Skeleton
+[09Jan2025 01:13:26.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:13:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:14:00.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:14:04.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:14:04.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:14:16.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:14:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:14:39.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_1
+[09Jan2025 01:14:39.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_3
+[09Jan2025 01:14:39.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_1
+[09Jan2025 01:14:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:15:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:15:26.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:16:02.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:16:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was energized by Lightning Dragon
+[09Jan2025 01:16:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:16:50.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 01:16:52.336] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_4
+[09Jan2025 01:16:52.339] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_3
+[09Jan2025 01:16:52.341] [Worker-Main-26/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_0
+[09Jan2025 01:16:52.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:17:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Strange Biomes]
+[09Jan2025 01:17:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was energized by Lightning Dragon
+[09Jan2025 01:17:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:18:08.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was energized by Lightning Dragon
+[09Jan2025 01:18:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was energized by Lightning Dragon
+[09Jan2025 01:18:48.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:19:04.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:19:04.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:19:05.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:19:21.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:19:38.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:19:49.671] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/113837, l='ServerLevel[world]', x=247.76, y=-20.00, z=695.37] died: Restless Spirit was killed
+[09Jan2025 01:19:54.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:19:54.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/113876, l='ServerLevel[world]', x=320.41, y=-20.00, z=691.50] died: Restless Spirit was killed
+[09Jan2025 01:20:01.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/114036, l='ServerLevel[world]', x=235.94, y=-20.00, z=709.99] died: Restless Spirit was killed
+[09Jan2025 01:20:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:20:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
