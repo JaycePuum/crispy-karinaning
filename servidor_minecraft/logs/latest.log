@@ -177,3 +177,30 @@
 [09Jan2025 01:27:24.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
 [09Jan2025 01:29:32.824] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
 [09Jan2025 01:29:35.567] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[09Jan2025 01:31:43.275] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[09Jan2025 01:34:42.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was shot by Skeleton
+[09Jan2025 01:34:47.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:50163] logged in with entity id 144498 at (790.8909937573653, 76.0, 4896.3726976840935)
+[09Jan2025 01:34:47.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[09Jan2025 01:34:47.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[09Jan2025 01:35:26.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[09Jan2025 01:36:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
+[09Jan2025 01:36:54.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Disconnected
+[09Jan2025 01:36:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
+[09Jan2025 01:38:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
+[09Jan2025 01:38:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> el que no se une al vc dona utero para cepatito
+[09Jan2025 01:39:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[09Jan2025 01:39:58.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[09Jan2025 01:41:26.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MotoMoto_7[/172.22.250.207:52298] logged in with entity id 147871 at (-206.02616624420233, 64.0, 1058.6984757512341)
+[09Jan2025 01:41:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
+[09Jan2025 01:41:28.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [A Flaming Sword]
+[09Jan2025 01:41:40.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by cepatito
+[09Jan2025 01:44:31.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 01:46:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Cosi vc
+[09Jan2025 01:46:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> edrianfer llamada
+[09Jan2025 01:48:55.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/153162, l='ServerLevel[world]', x=-499.27, y=50.00, z=1390.38] died: Pipeline Sentry suffocated in a wall
+[09Jan2025 01:49:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> }
+[09Jan2025 01:49:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> a
+[09Jan2025 01:49:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS moved too quickly! 8.327452284974697,1.0,5.939351272764725
+[09Jan2025 01:49:58.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
+[09Jan2025 01:50:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [The Song of the Dragons]
+[09Jan2025 01:51:20.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS burned to death

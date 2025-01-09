@@ -12277,3 +12277,545 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 01:30:27.333] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_carrot
 [09Jan2025 01:30:27.333] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_melon
 [09Jan2025 01:30:27.335] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/music
+[09Jan2025 01:31:16.478] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 01:31:43.275] [Worker-Main-11/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[09Jan2025 01:32:18.222] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[09Jan2025 01:33:39.585] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[09Jan2025 01:34:04.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:34:04.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:34:42.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was shot by Skeleton
+[09Jan2025 01:34:45.459] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 31 messages to dispatch.
+[09Jan2025 01:34:45.493] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09Jan2025 01:34:45.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09Jan2025 01:34:45.586] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09Jan2025 01:34:45.672] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [kuma_api, ftbessentials, netherportalfix, geckolib, loadingbackgrounds, connectivity, cardinal_sins, incendium, sophisticatedcore, gpumemleakfix, structureessentials, controlling, placebo, modernfix, luminoustag, citadel, yungsapi, mixinextras, sophisticatedbackpacks, balm, melody, jeresources, chat_heads, startinv, betterfortresses, paraglider, cloth_config, sound_physics_remastered, pfm, dummmmmmy, konkrete, embeddium, rubidium, embeddiumplus, farmersdelight, supplementaries, entity_model_features, entity_texture_features, milesplayz, lionfishapi, mr_tidal_towns, wthit, waila, spark, cataclysm, elytra_recipe, curios, patchouli, despawn_tweaker, oculus, searchables, noisium, resourcefullib, inventoryprofilesnext, boatbreakfix, architectury, otyacraftengine, iammusicplayer, aiimprovements, cupboard, chimes, monolib, stackable_stew_and_soup, framework, l2library, l2damagetracker, krypton, goblins_tyranny, hopo, fastleafdecay, gamemenumodoption, timeondisplay, radium, bhmenu, unpaused, retrodamageindicators, l2tabs, ftblibrary, mca, jei, attributefix, l2complements, l2weaponry, goblintraders, clumps, fastasyncworldsave, fromtheshadows, alternate_current, lookinsharp, badpackets, l2screentracker, myserveriscompatible, mr_lukis_grandcapitals, neruina, iceandfire, toastcontrol, automessage, forge, luminousworld, selfexpression, craftingtweaks, minecraft, smoothchunk, alexscaves, libipn, moonlight, mousetweaks, necronomicon, mixinsquared, nochatreports, kotlinforforge, flywheel, amendments, create, xaerominimap, gravestone, lunar, entityculling, fancymenu, immediatelyfast, ferritecore, l2itemselector, badoptimizations, cosmeticarmorreworked, chunksending, loadmyresources, deuf, defaultoptions]
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cardinal_sins:cardinal_sins' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pfm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2itemselector:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2library:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2complements:main' : Version test of '3' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elytra_recipe:elytra_recipe' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lunar:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'goblins_tyranny:goblins_tyranny' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2tabs:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2damagetracker:main' : Version test of '2' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of '1.0' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminousworld:luminousworld' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminoustag:luminoustag' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.684] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2screentracker:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2weaponry:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'selfexpression:selfexpression' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Jan2025 01:34:45.685] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Jan2025 01:34:45.714] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[09Jan2025 01:34:45.727] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Jan2025 01:34:45.727] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:45.727] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:45.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[09Jan2025 01:34:45.790] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[09Jan2025 01:34:45.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Jan2025 01:34:45.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:45.807] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:45.824] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[09Jan2025 01:34:45.856] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[09Jan2025 01:34:45.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[09Jan2025 01:34:45.948] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[09Jan2025 01:34:45.998] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[09Jan2025 01:34:46.012] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Jan2025 01:34:46.012] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.012] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[09Jan2025 01:34:46.074] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Jan2025 01:34:46.074] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.074] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.074] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Jan2025 01:34:46.074] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.074] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.099] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[09Jan2025 01:34:46.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[09Jan2025 01:34:46.197] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[09Jan2025 01:34:46.251] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[09Jan2025 01:34:46.291] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Jan2025 01:34:46.291] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.291] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.292] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Jan2025 01:34:46.292] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.292] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.294] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Jan2025 01:34:46.294] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.294] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.295] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Jan2025 01:34:46.295] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.295] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry l2screentracker:tracked_entry_type' to 'fml:handshake' sequence 17
+[09Jan2025 01:34:46.340] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Jan2025 01:34:46.340] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.340] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.341] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Jan2025 01:34:46.341] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.341] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[09Jan2025 01:34:46.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry l2screentracker:item_source' to 'fml:handshake' sequence 19
+[09Jan2025 01:34:46.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Jan2025 01:34:46.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.417] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Jan2025 01:34:46.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.444] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[09Jan2025 01:34:46.481] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09Jan2025 01:34:46.481] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.481] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.498] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[09Jan2025 01:34:46.536] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09Jan2025 01:34:46.536] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.536] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[09Jan2025 01:34:46.581] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09Jan2025 01:34:46.581] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.581] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 23
+[09Jan2025 01:34:46.633] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09Jan2025 01:34:46.633] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.633] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 24
+[09Jan2025 01:34:46.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 25
+[09Jan2025 01:34:46.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 26
+[09Jan2025 01:34:46.798] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fastleafdecay-server.toml' to 'fml:handshake' sequence 27
+[09Jan2025 01:34:46.844] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 28
+[09Jan2025 01:34:46.894] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[09Jan2025 01:34:46.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 30
+[09Jan2025 01:34:46.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09Jan2025 01:34:46.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.972] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09Jan2025 01:34:46.972] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.972] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.985] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09Jan2025 01:34:46.985] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.985] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.990] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09Jan2025 01:34:46.990] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.990] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.995] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09Jan2025 01:34:46.995] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.995] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:46.996] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09Jan2025 01:34:46.996] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:46.996] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:47.000] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09Jan2025 01:34:47.000] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:47.000] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:47.029] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[09Jan2025 01:34:47.029] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:47.029] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:47.076] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[09Jan2025 01:34:47.076] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:34:47.076] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:34:47.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Jan2025 01:34:47.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:50163] logged in with entity id 144498 at (790.8909937573653, 76.0, 4896.3726976840935)
+[09Jan2025 01:34:47.173] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@20692406 into net.minecraft.network.Connection@183e6ea1
+[09Jan2025 01:34:47.174] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 285 classes
+[09Jan2025 01:34:47.174] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[09Jan2025 01:34:47.175] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[09Jan2025 01:34:47.175] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[09Jan2025 01:34:47.175] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[09Jan2025 01:34:47.175] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[09Jan2025 01:34:47.175] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[09Jan2025 01:34:47.175] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[09Jan2025 01:34:47.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[09Jan2025 01:34:47.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[09Jan2025 01:35:26.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[09Jan2025 01:36:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
+[09Jan2025 01:36:54.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Disconnected
+[09Jan2025 01:36:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
+[09Jan2025 01:38:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
+[09Jan2025 01:38:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> el que no se une al vc dona utero para cepatito
+[09Jan2025 01:39:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[09Jan2025 01:39:04.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:39:04.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:39:58.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[09Jan2025 01:41:24.707] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 31 messages to dispatch.
+[09Jan2025 01:41:24.734] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[09Jan2025 01:41:24.787] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[09Jan2025 01:41:24.836] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[09Jan2025 01:41:24.885] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [kuma_api, ftbessentials, netherportalfix, geckolib, loadingbackgrounds, connectivity, cardinal_sins, incendium, sophisticatedcore, gpumemleakfix, structureessentials, controlling, placebo, modernfix, luminoustag, citadel, yungsapi, mixinextras, sophisticatedbackpacks, balm, melody, jeresources, chat_heads, startinv, betterfortresses, paraglider, cloth_config, sound_physics_remastered, pfm, dummmmmmy, konkrete, embeddium, rubidium, embeddiumplus, farmersdelight, supplementaries, entity_model_features, entity_texture_features, milesplayz, lionfishapi, mr_tidal_towns, wthit, waila, spark, cataclysm, elytra_recipe, curios, patchouli, despawn_tweaker, oculus, searchables, noisium, resourcefullib, inventoryprofilesnext, boatbreakfix, architectury, otyacraftengine, iammusicplayer, aiimprovements, cupboard, chimes, monolib, stackable_stew_and_soup, framework, l2library, l2damagetracker, krypton, goblins_tyranny, hopo, fastleafdecay, gamemenumodoption, timeondisplay, radium, bhmenu, unpaused, retrodamageindicators, l2tabs, ftblibrary, mca, jei, attributefix, l2complements, l2weaponry, goblintraders, clumps, fastasyncworldsave, fromtheshadows, alternate_current, lookinsharp, badpackets, l2screentracker, myserveriscompatible, mr_lukis_grandcapitals, neruina, iceandfire, toastcontrol, automessage, forge, luminousworld, selfexpression, craftingtweaks, minecraft, smoothchunk, alexscaves, libipn, moonlight, mousetweaks, necronomicon, mixinsquared, nochatreports, kotlinforforge, flywheel, amendments, create, xaerominimap, gravestone, lunar, entityculling, fancymenu, immediatelyfast, ferritecore, l2itemselector, badoptimizations, cosmeticarmorreworked, chunksending, loadmyresources, deuf, defaultoptions]
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cardinal_sins:cardinal_sins' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.928] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pfm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2itemselector:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2library:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2complements:main' : Version test of '3' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elytra_recipe:elytra_recipe' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lunar:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'goblins_tyranny:goblins_tyranny' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2tabs:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2damagetracker:main' : Version test of '2' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Version test of '1.0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminousworld:luminousworld' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminoustag:luminoustag' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2screentracker:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.929] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2weaponry:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'selfexpression:selfexpression' : Version test of '1' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[09Jan2025 01:41:24.930] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[09Jan2025 01:41:24.935] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[09Jan2025 01:41:24.975] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[09Jan2025 01:41:24.975] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:24.975] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:24.987] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[09Jan2025 01:41:25.023] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[09Jan2025 01:41:25.023] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.023] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[09Jan2025 01:41:25.087] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[09Jan2025 01:41:25.134] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[09Jan2025 01:41:25.184] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[09Jan2025 01:41:25.236] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[09Jan2025 01:41:25.250] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[09Jan2025 01:41:25.250] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.250] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.287] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[09Jan2025 01:41:25.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[09Jan2025 01:41:25.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[09Jan2025 01:41:25.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.296] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[09Jan2025 01:41:25.386] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[09Jan2025 01:41:25.443] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[09Jan2025 01:41:25.484] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.500] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[09Jan2025 01:41:25.503] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.503] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.503] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[09Jan2025 01:41:25.503] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.503] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.536] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[09Jan2025 01:41:25.576] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[09Jan2025 01:41:25.576] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.576] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.579] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[09Jan2025 01:41:25.580] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.580] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.586] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry l2screentracker:tracked_entry_type' to 'fml:handshake' sequence 17
+[09Jan2025 01:41:25.621] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[09Jan2025 01:41:25.621] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.621] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.637] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[09Jan2025 01:41:25.675] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[09Jan2025 01:41:25.675] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.675] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry l2screentracker:item_source' to 'fml:handshake' sequence 19
+[09Jan2025 01:41:25.722] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[09Jan2025 01:41:25.722] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.722] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.733] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[09Jan2025 01:41:25.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[09Jan2025 01:41:25.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.774] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.785] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[09Jan2025 01:41:25.826] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[09Jan2025 01:41:25.826] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.826] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.835] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[09Jan2025 01:41:25.870] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[09Jan2025 01:41:25.870] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.870] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.886] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 23
+[09Jan2025 01:41:25.921] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[09Jan2025 01:41:25.921] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:25.921] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:25.934] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 24
+[09Jan2025 01:41:25.986] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 25
+[09Jan2025 01:41:26.033] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 26
+[09Jan2025 01:41:26.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fastleafdecay-server.toml' to 'fml:handshake' sequence 27
+[09Jan2025 01:41:26.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 28
+[09Jan2025 01:41:26.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[09Jan2025 01:41:26.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[09Jan2025 01:41:26.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.152] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[09Jan2025 01:41:26.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.153] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.156] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[09Jan2025 01:41:26.156] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.156] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.172] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[09Jan2025 01:41:26.172] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.172] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.188] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[09Jan2025 01:41:26.230] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[09Jan2025 01:41:26.230] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.230] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.238] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 30
+[09Jan2025 01:41:26.280] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[09Jan2025 01:41:26.280] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.280] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.325] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[09Jan2025 01:41:26.325] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.325] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[09Jan2025 01:41:26.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[09Jan2025 01:41:26.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[09Jan2025 01:41:26.390] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[09Jan2025 01:41:26.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MotoMoto_7[/172.22.250.207:52298] logged in with entity id 147871 at (-206.02616624420233, 64.0, 1058.6984757512341)
+[09Jan2025 01:41:26.457] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4e3dd949 into net.minecraft.network.Connection@7d5ec955
+[09Jan2025 01:41:26.458] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 285 classes
+[09Jan2025 01:41:26.458] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[09Jan2025 01:41:26.458] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[09Jan2025 01:41:26.459] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[09Jan2025 01:41:26.459] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[09Jan2025 01:41:26.459] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[09Jan2025 01:41:26.459] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[09Jan2025 01:41:26.459] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[09Jan2025 01:41:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
+[09Jan2025 01:41:28.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [A Flaming Sword]
+[09Jan2025 01:41:40.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by cepatito
+[09Jan2025 01:44:04.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:44:04.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:44:31.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 01:44:42.531] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_0
+[09Jan2025 01:45:31.516] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_2x1 is being run through DFU (hash 481b91e1450d0bccec91a7d5d98d2b7ab7b4ab9e7412ef89ed7beab5587977d8), this will cause launch time delays
+[09Jan2025 01:45:32.148] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_main is being run through DFU (hash 5732e26fb8226e16e15cf8dd8e79d0bfbb0e09943a037b648d64aec30d5d054e), this will cause launch time delays
+[09Jan2025 01:45:32.899] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l2 is being run through DFU (hash fd294cb71258dfff27099c60aa142a63c39ca90f106cb771877f8f287d1f6442), this will cause launch time delays
+[09Jan2025 01:45:33.041] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l2 is being run through DFU (hash 35f57725feadaa0a957aaaa4e79c990d5545fb471e8ffb3d5480a3af39d0dbb4), this will cause launch time delays
+[09Jan2025 01:45:33.126] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l2 is being run through DFU (hash 5c362b041a58640733daedc05b77666b6ac36d25183b7e2929abd612bb780a4b), this will cause launch time delays
+[09Jan2025 01:45:33.484] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3 is being run through DFU (hash f153841a40656b021235c6cbb1297424973d8a428c18e1fa20c5601f6c9f7723), this will cause launch time delays
+[09Jan2025 01:45:33.768] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l3 is being run through DFU (hash 192c3adcba94605f8ad4e1b47293e53e1960c493b78af1d45819bd9318536cd4), this will cause launch time delays
+[09Jan2025 01:45:33.892] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l3 is being run through DFU (hash 81b8007f23aaf5cc78ff3961f1217f663549ef7945baf5505a43cc4b0c209dad), this will cause launch time delays
+[09Jan2025 01:45:33.951] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate is being run through DFU (hash 1532467e9ee42e1ccd626e3cfec29e742e76e800ee49c4de650aa129844ac761), this will cause launch time delays
+[09Jan2025 01:45:33.973] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate3 is being run through DFU (hash 486c4e3ede277965a67ad50569949ed5f8674eb2f4c0fc1dfee0181e79954a92), this will cause launch time delays
+[09Jan2025 01:45:34.007] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/archer is being run through DFU (hash 6d0cc24a884d6e855f4631741955b7488628df73c9894bd6abeae0a7b384ddeb), this will cause launch time delays
+[09Jan2025 01:45:34.038] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3_alt is being run through DFU (hash d8b4ceaa3939a3d7ab19fb1c421bbd5847fd932e9a4cfaceb185f6b5f0e4eb6b), this will cause launch time delays
+[09Jan2025 01:45:34.222] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_1x1 is being run through DFU (hash 3247bcac13485f0b49c125b907e9ca4f2d8eb7d44893019fa013b7b53a629098), this will cause launch time delays
+[09Jan2025 01:45:34.264] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/shock_troop is being run through DFU (hash a8a55635cbbb85f86b1658e5401e889aa0d6c468041ebff0fcd56d660b29437c), this will cause launch time delays
+[09Jan2025 01:45:34.278] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/lumber_c is being run through DFU (hash d753a3903840545ce58075f0ac1e65ceaf12ba1027c5f0c669ec19b6def42ed5), this will cause launch time delays
+[09Jan2025 01:45:34.313] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/coolant_room is being run through DFU (hash 229442f8abab9ca8e2484d4178c354285a7d15c832ccadf9af5bd8da02093c92), this will cause launch time delays
+[09Jan2025 01:45:34.343] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/round_table is being run through DFU (hash 2fc2b5b6b3c17c8535b218d66ebb61d3141be7573d51b7a26baf53c9a6fad2f7), this will cause launch time delays
+[09Jan2025 01:45:34.469] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/dining is being run through DFU (hash 7ab3014f33ca41720940744024532fb68aa210e64abc8290f8764b6219376f90), this will cause launch time delays
+[09Jan2025 01:45:34.534] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/crossroads1 is being run through DFU (hash aaf3c0996d3f5ae6287902c51a3a9d3caf493f107709bb94f659b69dda5fe83a), this will cause launch time delays
+[09Jan2025 01:45:34.577] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/corridors is being run through DFU (hash b06a625724574d309308623059d68b33bd4911370535f576b8eae7927f5e9a66), this will cause launch time delays
+[09Jan2025 01:45:34.628] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small is being run through DFU (hash 40b1fd3ef8248b68e77e3e2c1ef8df61294147556524570047d597271e0362e7), this will cause launch time delays
+[09Jan2025 01:45:34.724] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small_w is being run through DFU (hash 99f2538c790b8ea5d56f619fea79c614150c08617ee40e7a530a7bbf51142a47), this will cause launch time delays
+[09Jan2025 01:45:34.815] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing is being run through DFU (hash 38208be29806ecd7bef79f33520ca6205e0f13bfcb20a174de486289fc5d3e44), this will cause launch time delays
+[09Jan2025 01:45:34.853] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cell is being run through DFU (hash c97528a624199d6ce6f9a666a2ea98015156e484b63d8d5ccecef2a978b80154), this will cause launch time delays
+[09Jan2025 01:45:34.862] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/trap_room is being run through DFU (hash 515d07bf7066d536759f06692750f17eb7e9b606afd44e9d1a052c2c0ce38ba8), this will cause launch time delays
+[09Jan2025 01:45:34.904] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/strider_pen is being run through DFU (hash c50717c3bee264bd51a2086ed2d85c64fc418d915f689ceb065e010a13aba0b2), this will cause launch time delays
+[09Jan2025 01:45:34.919] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/kitchen is being run through DFU (hash 15021c9d6882d24471a7715da9b1af075b32f6e811183b17357cd8905455639f), this will cause launch time delays
+[09Jan2025 01:45:34.973] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/odd_treasure is being run through DFU (hash 6c25b5187eac6373c48db213bc10e6a452cf10498e576f89ad7ae2288334c7e8), this will cause launch time delays
+[09Jan2025 01:45:35.004] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15_compat is being run through DFU (hash 7e5dc38539a504a294004469361a0453274f59a92d8bcd4c7069ce5d7be6d7c7), this will cause launch time delays
+[09Jan2025 01:45:35.026] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15 is being run through DFU (hash d3915e9fb1c16b0139533fe9641347f85b273b9cc3fc36d3fc0a7ce46f13603b), this will cause launch time delays
+[09Jan2025 01:45:35.052] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_corner is being run through DFU (hash 920f27d007c214ea46ee0edf93f8a62622b16638c6f3719b1864c7781c1e2c2d), this will cause launch time delays
+[09Jan2025 01:45:35.083] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15w is being run through DFU (hash c7577f08da449dbff07262cc26a1da05798b38a406b1527543a93961f1cc44de), this will cause launch time delays
+[09Jan2025 01:45:35.115] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_10 is being run through DFU (hash 87b0a593989cb1fdf6a64c467439fa2205209df4b4c31eefbf863c0983122e16), this will cause launch time delays
+[09Jan2025 01:45:35.155] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/sentry_lab is being run through DFU (hash 6fef6612982980fbe2d9d6fb14de4956f7f7d0340f2ab16fa10fd3b03a72c6b2), this will cause launch time delays
+[09Jan2025 01:45:35.407] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/library is being run through DFU (hash 8d7efcf8b73a0ae2ac46a8905ffd69e37f72762c2ff6ca136c56cd42b134f584), this will cause launch time delays
+[09Jan2025 01:45:35.434] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_big3 is being run through DFU (hash 4ebef00f0f94ae0a2b13919a719152d072e96afa4650947d4e3cab75e318955e), this will cause launch time delays
+[09Jan2025 01:45:35.436] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_big2 is being run through DFU (hash a0c70f0141beaaffb0cc89505279b77445571da650ba22da4f046804be22726a), this will cause launch time delays
+[09Jan2025 01:45:35.438] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_big1 is being run through DFU (hash 36b588994dba78dddddd4c4689f0e60ed82084c92263675d97dcf5a3571757f0), this will cause launch time delays
+[09Jan2025 01:45:35.439] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_gold is being run through DFU (hash 997183b71a923ddc251a357bfb47c310d25d117e7dd1ca4cec6b847b5d6cdc99), this will cause launch time delays
+[09Jan2025 01:45:35.448] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_special_farm is being run through DFU (hash 6afe839871197db5b897a8c86d3df0c7729757441b3a6640cdc799754dd7fa5a), this will cause launch time delays
+[09Jan2025 01:45:35.459] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c3 is being run through DFU (hash 26b2cfd974a4820739a885bc38fbeb62c89923465bbd3dcd5b276cb7da8f5cb0), this will cause launch time delays
+[09Jan2025 01:45:35.461] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w2 is being run through DFU (hash fac036faabddaab41f3fa0dce921d46ec7498c88cddf74ec33db42758814964d), this will cause launch time delays
+[09Jan2025 01:45:35.462] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c1 is being run through DFU (hash 18bacc9eb783896439c81aa642af5ce5fdb1a30693704eda35d54d207272e76a), this will cause launch time delays
+[09Jan2025 01:45:35.463] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w1 is being run through DFU (hash 66f4986b727d24ce23748ffa755c21128836e1dcf59f1668bc03cb4103bd34bc), this will cause launch time delays
+[09Jan2025 01:45:35.465] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c2 is being run through DFU (hash b107ec42c66dece2440096f6297902ca719a5c09e91b7dc6d0572372a55d337b), this will cause launch time delays
+[09Jan2025 01:45:35.466] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w3 is being run through DFU (hash dbdefe508b7912c03ccd373bc196490c328d485864bbf852242f4b5a98344416), this will cause launch time delays
+[09Jan2025 01:45:35.480] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/throne_room is being run through DFU (hash 9de6a69e964d0e9b71ef5eb5bccdf26a69bc660bf0c752bce67a476db55bbcee), this will cause launch time delays
+[09Jan2025 01:45:35.675] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short2 is being run through DFU (hash cf5e59c84d9292709e0b11b96df3329f37917ee4906d7bea4235c843e6c6c950), this will cause launch time delays
+[09Jan2025 01:45:35.684] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/blacksmith is being run through DFU (hash a37ff30e340fa862095e92544b6557a5e3b23ebe17f7d87c5d2a771e0ffd8a2d), this will cause launch time delays
+[09Jan2025 01:45:35.723] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight is being run through DFU (hash 4107d7897b8634939926aabe8cf3fa0c6a18adba25d56f0f57449d0e065a386b), this will cause launch time delays
+[09Jan2025 01:45:35.731] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_diamond is being run through DFU (hash 20b7fbd3dfcbe7eb57715d56ecb8336022fcec8113a41c010b67144b2cdd1f64), this will cause launch time delays
+[09Jan2025 01:45:35.743] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor1 is being run through DFU (hash de48a3ea0d6bdc4d1151cc6b10458574cf0ed0b9665de9ccabb0a1856dec56eb), this will cause launch time delays
+[09Jan2025 01:45:35.747] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d1 is being run through DFU (hash 0a71166328e02fb94c61a1f34752c281bf73223bf82a1ada215a00921a9c6165), this will cause launch time delays
+[09Jan2025 01:45:35.782] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d2 is being run through DFU (hash 9aab6eb4871dd41fce66cdd767283341eff96b9f7ec1cc7a0ff759c77bd23eb7), this will cause launch time delays
+[09Jan2025 01:45:35.803] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_backup is being run through DFU (hash 0530d2e3a62ab493253713f2bcf99f0697d89c2134819a241eac9927b0c4a108), this will cause launch time delays
+[09Jan2025 01:45:35.810] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor2 is being run through DFU (hash 325c0aadd9873daeef187fb7103d1cb67b66029b9fe75f2fdb499233e4ed4d7e), this will cause launch time delays
+[09Jan2025 01:45:35.812] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/crossroads/decor1 is being run through DFU (hash 38b6f84706a798d66ed09a4165ba139eec7c062b8064f09bdaf90fce9c805caa), this will cause launch time delays
+[09Jan2025 01:45:35.814] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq1 is being run through DFU (hash df369eb9c1e515ef6f6b908ecb55b545864d1abc4c417ad2ae8d48ac4d3cfb5b), this will cause launch time delays
+[09Jan2025 01:45:35.829] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1 is being run through DFU (hash 704f686a67931a13efb2a1386796360fb996c11d1a745b0059b275c9065025a5), this will cause launch time delays
+[09Jan2025 01:45:35.836] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/alchemist is being run through DFU (hash 7b59154803c0fd581e6d94457f855943cdad6d72b39127dd9bcfc32a74334243), this will cause launch time delays
+[09Jan2025 01:45:35.847] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_4 is being run through DFU (hash 4defe64857e036f9da1c799f221b9d6b631581963588764febef2b7aed1ff573), this will cause launch time delays
+[09Jan2025 01:45:35.870] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/farms/farm1 is being run through DFU (hash 5c428260ee5771613cf81700e597cce7a6a01be0e02d6d655d462d28a034a2ac), this will cause launch time delays
+[09Jan2025 01:45:35.887] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/farms/farm2 is being run through DFU (hash 9cb5430fe6297b8b4c80bd53420fc243d75e4e0b84bb395f9ce276680a43197e), this will cause launch time delays
+[09Jan2025 01:45:35.900] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table2 is being run through DFU (hash f14de7f70526efdb042f418f81334b38043bd725659b7e1fa144407b9a7c3f2b), this will cause launch time delays
+[09Jan2025 01:45:35.902] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table1 is being run through DFU (hash 409092f96f258af8c7f811852d856258f1bd0c79a51bd9b11858489ce3e91ed8), this will cause launch time delays
+[09Jan2025 01:45:35.905] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor6 is being run through DFU (hash 79ed125ea232bfc95c06144ae9d02ef23ec21d02fe5f616ad96202808922bc78), this will cause launch time delays
+[09Jan2025 01:45:35.907] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_netherite is being run through DFU (hash 1f29f3ba4ff0a764f45e841875abfd92f6fd338e60422c9444ae59ce9ab904e9), this will cause launch time delays
+[09Jan2025 01:45:35.914] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/treasure/bomb3 is being run through DFU (hash f7562ecd332f6f708ceeabfac541aa1b5a4164e1577cf0ec206b6d89ab63a95b), this will cause launch time delays
+[09Jan2025 01:45:35.916] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor4 is being run through DFU (hash 7b5fb082ab5176729187cd68a9b09726b58ab87e883249fa70e858a78755d7b9), this will cause launch time delays
+[09Jan2025 01:45:35.917] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor3 is being run through DFU (hash 1f5ae44df04752073c033471fccb557ffdde2084f92774ac8f9abbe6737856b7), this will cause launch time delays
+[09Jan2025 01:45:35.919] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove10 is being run through DFU (hash b53615fd2e41f15bd4f0171b01d1d8a578ec500b14b680b1955da0c3186cf569), this will cause launch time delays
+[09Jan2025 01:45:35.920] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove6 is being run through DFU (hash 9e2dc7d3dda776dc443966bbdefcf5cff6aa094ce44aebc53704432d200b58ef), this will cause launch time delays
+[09Jan2025 01:45:35.926] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove9 is being run through DFU (hash f42e42f64622f5df9978c36b6556a9531a2ff6da96a3748979e97ff1245a256e), this will cause launch time delays
+[09Jan2025 01:45:35.928] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor1 is being run through DFU (hash 25ad478c9bb6f0fa8525872067524350c44a82db0f81d49c71d0419c94ab866f), this will cause launch time delays
+[09Jan2025 01:45:35.932] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor2 is being run through DFU (hash 795c7a39bd3b6b1f60856bbcb1517664fae8171687ec28931834a6e3be6b5f45), this will cause launch time delays
+[09Jan2025 01:45:35.936] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove1 is being run through DFU (hash 1b12e88f3c5a33353f4c3b9cb5207984dbae19664a5b7abd37d1df238584a143), this will cause launch time delays
+[09Jan2025 01:45:35.937] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove14 is being run through DFU (hash 06ecf85a335deae65637fcf5ce35239e7ac389b4ddc2505e867e97fbc6b55576), this will cause launch time delays
+[09Jan2025 01:45:35.938] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove13 is being run through DFU (hash aaf4d2430bd1889894f9634bffd3c6a1b2fb71ffe55a22bf791ae4e4f1256b2f), this will cause launch time delays
+[09Jan2025 01:45:35.940] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove8 is being run through DFU (hash 82f1d0d947952f4819bb2ae61efae730d5a87fa014408cc334538c12c37bc31e), this will cause launch time delays
+[09Jan2025 01:45:35.941] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_guard is being run through DFU (hash b4f0888d665fc61862e3ede764fa215fdfdfa8b5a93e2179acb159e4e573726e), this will cause launch time delays
+[09Jan2025 01:45:35.949] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_3 is being run through DFU (hash 294e6cb2b4ea1d54c8cd779fa1bad5fe7cad59cbc86ffcd54bf1de3f60b0a226), this will cause launch time delays
+[09Jan2025 01:45:35.958] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/blacksmith is being run through DFU (hash 3b782db9eca85451f3ee97e0f9e2cd2f529d602f0286988d084761ba2f535c97), this will cause launch time delays
+[09Jan2025 01:45:35.966] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small3 is being run through DFU (hash 5c59dca773286a2a88f668c7a9bdf90810ff19b65003b8eb1a0eb26e4c1e2628), this will cause launch time delays
+[09Jan2025 01:45:35.969] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small2 is being run through DFU (hash 88d55e517f8aae14402dce491cc6d72e6916736f8c96d2363ea3655daaa88999), this will cause launch time delays
+[09Jan2025 01:45:35.970] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small1 is being run through DFU (hash ee0415a08738ceb00ae5ccd38a1876b352ee22106dd8f9e969e28b79a2ed8773), this will cause launch time delays
+[09Jan2025 01:45:35.973] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing_w is being run through DFU (hash 6b227cde7f7be104c34326d5a1319a090002d65183e78b5cb5ededcf25aaafdf), this will cause launch time delays
+[09Jan2025 01:45:35.999] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pigstep is being run through DFU (hash 2c3c9f51ce1fc6f07424b0cb4c21f879b5615a1e5636a4f252e586060269ce50), this will cause launch time delays
+[09Jan2025 01:45:36.009] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/armory_1 is being run through DFU (hash ee1713b38f1454cfbe0e0aa7b6aa3fa92110daad6d1fb12e33e7606afca11ae6), this will cause launch time delays
+[09Jan2025 01:45:36.051] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/ocean_portal is being run through DFU (hash 91c51fcb53aa42b9843a863bc4ad69a117290edb388c0f7cbe795d95b1e81cde), this will cause launch time delays
+[09Jan2025 01:45:36.066] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_5 is being run through DFU (hash 1c18099ee402dc8f1edf0bc89117772a80baad8c5a5781dad51f0dd29732b7a4), this will cause launch time delays
+[09Jan2025 01:45:36.077] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/treasure_netherite is being run through DFU (hash b3cd8088634bcfbf2a963d440440dc09f1934c1107f39fcb928d96f0baf84a25), this will cause launch time delays
+[09Jan2025 01:45:36.090] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_6 is being run through DFU (hash 1ab5b01d1aaf3bb29620ffa845c70a741e050429a22a228351f44f132462def2), this will cause launch time delays
+[09Jan2025 01:45:36.098] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1_hoglin is being run through DFU (hash 127513bb46e7cea9b392f0a53a1b1cad6ba9b80c419c1ff0bad8c7e6544486e3), this will cause launch time delays
+[09Jan2025 01:45:36.108] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_3 is being run through DFU (hash 66efcbe05f2ac29af828764826874af1715387eb37b28938afa3bb40205888ce), this will cause launch time delays
+[09Jan2025 01:45:36.122] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cryostasis_chamber is being run through DFU (hash f3f7d063082f8fabf919f1295981338a962018d4a36dd877bb98b9b61b8a1e92), this will cause launch time delays
+[09Jan2025 01:45:36.142] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/house_1x1 is being run through DFU (hash 16ee77a4d5d51867ddad884f87610785e60fe667aaef6007afdcdc0afe63ad9b), this will cause launch time delays
+[09Jan2025 01:45:36.154] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq2 is being run through DFU (hash 27b003d52f5b2286596b1a3b486f5b0ba7507db29f2fc4a275961fbc42b391f8), this will cause launch time delays
+[09Jan2025 01:45:36.169] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pig_ben is being run through DFU (hash f50d99e478053f6778ebf88a6d60b786029db89bcb3b227dd3bd6f5c77d7d581), this will cause launch time delays
+[09Jan2025 01:45:36.266] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_1 is being run through DFU (hash 0c061032cc41ffac892476ffa8603198e627de4db55548e94e6cf0e867de035b), this will cause launch time delays
+[09Jan2025 01:45:36.281] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_2 is being run through DFU (hash 85fd3ed0ea8cff4f3a79530b3c73bc28968d6ef5f3b8c6e5facfb61a66a9ab71), this will cause launch time delays
+[09Jan2025 01:45:36.296] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_8 is being run through DFU (hash 7f8289537156aa830c6cc5b273938cfd329495fe2e82f3da24b04be79a868c19), this will cause launch time delays
+[09Jan2025 01:45:36.311] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/archery_tower is being run through DFU (hash 3cdac9b175b1745001631ee79b383f6855f8b3549564a40bc0d2ff199387a5a2), this will cause launch time delays
+[09Jan2025 01:45:36.331] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_4 is being run through DFU (hash e2bc29fe93203dc41b594eaf448290d42700b061b0e4d0ce37f2abc2a4041fd8), this will cause launch time delays
+[09Jan2025 01:45:36.348] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_base is being run through DFU (hash ac404f7915bd641821149a2f1b09c1398d445825856f09d3b06e511da2f0f1a1), this will cause launch time delays
+[09Jan2025 01:45:36.353] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand5 is being run through DFU (hash 7b62a5fdc721d9f7fa7688b120c55aba9bb2856dff4314f17629b03f6b61121f), this will cause launch time delays
+[09Jan2025 01:45:36.354] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table1_w is being run through DFU (hash 36d3ed106913a366eb454edf900b1a2c77271e25f335e14965f103083541ff41), this will cause launch time delays
+[09Jan2025 01:45:36.357] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1_w is being run through DFU (hash d015463916324afba2105e16015bfc3fb73411f4394ced54b802bd1e794358e1), this will cause launch time delays
+[09Jan2025 01:45:36.359] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand2 is being run through DFU (hash c21ae4ba40ecae7f99bfb35491926c2c284454e4c4daf84f2f8ad2a9f47f1316), this will cause launch time delays
+[09Jan2025 01:45:36.361] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand4 is being run through DFU (hash 3d4dc78799f286bcdabe75fc711acc843c3da6d358f4648b716062ead63417a6), this will cause launch time delays
+[09Jan2025 01:45:36.363] [Worker-Main-10/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm2_w is being run through DFU (hash ce705a108e4566b424458d624c8205238e7f939b5bf0ea48e67b33573d5dec39), this will cause launch time delays
+[09Jan2025 01:46:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Cosi vc
+[09Jan2025 01:46:25.833] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 01:46:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> edrianfer llamada
+[09Jan2025 01:47:21.251] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[09Jan2025 01:47:21.252] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 01:47:21.252] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 01:48:14.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[09Jan2025 01:48:14.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[09Jan2025 01:48:14.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[09Jan2025 01:48:14.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[09Jan2025 01:48:14.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[09Jan2025 01:48:55.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/153162, l='ServerLevel[world]', x=-499.27, y=50.00, z=1390.38] died: Pipeline Sentry suffocated in a wall
+[09Jan2025 01:49:04.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 01:49:04.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 01:49:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> }
+[09Jan2025 01:49:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> a
+[09Jan2025 01:49:52.432] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 01:49:52.673] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_2
+[09Jan2025 01:49:52.674] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1
+[09Jan2025 01:49:52.716] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_alt
+[09Jan2025 01:49:52.762] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_5
+[09Jan2025 01:49:52.762] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path
+[09Jan2025 01:49:52.764] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_1
+[09Jan2025 01:49:52.765] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_1_alt
+[09Jan2025 01:49:52.767] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_2
+[09Jan2025 01:49:52.769] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_5
+[09Jan2025 01:49:52.770] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down
+[09Jan2025 01:49:52.770] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance
+[09Jan2025 01:49:52.771] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1_alt
+[09Jan2025 01:49:52.773] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_4
+[09Jan2025 01:49:52.774] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_1
+[09Jan2025 01:49:52.778] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_2
+[09Jan2025 01:49:58.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS moved too quickly! 8.327452284974697,1.0,5.939351272764725
+[09Jan2025 01:49:58.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
+[09Jan2025 01:50:47.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [The Song of the Dragons]
+[09Jan2025 01:51:20.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS burned to death
