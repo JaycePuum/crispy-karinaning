@@ -1628,3 +1628,24 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 04:32:34.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 14.51129151592373,0.0,12.974418009911005
 [09Jan2025 04:32:34.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.605670581181954,0.0,8.881443772556395
 [09Jan2025 04:32:34.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 11.193620418690898,0.0,10.399279818197101
+[09Jan2025 04:33:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> atras
+[09Jan2025 04:33:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca
+[09Jan2025 04:34:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[09Jan2025 04:35:33.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> sacale bial
+[09Jan2025 04:35:49.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 2 p
+[09Jan2025 04:39:16.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito lost connection: Disconnected
+[09Jan2025 04:39:16.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito left the game
+[09Jan2025 04:39:41.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jan2025 04:39:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2025 04:39:41.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2025 04:39:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jan2025 04:39:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jan2025 04:39:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jan2025 04:39:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jan2025 04:39:43.255] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jan2025 04:39:43.257] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09Jan2025 04:39:43.262] [Server thread/INFO] [Framework/]: Finished unloading server configs

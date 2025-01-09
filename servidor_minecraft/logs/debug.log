@@ -12800,3 +12800,122 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 04:32:34.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 14.51129151592373,0.0,12.974418009911005
 [09Jan2025 04:32:34.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.605670581181954,0.0,8.881443772556395
 [09Jan2025 04:32:34.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 11.193620418690898,0.0,10.399279818197101
+[09Jan2025 04:33:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> atras
+[09Jan2025 04:33:41.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca
+[09Jan2025 04:33:56.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_alt
+[09Jan2025 04:33:56.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[09Jan2025 04:33:56.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_5
+[09Jan2025 04:33:56.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[09Jan2025 04:33:56.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[09Jan2025 04:33:56.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[09Jan2025 04:33:56.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[09Jan2025 04:33:56.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[09Jan2025 04:33:56.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[09Jan2025 04:33:56.326] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/copper
+[09Jan2025 04:33:56.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down
+[09Jan2025 04:33:56.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[09Jan2025 04:33:56.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_1
+[09Jan2025 04:33:56.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_potato
+[09Jan2025 04:33:56.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[09Jan2025 04:33:56.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[09Jan2025 04:33:56.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[09Jan2025 04:33:56.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[09Jan2025 04:33:56.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down_sculk
+[09Jan2025 04:33:56.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down_sculk
+[09Jan2025 04:33:56.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[09Jan2025 04:33:56.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[09Jan2025 04:33:56.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[09Jan2025 04:33:56.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_lapis
+[09Jan2025 04:33:56.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[09Jan2025 04:33:56.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[09Jan2025 04:33:56.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_pumpkin
+[09Jan2025 04:33:56.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_food
+[09Jan2025 04:33:56.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[09Jan2025 04:33:56.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[09Jan2025 04:33:56.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[09Jan2025 04:33:56.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[09Jan2025 04:33:56.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[09Jan2025 04:33:56.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[09Jan2025 04:33:56.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_sculk
+[09Jan2025 04:33:56.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1
+[09Jan2025 04:33:56.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[09Jan2025 04:33:56.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[09Jan2025 04:33:56.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[09Jan2025 04:33:56.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[09Jan2025 04:33:56.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/archer
+[09Jan2025 04:33:56.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[09Jan2025 04:34:10.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:34:10.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:34:49.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[09Jan2025 04:35:33.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> sacale bial
+[09Jan2025 04:35:49.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 2 p
+[09Jan2025 04:37:12.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[09Jan2025 04:37:12.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[09Jan2025 04:37:12.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[09Jan2025 04:37:12.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2
+[09Jan2025 04:37:12.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_2
+[09Jan2025 04:37:12.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/connector_2
+[09Jan2025 04:37:12.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[09Jan2025 04:37:12.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/connector_1
+[09Jan2025 04:39:10.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:39:10.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:39:16.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito lost connection: Disconnected
+[09Jan2025 04:39:16.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito left the game
+[09Jan2025 04:39:41.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jan2025 04:39:41.747] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[09Jan2025 04:39:41.751] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: fc566941-0e22-3d95-94f8-1bd2db4f0ab4
+[09Jan2025 04:39:41.751] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 0b236d43-1c1e-35d6-8512-41002099c114
+[09Jan2025 04:39:41.759] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[09Jan2025 04:39:41.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jan2025 04:39:41.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jan2025 04:39:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jan2025 04:39:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jan2025 04:39:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jan2025 04:39:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jan2025 04:39:43.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:39:43.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jan2025 04:39:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jan2025 04:39:43.163] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[09Jan2025 04:39:43.163] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[09Jan2025 04:39:43.225] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[09Jan2025 04:39:43.225] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[09Jan2025 04:39:43.253] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[09Jan2025 04:39:43.253] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[09Jan2025 04:39:43.255] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jan2025 04:39:43.257] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/crispy-karinaning/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23336!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09Jan2025 04:39:43.257] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09Jan2025 04:39:43.262] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[09Jan2025 04:39:43.262] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
