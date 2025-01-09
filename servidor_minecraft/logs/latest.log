@@ -1545,3 +1545,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 03:37:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
 [09Jan2025 03:37:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [War Pigs]
 [09Jan2025 03:38:32.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [What a Deal!]
+[09Jan2025 03:41:42.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[09Jan2025 03:41:42.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[09Jan2025 03:41:42.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[09Jan2025 03:47:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [War Pigs]
+[09Jan2025 03:48:20.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Piglin Brute
+[09Jan2025 03:49:24.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Hunt and Gather]
+[09Jan2025 03:50:00.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.32791225515863065
+[09Jan2025 03:51:13.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
+[09Jan2025 03:51:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
