@@ -7076,6 +7076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-09 04:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-01-09 03:44:11 +0000"
@@ -7169,6 +7175,12 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-09 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-09 04:07:12 +0000"
     },
     "done": true
   },
@@ -7361,6 +7373,12 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-01-09 02:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-09 04:07:12 +0000"
     },
     "done": true
   },

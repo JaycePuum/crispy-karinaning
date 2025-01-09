@@ -1560,3 +1560,38 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 03:58:49.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
 [09Jan2025 03:58:49.434] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
 [09Jan2025 04:00:48.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 04:02:10.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 04:02:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[09Jan2025 04:07:12.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Hidden in the Depths]
+[09Jan2025 04:08:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito tried to swim in lava
+[09Jan2025 04:08:45.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tmrr xddd
+[09Jan2025 04:08:54.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5343ms or 106 ticks behind
+[09Jan2025 04:09:01.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> necesitamos mejores armas
+[09Jan2025 04:09:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> :v
+[09Jan2025 04:10:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> go
+[09Jan2025 04:10:16.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 04:11:13.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> la estatua
+[09Jan2025 04:11:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tengo
+[09Jan2025 04:13:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> solos somos 2 p
+[09Jan2025 04:13:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> :vv
+[09Jan2025 04:13:35.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> cual es la estrategia p
+[09Jan2025 04:14:34.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 12 [Block of Iron] to ErickJaeger]
+[09Jan2025 04:15:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> CUAL ES LA ESTRATEGIA VBRRR
+[09Jan2025 04:15:16.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> BRRR
+[09Jan2025 04:15:21.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> A
+[09Jan2025 04:15:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
+[09Jan2025 04:15:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> faltoso
+[09Jan2025 04:15:35.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
+[09Jan2025 04:16:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> sep
+[09Jan2025 04:17:09.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> vuela alto campeon
+[09Jan2025 04:17:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> michin
+[09Jan2025 04:17:27.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> el dragon va a salir hiper papeado
+[09Jan2025 04:17:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ten cuidado p
+[09Jan2025 04:19:27.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> :,v
+[09Jan2025 04:20:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> michines
+[09Jan2025 04:20:09.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ya se k hacer
+[09Jan2025 04:20:52.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> necesito arena
+[09Jan2025 04:20:56.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> y polvora ;v
+[09Jan2025 04:21:40.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[09Jan2025 04:21:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[09Jan2025 04:21:40.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
