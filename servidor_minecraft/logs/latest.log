@@ -1148,3 +1148,53 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 02:14:49.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by DarkMoon
 [09Jan2025 02:15:32.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 8 [Ambrosia] to ErickJaeger]
 [09Jan2025 02:16:37.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved wrongly! 0.48445248290499876
+[09Jan2025 02:19:14.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS lost connection: Disconnected
+[09Jan2025 02:19:14.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
+[09Jan2025 02:19:15.531] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Jan2025 02:19:16.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[09Jan2025 02:19:27.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EXPRIMEVACAS[/172.22.77.121:61097] logged in with entity id 6412 at (372.30000001192093, 63.0, 5555.300000011921)
+[09Jan2025 02:19:27.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS joined the game
+[09Jan2025 02:20:25.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.39529995719112776
+[09Jan2025 02:20:25.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.5083906543868579
+[09Jan2025 02:20:25.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.6058671119426435
+[09Jan2025 02:21:52.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> xd
+[09Jan2025 02:22:49.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=-27, z=5963} BlockPos{x=272, y=-27, z=5962}
+[09Jan2025 02:22:49.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[09Jan2025 02:22:51.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[09Jan2025 02:23:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Ancient Civilization]
+[09Jan2025 02:23:23.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> ya
+[09Jan2025 02:23:23.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[09Jan2025 02:23:24.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[09Jan2025 02:23:24.548] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[09Jan2025 02:23:24.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[09Jan2025 02:23:24.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[09Jan2025 02:23:24.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[09Jan2025 02:23:26.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> como es la mecanica
+[09Jan2025 02:23:31.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Jan2025 02:23:44.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> necesita estar cerca de los pilares?
+[09Jan2025 02:23:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> ya fue
+[09Jan2025 02:24:28.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:24:28.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:24:31.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Ancient Civilization]
+[09Jan2025 02:24:32.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:24:57.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:25:20.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:25:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:25:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:26:36.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved wrongly!
+[09Jan2025 02:26:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:26:45.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:26:46.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:26:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:26:52.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[09Jan2025 02:27:04.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/OnIsPoweredResult
+[09Jan2025 02:27:14.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:27:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:27:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:27:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:27:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> funciono?¡
+[09Jan2025 02:27:49.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was burnt to a crisp whilst fighting The Harbinger
+[09Jan2025 02:28:09.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:28:11.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:28:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:28:37.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger

@@ -3903,7 +3903,8 @@
       "minecraft:wither_skeleton": "2025-01-06 00:22:46 +0000",
       "minecraft:cave_spider": "2025-01-05 23:56:59 +0000",
       "minecraft:enderman": "2025-01-05 23:38:18 +0000",
-      "minecraft:zombie": "2025-01-04 23:48:52 +0000"
+      "minecraft:zombie": "2025-01-04 23:48:52 +0000",
+      "minecraft:drowned": "2025-01-09 02:18:08 +0000"
     },
     "done": false
   },
@@ -10191,6 +10192,12 @@
   "l2complements:recipes/burnt/burnt/cooked_cod": {
     "criteria": {
       "has_cooked_cod": "2025-01-09 01:47:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-09 02:14:10 +0000"
     },
     "done": true
   },
