@@ -1938,9 +1938,11 @@
       "minecraft:vindicator": "2025-01-06 05:45:39 +0000",
       "minecraft:magma_cube": "2025-01-07 04:54:59 +0000",
       "minecraft:spider": "2025-01-04 05:31:24 +0000",
+      "minecraft:piglin_brute": "2025-01-09 03:52:21 +0000",
       "minecraft:creeper": "2025-01-06 03:42:39 +0000",
       "minecraft:slime": "2025-01-06 01:32:21 +0000",
       "minecraft:phantom": "2025-01-06 04:59:53 +0000",
+      "minecraft:zombified_piglin": "2025-01-09 03:55:47 +0000",
       "minecraft:wither_skeleton": "2025-01-06 00:20:01 +0000",
       "minecraft:cave_spider": "2025-01-04 03:54:25 +0000",
       "minecraft:piglin": "2025-01-09 03:43:13 +0000",
@@ -7784,6 +7786,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-01-09 03:49:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_classic_nightstand": {
     "criteria": {
       "quartz_classic_nightstand": "2025-01-09 03:42:52 +0000"
@@ -7856,6 +7864,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-01-09 03:49:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_chair_modern": {
     "criteria": {
       "light_wood_chair_modern": "2025-01-09 03:42:52 +0000"
@@ -7913,6 +7927,12 @@
   "pfm:recipes/furniture/light_wood_table_natural": {
     "criteria": {
       "light_wood_table_natural": "2025-01-09 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-09 03:49:22 +0000"
     },
     "done": true
   },
@@ -8021,6 +8041,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-01-09 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-01-09 03:49:24 +0000"
     },
     "done": true
   },

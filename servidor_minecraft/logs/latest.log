@@ -1554,3 +1554,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 03:50:00.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.32791225515863065
 [09Jan2025 03:51:13.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
 [09Jan2025 03:51:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[09Jan2025 03:52:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Piglin Brute
+[09Jan2025 03:58:49.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emily'/83437, l='ServerLevel[world]', x=882.31, y=58.00, z=4873.52] died, message: 'Emily suffocated in a wall'
+[09Jan2025 03:58:49.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Emily'/83437, l='ServerLevel[world]', x=882.31, y=58.00, z=4873.52] died: Emily suffocated in a wall
+[09Jan2025 03:58:49.417] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[09Jan2025 03:58:49.434] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[09Jan2025 04:00:48.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
