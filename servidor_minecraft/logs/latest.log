@@ -103,3 +103,28 @@
 [09Jan2025 00:42:22.548] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
 [09Jan2025 00:46:46.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3907ms or 78 ticks behind
 [09Jan2025 00:47:30.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [An Ear-Shattering Roar]
+[09Jan2025 00:50:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:51:57.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 00:52:18.425] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=309, y=76, z=2171}
+[09Jan2025 00:52:41.544] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=347, y=75, z=2475}
+[09Jan2025 00:52:41.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=348, y=72, z=2475} but found not block entity block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] at location
+[09Jan2025 00:52:41.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=348, y=72, z=2475}
+[09Jan2025 00:52:41.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=348, y=72, z=2476} but found not block entity block Block{minecraft:stone} at location
+[09Jan2025 00:52:41.607] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=348, y=72, z=2476}
+[09Jan2025 00:52:41.607] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=348, y=73, z=2476} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[09Jan2025 00:52:41.607] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=348, y=73, z=2476}
+[09Jan2025 00:52:42.540] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=347, y=75, z=2475} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Jan2025 00:52:42.540] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=347, y=75, z=2475}
+[09Jan2025 00:54:58.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:55:15.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:55:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was energized by Lightning Dragon
+[09Jan2025 00:55:43.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has reached the goal [Who built this?]
+[09Jan2025 00:56:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:56:42.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09Jan2025 00:56:43.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Hunt and Gather]
+[09Jan2025 00:57:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Zombie
+[09Jan2025 00:57:42.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Zombie
+[09Jan2025 00:58:18.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:58:35.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:59:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 00:59:43.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon

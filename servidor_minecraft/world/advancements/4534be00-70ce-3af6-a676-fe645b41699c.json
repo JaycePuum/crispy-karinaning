@@ -92,6 +92,7 @@
       "minecraft:flower_forest": "2025-01-05 04:06:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-05 02:23:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-04 04:25:37 +0000",
+      "minecraft:savanna": "2025-01-09 00:51:49 +0000",
       "minecraft:plains": "2025-01-04 04:24:50 +0000"
     },
     "done": false
@@ -6836,6 +6837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-09 00:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-01-09 00:27:00 +0000"
@@ -6890,15 +6897,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-09 00:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-01-09 00:27:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-09 00:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-01-09 00:40:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_shower_towel": {
+    "criteria": {
+      "has_gray_wool": "2025-01-09 00:54:27 +0000"
     },
     "done": true
   },
@@ -6917,6 +6942,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2025-01-09 00:27:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_gray": {
+    "criteria": {
+      "oak_chair_classic_gray": "2025-01-09 00:54:27 +0000"
     },
     "done": true
   },
