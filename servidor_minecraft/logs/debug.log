@@ -11025,3 +11025,140 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 00:03:56.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 00:05:46.888] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
 [09Jan2025 00:05:56.449] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IKeyLockable$KeyStatus
+[09Jan2025 00:08:56.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:08:56.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:09:07.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[09Jan2025 00:09:07.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[09Jan2025 00:09:07.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[09Jan2025 00:10:40.189] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[09Jan2025 00:10:59.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Sea Serpent
+[09Jan2025 00:11:52.949] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-1797, y=72, z=5211}
+[09Jan2025 00:11:52.994] [pool-9-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Jan2025 00:11:53.993] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1798, y=72, z=5211} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Jan2025 00:11:53.993] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1798, y=72, z=5211}
+[09Jan2025 00:11:53.994] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1798, y=71, z=5211} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[09Jan2025 00:11:53.994] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-1798, y=71, z=5211}
+[09Jan2025 00:11:54.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1797, y=72, z=5211} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Jan2025 00:11:54.018] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-1797, y=72, z=5211}
+[09Jan2025 00:11:59.076] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_1
+[09Jan2025 00:11:59.077] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/down_2
+[09Jan2025 00:11:59.082] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_alt
+[09Jan2025 00:11:59.085] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path
+[09Jan2025 00:11:59.087] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[09Jan2025 00:11:59.089] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_1
+[09Jan2025 00:11:59.091] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_1
+[09Jan2025 00:11:59.094] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn
+[09Jan2025 00:11:59.096] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_1
+[09Jan2025 00:11:59.097] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_1
+[09Jan2025 00:11:59.098] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_alt
+[09Jan2025 00:11:59.099] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_alt
+[09Jan2025 00:11:59.100] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path
+[09Jan2025 00:11:59.101] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_2
+[09Jan2025 00:11:59.102] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_2
+[09Jan2025 00:11:59.104] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[09Jan2025 00:11:59.107] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[09Jan2025 00:11:59.108] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn
+[09Jan2025 00:11:59.109] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[09Jan2025 00:11:59.111] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[09Jan2025 00:11:59.112] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_1
+[09Jan2025 00:11:59.114] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_2
+[09Jan2025 00:11:59.115] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[09Jan2025 00:11:59.117] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_5
+[09Jan2025 00:11:59.120] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_2
+[09Jan2025 00:11:59.122] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_5
+[09Jan2025 00:11:59.124] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[09Jan2025 00:11:59.126] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down
+[09Jan2025 00:11:59.128] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_3
+[09Jan2025 00:11:59.130] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_4
+[09Jan2025 00:11:59.136] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_4
+[09Jan2025 00:11:59.146] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_3
+[09Jan2025 00:11:59.508] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/archer
+[09Jan2025 00:11:59.509] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_copper
+[09Jan2025 00:11:59.510] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_bedroom_3
+[09Jan2025 00:11:59.511] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils_1
+[09Jan2025 00:11:59.511] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_armor
+[09Jan2025 00:11:59.512] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_food
+[09Jan2025 00:11:59.513] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_bedroom
+[09Jan2025 00:11:59.514] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/prison
+[09Jan2025 00:11:59.516] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_tools
+[09Jan2025 00:11:59.517] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/farm_wheat
+[09Jan2025 00:11:59.518] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_iron
+[09Jan2025 00:11:59.519] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_weapons
+[09Jan2025 00:11:59.520] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_bedroom_1
+[09Jan2025 00:11:59.521] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/farm_potato
+[09Jan2025 00:11:59.522] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_red_mushroom
+[09Jan2025 00:11:59.524] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/portal
+[09Jan2025 00:11:59.526] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_archer
+[09Jan2025 00:11:59.527] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_brown_mushroom
+[09Jan2025 00:11:59.528] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_crafting
+[09Jan2025 00:11:59.530] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_bedroom_2
+[09Jan2025 00:11:59.531] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_books
+[09Jan2025 00:11:59.533] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/copper
+[09Jan2025 00:11:59.534] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_redstone
+[09Jan2025 00:11:59.535] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_smelting
+[09Jan2025 00:11:59.537] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/potions
+[09Jan2025 00:11:59.539] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_prison
+[09Jan2025 00:11:59.540] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_tnt
+[09Jan2025 00:11:59.541] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_lapis
+[09Jan2025 00:11:59.543] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/map
+[09Jan2025 00:11:59.545] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_rip
+[09Jan2025 00:11:59.547] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/stews
+[09Jan2025 00:11:59.550] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/farm_pumpkin
+[09Jan2025 00:11:59.552] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/iron_golem
+[09Jan2025 00:11:59.554] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_amethyst
+[09Jan2025 00:11:59.555] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils_3
+[09Jan2025 00:11:59.556] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_emerald
+[09Jan2025 00:11:59.558] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils
+[09Jan2025 00:11:59.559] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/camp
+[09Jan2025 00:11:59.560] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_gold
+[09Jan2025 00:11:59.560] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_potions
+[09Jan2025 00:11:59.561] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils_2
+[09Jan2025 00:11:59.562] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/music
+[09Jan2025 00:11:59.564] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_diamonds
+[09Jan2025 00:11:59.566] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/farm_melon
+[09Jan2025 00:11:59.568] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/farm_carrot
+[09Jan2025 00:11:59.569] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/r_anchor
+[09Jan2025 00:11:59.571] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/farm_beetroot
+[09Jan2025 00:12:01.104] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_2_down_sculk
+[09Jan2025 00:12:01.107] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_2_down
+[09Jan2025 00:12:01.109] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_1_down
+[09Jan2025 00:12:01.110] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/connector_2
+[09Jan2025 00:12:01.112] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_1
+[09Jan2025 00:12:01.114] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_2_sculk
+[09Jan2025 00:12:01.115] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/connector_1
+[09Jan2025 00:12:01.118] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_1_down_sculk
+[09Jan2025 00:12:01.125] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_2
+[09Jan2025 00:12:01.132] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/minecart/path_1_sculk
+[09Jan2025 00:12:42.177] [Worker-Main-74/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_4
+[09Jan2025 00:12:56.667] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path
+[09Jan2025 00:12:56.668] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[09Jan2025 00:12:56.669] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_alt
+[09Jan2025 00:12:56.671] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[09Jan2025 00:12:56.672] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_3
+[09Jan2025 00:12:56.673] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_alt
+[09Jan2025 00:12:56.674] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/turn_2
+[09Jan2025 00:12:56.674] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[09Jan2025 00:12:56.675] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_3
+[09Jan2025 00:12:56.676] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_3
+[09Jan2025 00:13:17.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 00:13:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [My Name is Nobody]
+[09Jan2025 00:13:56.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 00:13:56.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 00:13:57.964] [pool-3-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[09Jan2025 00:13:57.992] [pool-3-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[09Jan2025 00:14:53.513] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
+[09Jan2025 00:16:51.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_3
+[09Jan2025 00:17:06.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Tie me to the Mast]
+[09Jan2025 00:17:09.540] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/large_farm
+[09Jan2025 00:17:09.542] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/weaponsmith
+[09Jan2025 00:17:09.545] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.555] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.556] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.556] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.558] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.560] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.562] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.575] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.577] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.577] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[09Jan2025 00:17:09.580] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
