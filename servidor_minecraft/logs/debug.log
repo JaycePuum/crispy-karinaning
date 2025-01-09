@@ -12113,3 +12113,89 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 02:28:28.218] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [09Jan2025 02:28:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
 [09Jan2025 02:28:37.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:28:51.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was killed by The Harbinger using magic
+[09Jan2025 02:29:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:29:05.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 02:29:05.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 02:29:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS withered away whilst fighting EXPRIMEVACAS
+[09Jan2025 02:29:24.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[09Jan2025 02:29:43.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:29:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:29:51.576] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[09Jan2025 02:29:51.585] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 02:29:51.585] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 02:29:55.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:29:55.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck by lightning
+[09Jan2025 02:30:15.367] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[09Jan2025 02:30:15.368] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 02:30:15.369] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 02:30:16.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:30:30.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:30:33.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:30:47.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:30:55.058] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 02:30:56.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:30:58.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:31:00.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:31:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:31:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:31:48.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> c kuk ven p
+[09Jan2025 02:32:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was blown up by The Harbinger
+[09Jan2025 02:32:15.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:32:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:32:23.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:32:42.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[09Jan2025 02:33:04.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:33:12.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 withered away
+[09Jan2025 02:33:13.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:33:20.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:33:47.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck by lightning
+[09Jan2025 02:34:05.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 02:34:05.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 02:34:06.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck by lightning whilst fighting The Harbinger
+[09Jan2025 02:34:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:10.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:15.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:23.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:24.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:41.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:44.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:34:51.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:35:06.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 hit the ground too hard whilst trying to escape The Harbinger
+[09Jan2025 02:35:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Deepling Brute
+[09Jan2025 02:35:45.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:35:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:35:46.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[09Jan2025 02:36:09.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 burned to death
+[09Jan2025 02:36:17.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_3
+[09Jan2025 02:36:28.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Jan2025 02:36:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:36:41.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Nehemoth
+[09Jan2025 02:36:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:36:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Nehemoth
+[09Jan2025 02:36:48.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> back
+[09Jan2025 02:37:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:37:07.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:37:35.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Tie me to the Mast]
+[09Jan2025 02:37:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:37:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:37:43.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:37:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:38:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck by lightning whilst fighting The Harbinger
+[09Jan2025 02:38:07.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:38:16.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> erick
+[09Jan2025 02:38:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:38:21.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> mi tumba
+[09Jan2025 02:38:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> matame
+[09Jan2025 02:38:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> matate
+[09Jan2025 02:38:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:38:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:38:33.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> matate
+[09Jan2025 02:38:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:38:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:38:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by The Harbinger
+[09Jan2025 02:39:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:39:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by The Harbinger
+[09Jan2025 02:39:05.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 02:39:05.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 02:39:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
