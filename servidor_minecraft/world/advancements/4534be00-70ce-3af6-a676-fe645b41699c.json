@@ -6837,6 +6837,12 @@
     },
     "done": true
   },
+  "luminousworld:kill_mummy": {
+    "criteria": {
+      "kill_mummy_0": "2025-01-09 01:23:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-09 00:54:27 +0000"
@@ -6918,6 +6924,12 @@
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-01-09 00:40:02 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-01-09 01:21:29 +0000"
     },
     "done": true
   },

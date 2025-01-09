@@ -162,3 +162,18 @@
 [09Jan2025 01:20:01.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/114036, l='ServerLevel[world]', x=235.94, y=-20.00, z=709.99] died: Restless Spirit was killed
 [09Jan2025 01:20:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
 [09Jan2025 01:20:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:20:45.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Lightning Dragon
+[09Jan2025 01:21:04.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:21:29.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has completed the challenge [Hunted]
+[09Jan2025 01:21:29.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[09Jan2025 01:21:29.246] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Jan2025 01:21:57.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:22:14.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:22:40.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was struck with lightning by Lightning Dragon
+[09Jan2025 01:23:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon tried to swim in lava
+[09Jan2025 01:23:44.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has reached the goal [Ruthless Remains]
+[09Jan2025 01:27:24.249] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[09Jan2025 01:27:24.250] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[09Jan2025 01:27:24.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[09Jan2025 01:29:32.824] [Worker-Main-26/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[09Jan2025 01:29:35.567] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene

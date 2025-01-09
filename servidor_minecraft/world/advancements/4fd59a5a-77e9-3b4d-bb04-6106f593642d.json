@@ -9808,6 +9808,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-01-09 01:26:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-01-09 00:24:32 +0000"
@@ -9874,9 +9880,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-01-09 01:26:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-09 00:34:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-01-09 01:26:00 +0000"
     },
     "done": true
   },
@@ -10012,6 +10030,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-09 01:26:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-01-09 00:26:59 +0000"
@@ -10141,6 +10165,12 @@
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2025-01-08 23:34:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-01-09 01:26:00 +0000"
     },
     "done": true
   },
