@@ -12723,3 +12723,80 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 04:22:06.001] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
 [09Jan2025 04:22:13.647] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
 [09Jan2025 04:22:16.009] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 04:22:20.467] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 04:22:25.188] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 04:22:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> como dijo matias
+[09Jan2025 04:22:27.529] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 04:22:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> la avaricia rompio el saco :,v
+[09Jan2025 04:23:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Zombie
+[09Jan2025 04:23:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Zombie
+[09Jan2025 04:24:10.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:24:10.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:24:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x eso
+[09Jan2025 04:24:41.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xdd
+[09Jan2025 04:26:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
+[09Jan2025 04:26:07.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca abjo
+[09Jan2025 04:26:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay un dragon
+[09Jan2025 04:26:37.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[09Jan2025 04:26:37.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[09Jan2025 04:26:37.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance
+[09Jan2025 04:26:37.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1
+[09Jan2025 04:26:37.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[09Jan2025 04:26:37.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_3
+[09Jan2025 04:26:37.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/copper
+[09Jan2025 04:26:37.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_books
+[09Jan2025 04:26:37.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_1_down
+[09Jan2025 04:26:37.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_food
+[09Jan2025 04:26:37.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down
+[09Jan2025 04:26:37.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/archer
+[09Jan2025 04:26:37.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_2
+[09Jan2025 04:26:37.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_smelting
+[09Jan2025 04:26:37.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_2
+[09Jan2025 04:26:37.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[09Jan2025 04:26:37.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[09Jan2025 04:26:37.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_2
+[09Jan2025 04:26:37.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[09Jan2025 04:26:37.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_1
+[09Jan2025 04:26:37.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_1
+[09Jan2025 04:26:37.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path
+[09Jan2025 04:26:37.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_prison
+[09Jan2025 04:26:37.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_armor
+[09Jan2025 04:26:37.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tools
+[09Jan2025 04:26:37.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/r_anchor
+[09Jan2025 04:26:37.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/music
+[09Jan2025 04:26:37.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_weapons
+[09Jan2025 04:26:37.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn
+[09Jan2025 04:26:37.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_redstone
+[09Jan2025 04:26:37.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_iron
+[09Jan2025 04:26:37.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tnt
+[09Jan2025 04:26:37.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/stews
+[09Jan2025 04:26:37.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_carrot
+[09Jan2025 04:26:37.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_pumpkin
+[09Jan2025 04:26:37.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_4
+[09Jan2025 04:26:37.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1_alt
+[09Jan2025 04:26:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k
+[09Jan2025 04:26:54.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=67, z=2329} BlockPos{x=-137, y=66, z=2331}
+[09Jan2025 04:26:54.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ya lo lotee
+[09Jan2025 04:28:04.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=69, z=2327} BlockPos{x=-135, y=68, z=2326}
+[09Jan2025 04:28:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> llegue
+[09Jan2025 04:28:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tirate
+[09Jan2025 04:28:37.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay agua
+[09Jan2025 04:28:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> bro
+[09Jan2025 04:29:10.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 04:29:10.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 04:29:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si
+[09Jan2025 04:29:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> lo ataco?
+[09Jan2025 04:29:43.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved wrongly!
+[09Jan2025 04:29:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[09Jan2025 04:30:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[09Jan2025 04:31:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ta arriba
+[09Jan2025 04:31:53.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> sube al agua
+[09Jan2025 04:32:26.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 fell from a high place
+[09Jan2025 04:32:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> w
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 8.108143293188519,0.0,7.049370157620615
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.714314179029898,0.0,8.512417158085555
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 11.316689245309519,0.0,9.988521343328557
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 12.915716398735682,0.0,11.476141965546049
+[09Jan2025 04:32:34.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 14.51129151592373,0.0,12.974418009911005
+[09Jan2025 04:32:34.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.605670581181954,0.0,8.881443772556395
+[09Jan2025 04:32:34.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 11.193620418690898,0.0,10.399279818197101

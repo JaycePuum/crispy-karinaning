@@ -265,10 +265,10 @@
 	HarbingerHealthMultiplier = 14.0
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 14.0
+	HarbingerDamageMultiplier = 13.0
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealingMultiplier = 6.0
+	HarbingerHealingMultiplier = 5.0
 	#Harbinger's Wither Missile's Damage
 	#Range: 0.0 ~ 1000000.0
 	"Harbinger's WitherMissiledamage" = 15.0

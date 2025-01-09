@@ -1595,3 +1595,36 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 04:21:40.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
 [09Jan2025 04:21:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
 [09Jan2025 04:21:40.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 04:22:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> como dijo matias
+[09Jan2025 04:22:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> la avaricia rompio el saco :,v
+[09Jan2025 04:23:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Zombie
+[09Jan2025 04:23:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Zombie
+[09Jan2025 04:24:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x eso
+[09Jan2025 04:24:41.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xdd
+[09Jan2025 04:26:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
+[09Jan2025 04:26:07.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca abjo
+[09Jan2025 04:26:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay un dragon
+[09Jan2025 04:26:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k
+[09Jan2025 04:26:54.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=67, z=2329} BlockPos{x=-137, y=66, z=2331}
+[09Jan2025 04:26:54.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ya lo lotee
+[09Jan2025 04:28:04.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=69, z=2327} BlockPos{x=-135, y=68, z=2326}
+[09Jan2025 04:28:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> llegue
+[09Jan2025 04:28:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tirate
+[09Jan2025 04:28:37.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay agua
+[09Jan2025 04:28:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> bro
+[09Jan2025 04:29:17.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si
+[09Jan2025 04:29:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> lo ataco?
+[09Jan2025 04:29:43.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved wrongly!
+[09Jan2025 04:29:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[09Jan2025 04:30:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[09Jan2025 04:31:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ta arriba
+[09Jan2025 04:31:53.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> sube al agua
+[09Jan2025 04:32:26.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 fell from a high place
+[09Jan2025 04:32:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> w
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 8.108143293188519,0.0,7.049370157620615
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.714314179029898,0.0,8.512417158085555
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 11.316689245309519,0.0,9.988521343328557
+[09Jan2025 04:32:34.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 12.915716398735682,0.0,11.476141965546049
+[09Jan2025 04:32:34.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 14.51129151592373,0.0,12.974418009911005
+[09Jan2025 04:32:34.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.605670581181954,0.0,8.881443772556395
+[09Jan2025 04:32:34.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 11.193620418690898,0.0,10.399279818197101
