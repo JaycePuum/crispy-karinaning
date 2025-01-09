@@ -268,7 +268,7 @@
 	HarbingerDamageMultiplier = 14.0
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealingMultiplier = 4.0
+	HarbingerHealingMultiplier = 6.0
 	#Harbinger's Wither Missile's Damage
 	#Range: 0.0 ~ 1000000.0
 	"Harbinger's WitherMissiledamage" = 15.0
@@ -280,7 +280,7 @@
 	"The Harbinger's prevent attacks from far away Range" = 35.0
 	#Harbinger's DamageCap
 	#Range: 0.0 ~ 1000000.0
-	"The Harbinger DamageCap" = 22.0
+	"The Harbinger DamageCap" = 18.0
 	#Harbinger's lasers can light a fire in MobGriefing
 	"The Harbinger Light A Fire" = true
 	#The Harbinger's charge attack Hp Damage
