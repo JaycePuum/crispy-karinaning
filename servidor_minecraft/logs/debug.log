@@ -12199,3 +12199,173 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 02:39:05.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jan2025 02:39:05.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jan2025 02:39:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:39:17.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by The Harbinger
+[09Jan2025 02:39:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:39:32.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> tmr
+[09Jan2025 02:39:34.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[09Jan2025 02:39:34.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_4
+[09Jan2025 02:39:34.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[09Jan2025 02:39:34.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[09Jan2025 02:39:34.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn
+[09Jan2025 02:39:34.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_4
+[09Jan2025 02:39:34.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2_sculk
+[09Jan2025 02:39:34.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2_down
+[09Jan2025 02:39:34.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_1_down
+[09Jan2025 02:39:34.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[09Jan2025 02:39:34.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_amethyst
+[09Jan2025 02:39:34.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[09Jan2025 02:39:34.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[09Jan2025 02:39:34.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/connector_2
+[09Jan2025 02:39:34.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[09Jan2025 02:39:34.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_3
+[09Jan2025 02:39:34.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_3
+[09Jan2025 02:39:34.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[09Jan2025 02:39:34.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[09Jan2025 02:39:34.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_weapons
+[09Jan2025 02:39:34.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/copper
+[09Jan2025 02:39:34.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_armor
+[09Jan2025 02:39:34.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[09Jan2025 02:39:34.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_fossils
+[09Jan2025 02:39:34.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/iron_golem
+[09Jan2025 02:39:34.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_prison
+[09Jan2025 02:39:34.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_smelting
+[09Jan2025 02:39:34.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_potions
+[09Jan2025 02:39:34.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_2
+[09Jan2025 02:39:34.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[09Jan2025 02:39:34.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[09Jan2025 02:39:36.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:39:48.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:39:53.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[09Jan2025 02:39:56.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> falta ya luego
+[09Jan2025 02:39:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:40:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:40:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:40:23.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was struck by lightning
+[09Jan2025 02:40:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:40:32.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger withered away whilst fighting The Harbinger
+[09Jan2025 02:40:40.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:40:42.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:40:47.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:40:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> otra ves
+[09Jan2025 02:41:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:02.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:05.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> erick usa la flauta
+[09Jan2025 02:41:19.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:20.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:23.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:41:40.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by The Harbinger
+[09Jan2025 02:41:42.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:41:49.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:57.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:41:59.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:42:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> ya fue
+[09Jan2025 02:42:15.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:42:15.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:42:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> erick-
+[09Jan2025 02:42:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:42:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:42:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> back?
+[09Jan2025 02:42:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck by lightning whilst fighting The Harbinger
+[09Jan2025 02:42:33.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:42:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:42:42.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> back?
+[09Jan2025 02:42:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:42:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck by lightning whilst fighting The Harbinger
+[09Jan2025 02:42:56.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 02:43:08.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:43:08.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:43:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> las estoy b uscando
+[09Jan2025 02:43:33.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:43:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 withered away
+[09Jan2025 02:43:44.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> las estoy b uscando
+[09Jan2025 02:43:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:43:54.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 withered away whilst fighting The Harbinger
+[09Jan2025 02:44:05.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 02:44:05.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 02:44:06.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:44:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:44:15.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Ancient Civilization]
+[09Jan2025 02:44:33.325] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 02:44:33.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_2
+[09Jan2025 02:44:33.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/walls/wall_base
+[09Jan2025 02:44:33.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_0
+[09Jan2025 02:44:33.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_1
+[09Jan2025 02:44:33.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/posts/stair_post
+[09Jan2025 02:44:33.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_3
+[09Jan2025 02:44:33.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/walls/side_wall_1
+[09Jan2025 02:44:33.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/walls/side_wall_0
+[09Jan2025 02:44:33.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/ramparts/ramparts_1
+[09Jan2025 02:44:33.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_4
+[09Jan2025 02:44:33.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_0
+[09Jan2025 02:44:33.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_4_mirrored
+[09Jan2025 02:44:33.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_0
+[09Jan2025 02:44:33.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_0
+[09Jan2025 02:44:33.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/ramparts/ramparts_2
+[09Jan2025 02:44:33.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/rampart_plates/rampart_plate_1
+[09Jan2025 02:44:33.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_2
+[09Jan2025 02:44:33.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_4
+[09Jan2025 02:44:33.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_1
+[09Jan2025 02:44:33.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/posts/end_post
+[09Jan2025 02:44:33.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_3
+[09Jan2025 02:44:33.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_0
+[09Jan2025 02:44:33.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_1
+[09Jan2025 02:44:33.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_0
+[09Jan2025 02:44:33.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_3
+[09Jan2025 02:44:33.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_1
+[09Jan2025 02:44:33.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_3
+[09Jan2025 02:44:33.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_2
+[09Jan2025 02:44:33.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_3
+[09Jan2025 02:44:33.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_4
+[09Jan2025 02:44:33.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_1
+[09Jan2025 02:44:33.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_2
+[09Jan2025 02:44:35.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_0
+[09Jan2025 02:44:35.615] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_1
+[09Jan2025 02:44:35.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_3_mirrored
+[09Jan2025 02:44:35.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/ramparts/ramparts_3
+[09Jan2025 02:44:35.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_3
+[09Jan2025 02:44:35.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_2
+[09Jan2025 02:44:35.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_1
+[09Jan2025 02:44:35.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_4
+[09Jan2025 02:44:39.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:44:41.196] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 02:44:46.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:44:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 02:44:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was exterminated by The Harbinger 's laser
+[09Jan2025 02:44:57.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> no arruguen ps
+[09Jan2025 02:44:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was exterminated by The Harbinger 's laser
+[09Jan2025 02:45:05.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:45:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:45:49.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 withered away whilst fighting The Harbinger
+[09Jan2025 02:45:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:46:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was exterminated by The Harbinger 's laser
+[09Jan2025 02:46:06.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:46:17.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:46:24.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:46:29.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:46:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by The Harbinger
+[09Jan2025 02:46:44.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:46:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by The Harbinger
+[09Jan2025 02:47:06.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:47:24.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:47:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by The Harbinger
+[09Jan2025 02:47:54.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:47:56.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger withered away whilst fighting The Harbinger
+[09Jan2025 02:47:56.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by The Harbinger
+[09Jan2025 02:48:02.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> reinicien capitulo
+[09Jan2025 02:48:03.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was exterminated by The Harbinger 's laser
+[09Jan2025 02:48:14.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:48:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was exterminated by The Harbinger 's laser
+[09Jan2025 02:48:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:48:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by The Harbinger
+[09Jan2025 02:48:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 45 [Torch] to ErickJaeger]
+[09Jan2025 02:48:45.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon withered away whilst fighting The Harbinger
+[09Jan2025 02:48:49.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by The Harbinger
+[09Jan2025 02:48:51.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was exterminated by The Harbinger 's laser
+[09Jan2025 02:49:05.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 02:49:05.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 02:49:18.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was exterminated by The Harbinger 's laser
+[09Jan2025 02:49:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was exterminated by The Harbinger 's laser
+[09Jan2025 02:49:23.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was exterminated by The Harbinger 's laser
+[09Jan2025 02:49:27.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was burnt to a crisp whilst fighting The Harbinger
