@@ -176,6 +176,7 @@
       "minecraft:wither_skeleton": "2025-01-05 04:57:13 +0000",
       "minecraft:husk": "2025-01-06 05:20:38 +0000",
       "minecraft:cave_spider": "2025-01-04 03:52:31 +0000",
+      "minecraft:piglin": "2025-01-09 03:38:30 +0000",
       "minecraft:stray": "2025-01-05 02:17:35 +0000",
       "minecraft:silverfish": "2025-01-05 02:28:35 +0000",
       "minecraft:enderman": "2025-01-07 05:10:15 +0000",
@@ -7085,6 +7086,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-09 03:37:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-09 02:44:39 +0000"
@@ -7097,9 +7104,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-09 03:35:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-01-09 02:37:35 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-09 03:35:42 +0000"
     },
     "done": true
   },
@@ -7130,6 +7149,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-09 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-09 03:37:22 +0000"
     },
     "done": true
   },

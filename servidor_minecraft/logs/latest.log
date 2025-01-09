@@ -1520,3 +1520,28 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 03:29:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [09Jan2025 03:29:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [09Jan2025 03:31:01.563] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[09Jan2025 03:31:12.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 03:31:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> dame 1 este negruto
+[09Jan2025 03:31:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> me falta 1 noma
+[09Jan2025 03:31:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has reached the goal [Dinner's Served!]
+[09Jan2025 03:31:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Iron Pickaxe] to ErickJaeger]
+[09Jan2025 03:31:54.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si
+[09Jan2025 03:32:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 1 este negro
+[09Jan2025 03:32:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> no eso no p
+[09Jan2025 03:32:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> la bola negra
+[09Jan2025 03:32:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> esta p
+[09Jan2025 03:32:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> esta{
+[09Jan2025 03:33:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> telo tradeo x 3 stack de madera pipip
+[09Jan2025 03:33:59.569] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Jan2025 03:34:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 1 mas
+[09Jan2025 03:34:48.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> y pal lobby
+[09Jan2025 03:35:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien regala 1 spirit glider
+[09Jan2025 03:35:33.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x 2 palas de diamante
+[09Jan2025 03:36:16.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 03:36:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[09Jan2025 03:37:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Those Were the Days]
+[09Jan2025 03:37:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Those Were the Days]
+[09Jan2025 03:37:29.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS lost connection: Disconnected
+[09Jan2025 03:37:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
+[09Jan2025 03:37:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [War Pigs]
+[09Jan2025 03:38:32.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [What a Deal!]

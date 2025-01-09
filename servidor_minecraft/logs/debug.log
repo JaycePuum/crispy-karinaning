@@ -12570,3 +12570,42 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 03:29:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [09Jan2025 03:29:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [09Jan2025 03:31:01.563] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[09Jan2025 03:31:12.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith2
+[09Jan2025 03:31:12.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:soulblacksmith
+[09Jan2025 03:31:12.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 03:31:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> dame 1 este negruto
+[09Jan2025 03:31:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> me falta 1 noma
+[09Jan2025 03:31:52.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has reached the goal [Dinner's Served!]
+[09Jan2025 03:31:53.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Iron Pickaxe] to ErickJaeger]
+[09Jan2025 03:31:54.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> si
+[09Jan2025 03:32:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 1 este negro
+[09Jan2025 03:32:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> no eso no p
+[09Jan2025 03:32:15.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> la bola negra
+[09Jan2025 03:32:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> esta p
+[09Jan2025 03:32:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> esta{
+[09Jan2025 03:33:03.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> telo tradeo x 3 stack de madera pipip
+[09Jan2025 03:33:34.299] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 03:33:59.569] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Jan2025 03:33:59.574] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 03:33:59.574] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 03:34:05.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 03:34:05.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jan2025 03:34:10.313] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[09Jan2025 03:34:28.722] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[09Jan2025 03:34:28.753] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 03:34:28.754] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=106, y=66, z=616} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[09Jan2025 03:34:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 1 mas
+[09Jan2025 03:34:48.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> y pal lobby
+[09Jan2025 03:34:56.492] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[09Jan2025 03:35:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien regala 1 spirit glider
+[09Jan2025 03:35:33.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x 2 palas de diamante
+[09Jan2025 03:36:16.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 03:36:30.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[09Jan2025 03:37:17.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Those Were the Days]
+[09Jan2025 03:37:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Those Were the Days]
+[09Jan2025 03:37:29.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS lost connection: Disconnected
+[09Jan2025 03:37:29.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
+[09Jan2025 03:37:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [War Pigs]
+[09Jan2025 03:38:32.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [What a Deal!]
+[09Jan2025 03:39:05.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jan2025 03:39:05.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
