@@ -1497,3 +1497,26 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [09Jan2025 03:17:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [The Song of the Dragons]
 [09Jan2025 03:17:38.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [09Jan2025 03:20:10.065] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[09Jan2025 03:23:37.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.43952754520398996
+[09Jan2025 03:23:48.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.3872065433735979
+[09Jan2025 03:23:48.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.5641149620787879
+[09Jan2025 03:23:53.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.7180362943386416
+[09Jan2025 03:24:25.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.42127285850580426
+[09Jan2025 03:24:27.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.6121697192902108
+[09Jan2025 03:24:29.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.7189200354865996
+[09Jan2025 03:24:29.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VUELA VUELAA! (vehicle of EdrianferXD10) moved wrongly! 0.7940353479838068
+[09Jan2025 03:25:36.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien tiene statua pa maxear vida
+[09Jan2025 03:27:02.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x donde
+[09Jan2025 03:27:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> calla, estabas modo tengo boca pero no puedo gritar
+[09Jan2025 03:27:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> :v
+[09Jan2025 03:28:20.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien tiene statua pa usar el spirit pa maxear vidaaaaaaaaa
+[09Jan2025 03:28:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 03:28:41.685] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[09Jan2025 03:28:43.167] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[09Jan2025 03:28:43.177] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[09Jan2025 03:28:43.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[09Jan2025 03:28:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> no :,v
+[09Jan2025 03:29:22.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> UFFF
+[09Jan2025 03:29:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[09Jan2025 03:29:57.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[09Jan2025 03:31:01.563] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
