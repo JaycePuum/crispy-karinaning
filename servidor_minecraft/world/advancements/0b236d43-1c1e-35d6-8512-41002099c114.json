@@ -7650,6 +7650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-09 03:01:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-01-09 02:12:47 +0000"
@@ -7662,6 +7668,18 @@
     },
     "done": true
   },
+  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-01-09 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-01-09 03:01:25 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-01-09 02:23:05 +0000"
@@ -7671,6 +7689,18 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-01-09 02:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-09 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-09 03:06:19 +0000"
     },
     "done": true
   },

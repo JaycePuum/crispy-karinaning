@@ -10315,6 +10315,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-09 03:17:14 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/diamond_plate_shield": {
     "criteria": {
       "has_diamond_block": "2025-01-09 02:55:21 +0000"
