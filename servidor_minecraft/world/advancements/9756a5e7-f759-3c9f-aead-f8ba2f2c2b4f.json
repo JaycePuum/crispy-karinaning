@@ -10228,6 +10228,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:55 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:goblin_liquor_success": {
     "criteria": {
       "goblin_liquor_success_0": "2025-01-10 00:31:32 +0000"
@@ -10240,9 +10246,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-10 03:04:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-01-10 00:39:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 03:05:31 +0000"
     },
     "done": true
   },
@@ -10252,15 +10282,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-01-10 02:02:54 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 03:05:31 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:upgrade_success": {
     "criteria": {
       "upgrade_success_0": "2025-01-10 00:24:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-10 03:03:20 +0000"
     },
     "done": true
   },

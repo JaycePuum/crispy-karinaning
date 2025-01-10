@@ -6187,15 +6187,69 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/pewen_alexscaves_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/totem_of_undying": {
     "criteria": {
       "has_totem_of_undying": "2025-01-10 02:26:53 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "forge:ash": "2025-01-10 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
     },
     "done": true
   },
@@ -6211,9 +6265,93 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-10 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-01-10 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-10 02:52:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
     },
     "done": true
   },
@@ -6223,9 +6361,111 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-10 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
     },
     "done": true
   },
@@ -6235,9 +6475,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-10 03:00:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-01-10 02:19:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
     },
     "done": true
   },
@@ -6247,9 +6541,75 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-10 02:57:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_shovel": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
     },
     "done": true
   },
@@ -6259,9 +6619,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_green_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_green_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:29 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/totem_of_undying": {
     "criteria": {
       "has_totem_of_undying": "2025-01-10 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-10 02:48:03 +0000"
     },
     "done": true
   },

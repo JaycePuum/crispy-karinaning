@@ -12676,3 +12676,156 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 02:46:15.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/94684, l='ServerLevel[world]', x=-486.30, y=42.00, z=617.30] died: Skeleton Brother was slain by MotoMoto_7
 [10Jan2025 02:47:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay una estrucuta
 [10Jan2025 02:47:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k si tien .v
+[10Jan2025 02:48:44.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Bulldrogioth
+[10Jan2025 02:50:06.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/94685, l='ServerLevel[world]', x=-520.30, y=37.00, z=636.56] died: Skeleton Brother was slain by MotoMoto_7
+[10Jan2025 02:50:40.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/96572, l='ServerLevel[world]', x=-529.07, y=37.00, z=621.41] died: Skeleton Brother was slain by Torte using [Cake Batter]
+[10Jan2025 02:50:43.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:50:43.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:50:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[10Jan2025 02:50:50.962] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 02:51:41.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito moved wrongly!
+[10Jan2025 02:51:47.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Torte using [Cake Batter]
+[10Jan2025 02:52:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> un coas esquelitica
+[10Jan2025 02:52:13.014] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 02:52:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Torte using [Cake Batter]
+[10Jan2025 02:52:19.838] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 02:52:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [You Fool!]
+[10Jan2025 02:52:28.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Torte'/111488, l='ServerLevel[world]', x=-529.18, y=37.00, z=621.45] died: Torte was slain by MotoMoto_7
+[10Jan2025 02:52:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> cn fuerza 4 wtdd
+[10Jan2025 02:53:17.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/111514, l='ServerLevel[world]', x=-524.97, y=37.00, z=618.57] died: Skeleton Brother was slain by MotoMoto_7
+[10Jan2025 02:53:24.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito moved wrongly!
+[10Jan2025 02:53:24.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito moved wrongly!
+[10Jan2025 02:54:05.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/111499, l='ServerLevel[world]', x=-504.35, y=37.00, z=629.17] died: Skeleton Brother was slain by MotoMoto_7
+[10Jan2025 02:55:43.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:55:43.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:55:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 02:58:17.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Mother of Dragons]
+[10Jan2025 02:58:46.847] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_1_alt
+[10Jan2025 02:58:46.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path_1_alt
+[10Jan2025 02:58:46.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1_alt
+[10Jan2025 02:58:46.854] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path_alt
+[10Jan2025 02:58:46.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1
+[10Jan2025 02:58:46.861] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/trap/trap_3
+[10Jan2025 02:58:46.863] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_1_alt
+[10Jan2025 02:59:09.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 02:59:28.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_1
+[10Jan2025 02:59:28.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_1
+[10Jan2025 02:59:28.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_1
+[10Jan2025 02:59:33.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_2x1
+[10Jan2025 02:59:33.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_main
+[10Jan2025 02:59:33.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l2
+[10Jan2025 02:59:33.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l2
+[10Jan2025 02:59:33.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l2
+[10Jan2025 02:59:33.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l3
+[10Jan2025 02:59:33.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/archer
+[10Jan2025 02:59:33.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l3
+[10Jan2025 02:59:33.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_1x1
+[10Jan2025 02:59:33.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/shock_troop
+[10Jan2025 02:59:33.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l3
+[10Jan2025 02:59:33.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/lumber_c
+[10Jan2025 02:59:33.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/coolant_room
+[10Jan2025 02:59:33.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/round_table
+[10Jan2025 02:59:33.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/sentry_lab
+[10Jan2025 02:59:33.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15_compat
+[10Jan2025 02:59:33.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15w
+[10Jan2025 02:59:33.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_corner
+[10Jan2025 02:59:33.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/crossroads1
+[10Jan2025 02:59:33.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15
+[10Jan2025 02:59:33.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_gate3
+[10Jan2025 02:59:33.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_10
+[10Jan2025 02:59:33.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/library
+[10Jan2025 02:59:33.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_big3
+[10Jan2025 02:59:33.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_gold
+[10Jan2025 02:59:33.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_special_farm
+[10Jan2025 02:59:33.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/barrel_big1
+[10Jan2025 02:59:33.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/c3
+[10Jan2025 02:59:33.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x2/throne_room
+[10Jan2025 02:59:33.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/corridors
+[10Jan2025 02:59:33.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short2
+[10Jan2025 02:59:33.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/blacksmith
+[10Jan2025 02:59:33.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/dining
+[10Jan2025 02:59:33.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight
+[10Jan2025 02:59:33.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_diamond
+[10Jan2025 02:59:33.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/trap_room
+[10Jan2025 02:59:33.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor1
+[10Jan2025 02:59:33.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d1
+[10Jan2025 02:59:33.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor2
+[10Jan2025 02:59:33.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor1
+[10Jan2025 02:59:33.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/livq1
+[10Jan2025 02:59:33.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1
+[10Jan2025 02:59:33.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/alchemist
+[10Jan2025 02:59:33.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_4
+[10Jan2025 02:59:33.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor6
+[10Jan2025 02:59:33.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_netherite
+[10Jan2025 02:59:33.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/treasure/bomb3
+[10Jan2025 02:59:33.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor4
+[10Jan2025 02:59:33.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor3
+[10Jan2025 02:59:33.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_backup
+[10Jan2025 02:59:33.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove10
+[10Jan2025 02:59:33.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove6
+[10Jan2025 02:59:33.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove9
+[10Jan2025 02:59:33.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor1
+[10Jan2025 02:59:33.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor2
+[10Jan2025 02:59:33.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/kitchen
+[10Jan2025 02:59:33.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove1
+[10Jan2025 02:59:33.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove14
+[10Jan2025 02:59:33.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove13
+[10Jan2025 02:59:33.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove8
+[10Jan2025 02:59:33.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_guard
+[10Jan2025 02:59:33.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_3
+[10Jan2025 02:59:33.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/blacksmith
+[10Jan2025 02:59:33.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small3
+[10Jan2025 02:59:33.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table1
+[10Jan2025 02:59:33.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small1
+[10Jan2025 02:59:33.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing_w
+[10Jan2025 02:59:33.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/archery_tower
+[10Jan2025 02:59:33.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_base
+[10Jan2025 02:59:33.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_5
+[10Jan2025 02:59:33.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/livq2
+[10Jan2025 02:59:33.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand5
+[10Jan2025 02:59:33.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1_w
+[10Jan2025 02:59:33.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm1_w
+[10Jan2025 02:59:33.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand2
+[10Jan2025 02:59:33.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand4
+[10Jan2025 02:59:33.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1_hoglin
+[10Jan2025 02:59:52.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Light-Sensitive]
+[10Jan2025 02:59:52.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117948, l='ServerLevel[world]', x=-673.63, y=41.00, z=733.46] died: Desert Blaze was killed by MotoMoto_7 using magic
+[10Jan2025 02:59:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Darude - Firestorm]
+[10Jan2025 03:00:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Splintering II]
+[10Jan2025 03:00:17.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/118181, l='ServerLevel[world]', x=-679.86, y=43.00, z=754.35] died: Desert Blaze was slain by MotoMoto_7
+[10Jan2025 03:00:43.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:00:43.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 03:00:45.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/straight5
+[10Jan2025 03:00:45.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/corner1
+[10Jan2025 03:00:45.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/cross
+[10Jan2025 03:00:45.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/wonky_1
+[10Jan2025 03:00:45.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/small_farm
+[10Jan2025 03:00:45.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/small_house1
+[10Jan2025 03:01:03.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has completed the challenge [Border of Life]
+[10Jan2025 03:01:03.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119043, l='ServerLevel[world]', x=-696.30, y=57.39, z=802.64] died: Desert Blaze was killed by MotoMoto_7 using magic
+[10Jan2025 03:02:07.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Iron Pickaxe] to ErickJaeger]
+[10Jan2025 03:02:39.223] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/119291, l='ServerLevel[world]', x=-684.40, y=62.64, z=760.14] died: Desert Blaze was killed by MotoMoto_7 using magic
+[10Jan2025 03:03:33.143] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[10Jan2025 03:03:49.295] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[10Jan2025 03:03:49.344] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=15, z=-22}
+[10Jan2025 03:03:59.911] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/giant_portal_3
+[10Jan2025 03:04:10.052] [Worker-Main-25/DEBUG] [ModernFix/]: Structure minecraft:bastion/hoglin_stable/starting_pieces/stairs_2_mirrored is being run through DFU (hash 8d4aeb26bb0c380a21707cbb5370b66af0dcba900e29f1996623488a9996460a), this will cause launch time delays
+[10Jan2025 03:04:10.467] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_0
+[10Jan2025 03:04:10.472] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_3
+[10Jan2025 03:04:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Zoglin
+[10Jan2025 03:04:37.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/122861, l='ServerLevel[world]', x=-983.70, y=36.00, z=1082.70] died: Piglin Knight suffocated in a wall
+[10Jan2025 03:04:38.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[10Jan2025 03:04:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [In the Hall of the Piglin King]
+[10Jan2025 03:05:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ayuda gente
+[10Jan2025 03:05:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> necesito comida
+[10Jan2025 03:05:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 went off with a bang
+[10Jan2025 03:05:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> jajaja
+[10Jan2025 03:05:31.476] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 03:05:43.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:05:43.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 03:06:11.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Piglin Paratrooper
+[10Jan2025 03:06:17.749] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 03:06:21.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/125063, l='ServerLevel[world]', x=-868.98, y=32.00, z=1035.53] died: Piglin Paratrooper fell from a high place
+[10Jan2025 03:08:00.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/125065, l='ServerLevel[world]', x=-886.61, y=28.00, z=998.84] died: Piglin Paratrooper tried to swim in lava
+[10Jan2025 03:08:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Piglin Paratrooper
+[10Jan2025 03:08:44.377] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.

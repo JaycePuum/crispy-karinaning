@@ -7797,6 +7797,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-10 02:48:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-10 01:50:12 +0000"
@@ -7953,6 +7959,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-01-10 01:50:15 +0000"
@@ -7989,6 +8001,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
@@ -8004,6 +8022,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2025-01-10 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:36 +0000"
     },
     "done": true
   },
@@ -8259,6 +8283,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-10 03:04:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_table_modern_dinner": {
     "criteria": {
       "calcite_table_modern_dinner": "2025-01-10 00:50:02 +0000"
@@ -8382,6 +8412,12 @@
   "supplementaries:recipes/ash_brick_slab": {
     "criteria": {
       "has_ash_bricks": "2025-01-10 01:41:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:04:36 +0000"
     },
     "done": true
   },
@@ -8607,6 +8643,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-10 03:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-10 02:44:30 +0000"
@@ -8802,6 +8844,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-01-10 02:42:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-01-10 02:54:48 +0000"
     },
     "done": true
   },
