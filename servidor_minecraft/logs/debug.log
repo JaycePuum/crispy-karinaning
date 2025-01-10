@@ -11964,3 +11964,28 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 01:36:16.275] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
 [10Jan2025 01:36:16.279] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
 [10Jan2025 01:36:16.294] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_0
+[10Jan2025 01:36:35.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/ramparts/rampart_1
+[10Jan2025 01:36:35.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/rampart_plates/plate_0
+[10Jan2025 01:37:30.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yunaluna'/13904, l='ServerLevel[world]', x=842.26, y=66.00, z=4786.26] died, message: 'Yunaluna (Following) was shot by ErickJaeger'
+[10Jan2025 01:37:30.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yunaluna'/13904, l='ServerLevel[world]', x=842.26, y=66.00, z=4786.26] died: Yunaluna (Following) was shot by ErickJaeger
+[10Jan2025 01:37:30.221] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[10Jan2025 01:37:30.227] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[10Jan2025 01:39:54.759] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[10Jan2025 01:40:43.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:40:43.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:42:23.794] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[10Jan2025 01:42:23.794] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[10Jan2025 01:42:27.053] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[10Jan2025 01:43:28.621] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_2
+[10Jan2025 01:43:28.626] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_1
+[10Jan2025 01:44:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 2 [Cake] to ErickJaeger]
+[10Jan2025 01:44:11.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Hot Tourist Destinations]
+[10Jan2025 01:44:53.675] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[10Jan2025 01:44:53.724] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Jan2025 01:44:53.725] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=838, y=60, z=4859} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Jan2025 01:45:00.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Piglin Pillage]
+[10Jan2025 01:45:43.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:45:43.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:45:52.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/47108, l='ServerLevel[world]', x=-199.26, y=66.00, z=2266.97] died: Village Guard was slain by EdrianferXD10
+[10Jan2025 01:46:10.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
+[10Jan2025 01:46:24.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_1

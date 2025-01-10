@@ -9202,11 +9202,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-10 01:44:11 +0000",
       "minecraft:nether_wastes": "2025-01-07 04:55:33 +0000",
       "minecraft:soul_sand_valley": "2025-01-07 04:52:33 +0000",
-      "minecraft:basalt_deltas": "2025-01-10 00:32:21 +0000"
+      "minecraft:basalt_deltas": "2025-01-10 00:32:21 +0000",
+      "minecraft:warped_forest": "2025-01-10 01:43:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -10497,6 +10499,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-10 00:55:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2025-01-10 01:45:00 +0000"
     },
     "done": true
   },
