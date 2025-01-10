@@ -1668,3 +1668,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 04:40:35.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
 [10Jan2025 04:40:35.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
 [10Jan2025 04:40:46.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 04:44:38.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/SpatialType
+[10Jan2025 04:44:41.581] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingStateType
+[10Jan2025 04:44:42.151] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType
+[10Jan2025 04:48:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> gente
+[10Jan2025 04:52:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Gum Worm

@@ -10241,6 +10241,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-10 04:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
@@ -10310,6 +10316,12 @@
   "pfm:recipes/furniture/quartz_table_classic": {
     "criteria": {
       "quartz_table_classic": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-10 04:47:12 +0000"
     },
     "done": true
   },
@@ -10517,6 +10529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-10 04:47:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-10 02:55:44 +0000"
@@ -10604,6 +10622,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-10 03:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-10 04:47:12 +0000"
     },
     "done": true
   },
@@ -10804,6 +10828,12 @@
   "pfm:recipes/furniture/black_shower_towel": {
     "criteria": {
       "has_black_wool": "2025-01-10 04:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-10 04:47:12 +0000"
     },
     "done": true
   },
