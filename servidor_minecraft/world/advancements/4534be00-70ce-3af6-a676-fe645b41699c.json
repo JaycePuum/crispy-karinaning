@@ -7742,6 +7742,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-10 00:50:02 +0000"
@@ -7766,6 +7778,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
@@ -7787,6 +7805,18 @@
   "pfm:recipes/furniture/calcite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-10 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-01-10 01:52:04 +0000"
     },
     "done": true
   },
@@ -7826,6 +7856,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_chair_dinner": {
     "criteria": {
       "calcite_chair_dinner": "2025-01-10 00:50:02 +0000"
@@ -7850,6 +7892,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-10 00:50:02 +0000"
@@ -7859,6 +7919,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-10 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -7880,9 +7946,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -7898,9 +7976,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick_stairs": {
     "criteria": {
       "has_ash_bricks": "2025-01-10 01:41:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_log": {
+    "criteria": {
+      "has_log": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -7922,9 +8018,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -7964,6 +8096,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 01:52:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_chair": {
     "criteria": {
       "calcite_chair": "2025-01-10 00:50:02 +0000"
@@ -7973,6 +8117,12 @@
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -7988,6 +8138,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-10 00:50:02 +0000"
@@ -7997,6 +8153,12 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-10 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -8012,6 +8174,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_classic_nightstand": {
     "criteria": {
       "calcite_classic_nightstand": "2025-01-10 00:50:02 +0000"
@@ -8021,6 +8195,12 @@
   "pfm:recipes/furniture/calcite_chair_modern": {
     "criteria": {
       "calcite_chair_modern": "2025-01-10 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 01:52:04 +0000"
     },
     "done": true
   },
@@ -8048,9 +8228,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_tail": {
     "criteria": {
       "has_the_recipe": "2025-01-10 01:05:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -8066,6 +8258,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
@@ -8075,6 +8279,12 @@
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 01:52:04 +0000"
     },
     "done": true
   },
@@ -8126,6 +8336,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-01-10 00:50:34 +0000"
@@ -8144,6 +8360,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/calcite_table_classic": {
     "criteria": {
       "calcite_table_classic": "2025-01-10 00:50:02 +0000"
@@ -8153,6 +8375,12 @@
   "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
     "criteria": {
       "has_ash_bricks": "2025-01-10 01:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },
@@ -8168,9 +8396,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 01:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/ash_brick_slab_from_bricks": {
     "criteria": {
       "has_ash_bricks": "2025-01-10 01:41:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-10 01:50:15 +0000"
     },
     "done": true
   },

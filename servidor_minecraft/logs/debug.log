@@ -11989,3 +11989,85 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 01:45:52.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/47108, l='ServerLevel[world]', x=-199.26, y=66.00, z=2266.97] died: Village Guard was slain by EdrianferXD10
 [10Jan2025 01:46:10.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
 [10Jan2025 01:46:24.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_1
+[10Jan2025 01:47:21.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/46872, l='ServerLevel[world]', x=-225.70, y=58.00, z=2244.78] died: Piglin Civilian was slain by EdrianferXD10
+[10Jan2025 01:47:21.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/44617, l='ServerLevel[world]', x=-225.59, y=58.00, z=2245.32] died: Piglin Civilian was slain by EdrianferXD10
+[10Jan2025 01:47:23.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/46870, l='ServerLevel[world]', x=-225.40, y=58.00, z=2244.93] died: Piglin Civilian was slain by EdrianferXD10
+[10Jan2025 01:47:24.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/46871, l='ServerLevel[world]', x=-225.61, y=58.00, z=2243.04] died: Village Guard was slain by EdrianferXD10
+[10Jan2025 01:47:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [A Burning Arena]
+[10Jan2025 01:48:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ta al lado de la base
+[10Jan2025 01:48:10.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> wtf
+[10Jan2025 01:48:18.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x eso p
+[10Jan2025 01:48:24.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> se
+[10Jan2025 01:49:21.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 5.577787389116821,0.0,-8.549104909100606
+[10Jan2025 01:49:21.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 6.375165945084092,0.0,-10.235823521157272
+[10Jan2025 01:49:21.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 7.112077715011168,0.0,-11.98398814207485
+[10Jan2025 01:49:21.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 7.794283798084194,0.0,-13.786521830202219
+[10Jan2025 01:49:21.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 8.423461285217797,0.0,-15.637555849549699
+[10Jan2025 01:49:21.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 8.995581683840697,0.0,-17.532244990743493
+[10Jan2025 01:49:21.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.505026219245934,0.0,-19.465956334657676
+[10Jan2025 01:49:21.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 5.233167632892304,0.0,-14.502541575611758
+[10Jan2025 01:49:21.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 5.617082502598919,0.0,-16.500951323981553
+[10Jan2025 01:49:22.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 5.948142370575937,0.0,-18.526080106673817
+[10Jan2025 01:49:22.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 6.232584127027479,0.0,-20.574775077638606
+[10Jan2025 01:49:28.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_4
+[10Jan2025 01:49:28.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_1
+[10Jan2025 01:49:28.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_redstone
+[10Jan2025 01:49:28.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_fossils_3
+[10Jan2025 01:49:28.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[10Jan2025 01:49:28.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_3
+[10Jan2025 01:49:28.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path
+[10Jan2025 01:49:36.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_1
+[10Jan2025 01:49:47.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/portalroom
+[10Jan2025 01:49:47.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room6
+[10Jan2025 01:49:47.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway6
+[10Jan2025 01:49:47.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway3
+[10Jan2025 01:49:47.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway2
+[10Jan2025 01:49:47.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room9
+[10Jan2025 01:49:47.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room4
+[10Jan2025 01:49:47.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway1
+[10Jan2025 01:49:47.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway5
+[10Jan2025 01:49:47.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/smeltery
+[10Jan2025 01:49:47.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room2
+[10Jan2025 01:49:47.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room3
+[10Jan2025 01:49:47.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room8
+[10Jan2025 01:49:47.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway4
+[10Jan2025 01:49:47.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room7
+[10Jan2025 01:49:47.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room10
+[10Jan2025 01:49:47.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room5
+[10Jan2025 01:50:43.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:50:43.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:50:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 01:52:57.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.6072384444192949
+[10Jan2025 01:52:57.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 1.608530136623699
+[10Jan2025 01:52:57.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 2.651244537699313
+[10Jan2025 01:52:57.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 3.2091802242325684
+[10Jan2025 01:52:58.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.3103728691709762
+[10Jan2025 01:52:58.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 1.316312372821244
+[10Jan2025 01:52:58.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 2.361906621950993
+[10Jan2025 01:52:58.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 3.4287193347564653
+[10Jan2025 01:52:58.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4567095843083848
+[10Jan2025 01:52:58.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.46278465692154214
+[10Jan2025 01:52:58.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.46603530715293573
+[10Jan2025 01:52:58.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4677746652807855
+[10Jan2025 01:52:58.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4687053611359602
+[10Jan2025 01:52:58.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4692033579319741
+[10Jan2025 01:52:58.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4694698260885275
+[10Jan2025 01:52:58.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4696124078863022
+[10Jan2025 01:52:58.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.4696887005635517
+[10Jan2025 01:52:58.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.46972952325398865
+[10Jan2025 01:52:58.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.46975136666173967
+[10Jan2025 01:53:28.733] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[10Jan2025 01:53:28.734] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[10Jan2025 01:53:35.209] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/cultist
+[10Jan2025 01:53:35.210] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/inquisitor
+[10Jan2025 01:53:35.304] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/protector
+[10Jan2025 01:53:35.309] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/apostle
+[10Jan2025 01:53:35.311] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ravager
+[10Jan2025 01:53:35.321] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ritualist
+[10Jan2025 01:53:35.445] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/illusionist
+[10Jan2025 01:53:35.653] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/guardian
+[10Jan2025 01:55:43.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:55:43.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:56:24.327] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[10Jan2025 01:56:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Takaaki]
+[10Jan2025 01:56:32.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/56390, l='ServerLevel[world]', x=204.26, y=-20.00, z=199.26] died: Toxic Slime was killed
