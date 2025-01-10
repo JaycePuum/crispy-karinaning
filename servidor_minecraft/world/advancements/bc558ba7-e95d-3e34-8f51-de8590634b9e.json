@@ -6214,6 +6214,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-10 04:26:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_cyan_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-10 02:48:03 +0000"
@@ -6567,6 +6573,12 @@
   "mca:adventure/scythe_revive": {
     "criteria": {
       "iron": "2025-01-10 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-10 04:31:03 +0000"
     },
     "done": true
   },
