@@ -9105,7 +9105,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "pumpkin_soup": "2025-01-07 02:21:57 +0000"
+      "pumpkin_soup": "2025-01-07 02:21:57 +0000",
+      "chicken_soup": "2025-01-10 00:50:00 +0000"
     },
     "done": false
   },
@@ -10457,6 +10458,42 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_oven_range_hood": {
+    "criteria": {
+      "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_fridge": {
+    "criteria": {
+      "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-10 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_modern_pendant": {
+    "criteria": {
+      "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_mirror": {
+    "criteria": {
+      "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_freezer": {
+    "criteria": {
+      "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-01-10 00:35:52 +0000"
@@ -10469,9 +10506,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_stove": {
+    "criteria": {
+      "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-10 00:41:00 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
       "requirement": "2025-01-10 00:34:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-10 00:41:29 +0000"
     },
     "done": true
   },

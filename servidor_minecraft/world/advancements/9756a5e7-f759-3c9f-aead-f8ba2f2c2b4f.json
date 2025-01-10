@@ -10239,6 +10239,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-01-10 00:41:32 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:upgrade_success": {
     "criteria": {
       "upgrade_success_0": "2025-01-10 00:24:32 +0000"

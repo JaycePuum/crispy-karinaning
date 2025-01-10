@@ -1037,3 +1037,29 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 00:42:35.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7646, l='ServerLevel[world]', x=-246.30, y=61.18, z=1913.69] died: Pipeline Sentry was slain by EdrianferXD10
 [10Jan2025 00:43:19.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MotoMoto_7[/172.22.250.207:60133] logged in with entity id 11799 at (-117.57808708954236, -2.0, 2365.362310234487)
 [10Jan2025 00:43:19.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
+[10Jan2025 00:46:00.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11965, l='ServerLevel[world]', x=-255.39, y=-20.00, z=1903.61] died: Toxic Slime was killed
+[10Jan2025 00:46:07.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Jan2025 00:47:35.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:57796] logged in with entity id 13821 at (840.0350852250217, 60.0, 4856.300000011921)
+[10Jan2025 00:47:35.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[10Jan2025 00:48:56.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[10Jan2025 00:49:09.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[10Jan2025 00:49:09.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> otro dragon
+[10Jan2025 00:50:07.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> arriba
+[10Jan2025 00:50:16.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14172, l='ServerLevel[world]', x=-232.26, y=-20.00, z=1836.26] died: Toxic Slime was killed
+[10Jan2025 00:50:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[10Jan2025 00:50:39.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14431, l='ServerLevel[world]', x=-232.59, y=-20.00, z=1902.26] died: Toxic Slime was killed
+[10Jan2025 00:50:43.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[10Jan2025 00:50:43.034] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[10Jan2025 00:50:56.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7852, l='ServerLevel[world]', x=-254.79, y=62.17, z=1944.88] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:51:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[10Jan2025 00:51:57.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca
+[10Jan2025 00:52:17.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was turned into KFC by Fire Dragon
+[10Jan2025 00:52:46.933] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7660, l='ServerLevel[world]', x=-246.86, y=33.00, z=1895.74] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:53:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> W
+[10Jan2025 00:53:35.280] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7545, l='ServerLevel[world]', x=-244.01, y=35.87, z=1903.00] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:54:03.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18207, l='ServerLevel[world]', x=-254.61, y=-20.00, z=1896.58] died: Toxic Slime was killed
+[10Jan2025 00:54:06.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20545, l='ServerLevel[world]', x=-245.79, y=31.07, z=1929.60] died: Toxic Slime was slain by EdrianferXD10
+[10Jan2025 00:54:19.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18401, l='ServerLevel[world]', x=-301.11, y=-20.00, z=1977.09] died: Toxic Slime was killed
+[10Jan2025 00:54:19.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7773, l='ServerLevel[world]', x=-235.61, y=34.00, z=1930.30] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:55:12.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7829, l='ServerLevel[world]', x=-232.30, y=35.00, z=1930.30] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:55:15.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/19625, l='ServerLevel[world]', x=-260.85, y=-20.00, z=1903.17] died: Toxic Slime was killed
