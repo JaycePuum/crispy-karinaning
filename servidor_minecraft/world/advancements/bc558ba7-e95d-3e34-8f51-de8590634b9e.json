@@ -6241,6 +6241,12 @@
     },
     "done": true
   },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-01-10 02:36:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-10 02:21:43 +0000"

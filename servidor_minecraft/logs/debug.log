@@ -12633,3 +12633,46 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 02:36:21.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chizuko'/13958, l='ServerLevel[world]', x=822.29, y=65.00, z=4809.91] died, message: 'Chizuko was slain by Zombie'
 [10Jan2025 02:36:21.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chizuko'/13958, l='ServerLevel[world]', x=822.29, y=65.00, z=4809.91] died: Chizuko was slain by Zombie
 [10Jan2025 02:36:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has completed the challenge [A Soul for a Soul]
+[10Jan2025 02:40:15.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.6096823769703406
+[10Jan2025 02:40:15.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 1.5862428981208723
+[10Jan2025 02:40:15.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.5728925756593526
+[10Jan2025 02:40:15.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.5665508644060537
+[10Jan2025 02:40:15.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.6768414301932353
+[10Jan2025 02:40:15.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.6974698396606982
+[10Jan2025 02:40:15.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 1.7202256731634407
+[10Jan2025 02:40:15.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 2.744119848851369
+[10Jan2025 02:40:16.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 0.7101041368896404
+[10Jan2025 02:40:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 1.7352164169587923
+[10Jan2025 02:40:16.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 2.7603714802216928
+[10Jan2025 02:40:16.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved wrongly! 2.7855494359191653
+[10Jan2025 02:40:17.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_8
+[10Jan2025 02:40:17.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[10Jan2025 02:40:17.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[10Jan2025 02:40:25.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_4
+[10Jan2025 02:40:25.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_4
+[10Jan2025 02:40:25.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_4
+[10Jan2025 02:40:29.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[10Jan2025 02:40:29.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[10Jan2025 02:40:29.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[10Jan2025 02:40:35.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[10Jan2025 02:40:43.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:40:43.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:41:17.316] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_3
+[10Jan2025 02:42:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Sea? Not a Problem]
+[10Jan2025 02:43:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> yo
+[10Jan2025 02:43:16.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> todas de oro
+[10Jan2025 02:43:20.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> y 1 de diamante
+[10Jan2025 02:43:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> x 6 de esmeralda
+[10Jan2025 02:43:33.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> xdddddddddddddddddddddddddddddddddd
+[10Jan2025 02:43:41.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> las de oro son pagandole a gamarra
+[10Jan2025 02:43:46.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> por tan mal producto
+[10Jan2025 02:44:15.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xd
+[10Jan2025 02:44:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien es torte
+[10Jan2025 02:45:12.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Bulldrogioth]
+[10Jan2025 02:45:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> mob
+[10Jan2025 02:45:28.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> llamado
+[10Jan2025 02:45:43.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:45:43.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 02:46:15.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/94684, l='ServerLevel[world]', x=-486.30, y=42.00, z=617.30] died: Skeleton Brother was slain by MotoMoto_7
+[10Jan2025 02:47:41.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay una estrucuta
+[10Jan2025 02:47:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k si tien .v
