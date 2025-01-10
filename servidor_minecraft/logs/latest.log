@@ -1725,3 +1725,47 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 05:02:31.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2555, y=69, z=-2645}
 [10Jan2025 05:02:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Oh Little Town of Gingerbread]
 [10Jan2025 05:02:51.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Caniac No More]
+[10Jan2025 05:04:34.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [I Found the Coin Slot]
+[10Jan2025 05:04:46.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Where's Goopy?]
+[10Jan2025 05:04:47.280] [pool-9-thread-8/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=2747, y=71, z=-2725}
+[10Jan2025 05:04:47.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2748, y=71, z=-2725} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[10Jan2025 05:04:47.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2748, y=71, z=-2725}
+[10Jan2025 05:04:47.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2748, y=70, z=-2725} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[10Jan2025 05:04:47.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=2748, y=70, z=-2725}
+[10Jan2025 05:04:48.769] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2747, y=71, z=-2725} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[10Jan2025 05:04:48.770] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2747, y=71, z=-2725}
+[10Jan2025 05:05:14.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Hooked on a Feeling]
+[10Jan2025 05:05:40.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [The Dark (Chocolate) Tower]
+[10Jan2025 05:05:45.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> Alex's Caves >>> Ice and Fire
+[10Jan2025 05:05:49.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> d
+[10Jan2025 05:05:49.775] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 05:06:10.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [I Found the Coin Slot]
+[10Jan2025 05:06:17.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ELADA
+[10Jan2025 05:06:25.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Oh Little Town of Gingerbread]
+[10Jan2025 05:06:27.449] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[10Jan2025 05:06:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Ice Dragon
+[10Jan2025 05:06:48.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Oh Little Town of Gingerbread]
+[10Jan2025 05:07:03.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Oh Little Town of Gingerbread]
+[10Jan2025 05:07:08.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was frozen by Ice Dragon
+[10Jan2025 05:07:08.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> -
+[10Jan2025 05:07:13.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was doomed to fall by Ice Dragon
+[10Jan2025 05:07:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Ice Dragon
+[10Jan2025 05:07:42.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Ice Dragon
+[10Jan2025 05:07:57.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [The Dark (Chocolate) Tower]
+[10Jan2025 05:09:25.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2608, y=-38, z=-2422} BlockPos{x=2608, y=-38, z=-2424}
+[10Jan2025 05:09:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Choc-o-Block]
+[10Jan2025 05:10:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 fell from a high place
+[10Jan2025 05:10:19.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ReyGamarra lost connection: Timed out
+[10Jan2025 05:10:19.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra left the game
+[10Jan2025 05:10:41.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ReyGamarra[/172.22.196.128:58697] logged in with entity id 232654 at (2515.4324688284914, -16.0, -2340.6929746462188)
+[10Jan2025 05:10:41.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra joined the game
+[10Jan2025 05:10:47.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Caniac No More]
+[10Jan2025 05:10:52.182] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 05:10:52.385] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 05:10:52.386] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[10Jan2025 05:10:59.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Oh Little Town of Gingerbread]
+[10Jan2025 05:11:02.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tienes viales
+[10Jan2025 05:11:31.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Gum Worm]
+[10Jan2025 05:11:33.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has completed the challenge [Dessert Power]
+[10Jan2025 05:11:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [You're a Monster]
+[10Jan2025 05:12:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Spear Mint]
