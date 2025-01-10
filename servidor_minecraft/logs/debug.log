@@ -11920,3 +11920,47 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 01:25:02.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37893, l='ServerLevel[world]', x=-547.74, y=-20.00, z=1470.74] died: Toxic Slime was killed
 [10Jan2025 01:25:43.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jan2025 01:25:43.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:26:09.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/37608, l='ServerLevel[world]', x=-323.59, y=46.03, z=1621.00] died: Ghast Sentry was shot by EdrianferXD10
+[10Jan2025 01:26:23.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Pocket Edition Alpha]
+[10Jan2025 01:26:48.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37858, l='ServerLevel[world]', x=-342.82, y=-20.00, z=1603.18] died: Toxic Slime was killed
+[10Jan2025 01:26:51.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37918, l='ServerLevel[world]', x=-348.74, y=-20.00, z=1654.07] died: Toxic Slime was killed
+[10Jan2025 01:26:53.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37970, l='ServerLevel[world]', x=-347.66, y=-20.00, z=1620.83] died: Toxic Slime was killed
+[10Jan2025 01:26:59.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38044, l='ServerLevel[world]', x=-329.74, y=-20.00, z=1589.99] died: Toxic Slime was killed
+[10Jan2025 01:27:31.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38242, l='ServerLevel[world]', x=-328.74, y=-20.00, z=1648.53] died: Toxic Slime was killed
+[10Jan2025 01:27:34.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38263, l='ServerLevel[world]', x=-337.65, y=-20.00, z=1707.21] died: Toxic Slime was killed
+[10Jan2025 01:28:17.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38467, l='ServerLevel[world]', x=-299.39, y=-20.00, z=1684.59] died: Toxic Slime was killed
+[10Jan2025 01:28:34.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 01:28:57.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38701, l='ServerLevel[world]', x=-294.26, y=-20.00, z=1606.26] died: Toxic Slime was killed
+[10Jan2025 01:28:57.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38702, l='ServerLevel[world]', x=-330.14, y=-20.00, z=1610.04] died: Toxic Slime was killed
+[10Jan2025 01:29:22.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38910, l='ServerLevel[world]', x=-296.48, y=-20.00, z=1639.08] died: Toxic Slime was killed
+[10Jan2025 01:30:00.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/39108, l='ServerLevel[world]', x=-344.49, y=-20.00, z=1646.15] died: Toxic Slime was killed
+[10Jan2025 01:30:07.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 01:30:15.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/39179, l='ServerLevel[world]', x=-335.76, y=-20.00, z=1628.34] died: Toxic Slime was killed
+[10Jan2025 01:30:25.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_1
+[10Jan2025 01:30:25.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/unit_0
+[10Jan2025 01:30:25.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_2
+[10Jan2025 01:30:25.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_0
+[10Jan2025 01:30:41.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/39278, l='ServerLevel[world]', x=-329.14, y=-20.00, z=1627.24] died: Toxic Slime was killed
+[10Jan2025 01:30:43.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:30:43.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:31:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> INCENDIO
+[10Jan2025 01:31:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> Piglins
+[10Jan2025 01:32:16.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by cepatito
+[10Jan2025 01:32:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> xd
+[10Jan2025 01:32:43.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> reinicien sv
+[10Jan2025 01:33:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Tina que acaba de pasar?
+[10Jan2025 01:33:52.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=891, y=70, z=4865} BlockPos{x=892, y=70, z=4864}
+[10Jan2025 01:33:56.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=888, y=73, z=4873} BlockPos{x=887, y=72, z=4873}
+[10Jan2025 01:35:14.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[10Jan2025 01:35:16.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> reconstruye su cas ps
+[10Jan2025 01:35:43.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:35:43.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 01:36:13.948] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[10Jan2025 01:36:16.258] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_0
+[10Jan2025 01:36:16.261] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_3
+[10Jan2025 01:36:16.264] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_3
+[10Jan2025 01:36:16.267] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_3
+[10Jan2025 01:36:16.268] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_0
+[10Jan2025 01:36:16.275] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
+[10Jan2025 01:36:16.279] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
+[10Jan2025 01:36:16.294] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_0

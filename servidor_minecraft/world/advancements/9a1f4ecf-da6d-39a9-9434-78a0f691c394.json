@@ -10458,15 +10458,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-10 01:26:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-01-10 01:06:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-10 01:27:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_oven_range_hood": {
     "criteria": {
       "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-10 01:26:25 +0000"
     },
     "done": true
   },
@@ -10482,9 +10500,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-10 01:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-01-10 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-10 01:26:26 +0000"
     },
     "done": true
   },
@@ -10493,6 +10523,14 @@
       "requirement": "2025-01-10 01:06:19 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-01-10 01:27:04 +0000",
+      "junk": "2025-01-10 01:28:58 +0000",
+      "treasure": "2025-01-10 01:26:23 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/gray_modern_pendant": {
     "criteria": {
@@ -10533,6 +10571,12 @@
   "pfm:recipes/furniture/gray_stove": {
     "criteria": {
       "has_gray_concrete": "2025-01-10 00:41:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2025-01-10 01:26:23 +0000"
     },
     "done": true
   },
