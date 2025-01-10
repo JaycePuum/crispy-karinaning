@@ -10524,6 +10524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-01-10 01:24:52 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_stove": {
     "criteria": {
       "has_gray_concrete": "2025-01-10 00:41:29 +0000"
