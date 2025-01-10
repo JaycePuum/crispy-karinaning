@@ -2422,8 +2422,10 @@
       "salmon": "2025-01-04 06:03:57 +0000",
       "melon_slice": "2025-01-04 22:40:53 +0000",
       "golden_carrot": "2025-01-06 00:19:23 +0000",
+      "beetroot": "2025-01-10 02:29:22 +0000",
       "cooked_rabbit": "2025-01-04 04:44:04 +0000",
       "cooked_chicken": "2025-01-04 04:48:37 +0000",
+      "enchanted_golden_apple": "2025-01-10 02:23:28 +0000",
       "mushroom_stew": "2025-01-05 01:27:17 +0000",
       "carrot": "2025-01-04 06:13:39 +0000"
     },
@@ -10541,6 +10543,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-10 00:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-10 02:27:56 +0000"
     },
     "done": true
   },

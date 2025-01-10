@@ -6187,5 +6187,77 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-10 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-01-10 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-01-10 02:16:32 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-10 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-10 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-01-10 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-01-10 02:16:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-01-10 02:19:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-10 02:26:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

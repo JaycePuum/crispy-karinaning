@@ -1322,3 +1322,52 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 02:17:29.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -19.128110156705645,0.0,-11.229311194157617
 [10Jan2025 02:17:29.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -20.97725886257834,0.0,-12.455597218493494
 [10Jan2025 02:17:29.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -22.8178046383818,0.0,-13.695450361104122
+[10Jan2025 02:17:38.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -8.766257097934513,0.0,-7.2225249081880065
+[10Jan2025 02:17:38.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -9.718193167391448,0.0,-8.072949395882006
+[10Jan2025 02:17:38.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -10.557800780652457,0.0,-8.823023794027904
+[10Jan2025 02:17:38.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -11.298334695548675,0.0,-9.48458941319268
+[10Jan2025 02:17:38.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -11.951485608487133,0.0,-10.068090289295924
+[10Jan2025 02:19:21.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [A Flaming Sword]
+[10Jan2025 02:19:50.280] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Klaudia'/76523, l='ServerLevel[world]', x=-642.61, y=63.00, z=2427.03] died, message: 'Klaudia was slain by Vindicator'
+[10Jan2025 02:19:50.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Klaudia'/76523, l='ServerLevel[world]', x=-642.61, y=63.00, z=2427.03] died: Klaudia was slain by Vindicator
+[10Jan2025 02:20:24.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Vex
+[10Jan2025 02:20:26.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=378, y=68, z=-193}
+[10Jan2025 02:20:29.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Alchemical Experiments]
+[10Jan2025 02:20:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Withered Scientist
+[10Jan2025 02:20:48.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82707, l='ServerLevel[world]', x=-240.29, y=33.00, z=349.91] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:20:55.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82724, l='ServerLevel[world]', x=-239.46, y=33.00, z=357.56] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:04.334] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Adam}[style={}] has been infected
+[10Jan2025 02:21:05.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82709, l='ServerLevel[world]', x=-238.39, y=33.00, z=377.41] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:11.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ignacy'/76608, l='ServerLevel[world]', x=-585.75, y=64.19, z=2460.54] died, message: 'Ignacy was shot by Pillager'
+[10Jan2025 02:21:11.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ignacy'/76608, l='ServerLevel[world]', x=-585.75, y=64.19, z=2460.54] died: Ignacy was shot by Pillager
+[10Jan2025 02:21:13.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82723, l='ServerLevel[world]', x=-245.37, y=33.00, z=385.65] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:30.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82755, l='ServerLevel[world]', x=-294.12, y=34.00, z=367.52] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:36.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82753, l='ServerLevel[world]', x=-294.66, y=34.00, z=363.94] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:36.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82751, l='ServerLevel[world]', x=-294.52, y=34.00, z=362.75] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:39.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82752, l='ServerLevel[world]', x=-294.36, y=34.00, z=362.61] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:21:47.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Monika'/76566, l='ServerLevel[world]', x=-620.12, y=63.00, z=2431.78] died, message: 'Monika was slain by Vindicator'
+[10Jan2025 02:21:47.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Monika'/76566, l='ServerLevel[world]', x=-620.12, y=63.00, z=2431.78] died: Monika was slain by Vindicator
+[10Jan2025 02:23:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Vindicator
+[10Jan2025 02:23:15.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon moved too quickly! -8.243288572392203,0.8800391385729398,5.810089219051406
+[10Jan2025 02:23:39.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Jan2025 02:24:01.102] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/83579, l='ServerLevel[world]', x=-265.47, y=-20.00, z=362.60] died: Restless Spirit was killed
+[10Jan2025 02:24:03.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/85543, l='ServerLevel[world]', x=-255.93, y=34.49, z=364.62] died: Restless Spirit was slain by MotoMoto_7
+[10Jan2025 02:24:26.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/82733, l='ServerLevel[world]', x=-256.82, y=33.00, z=348.36] died: Withered Scientist was slain by MotoMoto_7
+[10Jan2025 02:24:28.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Headless Warrior
+[10Jan2025 02:24:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Vex
+[10Jan2025 02:24:35.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/86554, l='ServerLevel[world]', x=-257.83, y=33.00, z=349.34] died: Headless Warrior was slain by MotoMoto_7
+[10Jan2025 02:25:07.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Cleric
+[10Jan2025 02:25:18.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon moved too quickly! 6.257537997101849,1.0,7.892712783595925
+[10Jan2025 02:26:00.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/87587, l='ServerLevel[world]', x=-277.54, y=33.00, z=369.78] died: Headless Warrior was slain by MotoMoto_7
+[10Jan2025 02:27:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Vindicator
+[10Jan2025 02:27:56.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Ol' Betsy]
+[10Jan2025 02:28:55.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Ravager
+[10Jan2025 02:29:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 02:32:19.081] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
+[10Jan2025 02:33:23.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adam'/76671, l='ServerLevel[world]', x=-634.25, y=64.00, z=2459.56] died, message: 'Adam was slain by ReyGamarra'
+[10Jan2025 02:33:23.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Adam'/76671, l='ServerLevel[world]', x=-634.25, y=64.00, z=2459.56] died: Adam was slain by ReyGamarra
+[10Jan2025 02:33:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Become the Grim Reaper]
+[10Jan2025 02:36:04.716] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Chizuko}[style={}] has been infected
+[10Jan2025 02:36:21.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chizuko'/13958, l='ServerLevel[world]', x=822.29, y=65.00, z=4809.91] died, message: 'Chizuko was slain by Zombie'
+[10Jan2025 02:36:21.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chizuko'/13958, l='ServerLevel[world]', x=822.29, y=65.00, z=4809.91] died: Chizuko was slain by Zombie
+[10Jan2025 02:36:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has completed the challenge [A Soul for a Soul]
