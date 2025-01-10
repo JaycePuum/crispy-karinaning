@@ -10235,6 +10235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-10 04:36:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
@@ -10250,6 +10256,12 @@
   "pfm:recipes/furniture/dark_wood_table_modern_dinner": {
     "criteria": {
       "dark_wood_table_modern_dinner": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-10 04:36:20 +0000"
     },
     "done": true
   },
@@ -10310,6 +10322,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-10 04:35:57 +0000"
     },
     "done": true
   },
@@ -10427,6 +10445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-10 04:35:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_chair": {
     "criteria": {
       "dark_wood_chair": "2025-01-10 02:55:44 +0000"
@@ -10484,6 +10508,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_brown": {
+    "criteria": {
+      "oak_chair_classic_brown": "2025-01-10 04:36:20 +0000"
     },
     "done": true
   },
@@ -10619,6 +10649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-10 04:36:20 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_chair_dinner": {
     "criteria": {
       "dark_wood_chair_dinner": "2025-01-10 02:55:44 +0000"
@@ -10642,6 +10678,12 @@
   "incendium:infernal_dunes/border_of_life": {
     "criteria": {
       "requirement": "2025-01-10 03:01:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_shower_towel": {
+    "criteria": {
+      "has_brown_wool": "2025-01-10 04:36:20 +0000"
     },
     "done": true
   },
@@ -10672,6 +10714,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-10 04:35:57 +0000"
     },
     "done": true
   },
@@ -10744,6 +10792,18 @@
   "pfm:recipes/furniture/light_wood_table_basic": {
     "criteria": {
       "light_wood_table_basic": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_black": {
+    "criteria": {
+      "oak_chair_classic_black": "2025-01-10 04:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/black_shower_towel": {
+    "criteria": {
+      "has_black_wool": "2025-01-10 04:35:57 +0000"
     },
     "done": true
   },

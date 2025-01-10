@@ -1656,3 +1656,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 04:30:14.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [10Jan2025 04:31:33.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rusudan'/198995, l='ServerLevel[world]', x=2436.57, y=68.50, z=-2286.38] died, message: 'Rusudan was pricked to death'
 [10Jan2025 04:31:33.421] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rusudan'/198995, l='ServerLevel[world]', x=2436.57, y=68.50, z=-2286.38] died: Rusudan was pricked to death
+[10Jan2025 04:34:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> xd
+[10Jan2025 04:34:37.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> c kuk tu tienes tu spawn en la piramide o algo asi p tepearte'
+[10Jan2025 04:34:59.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was frozen by Ice Dragon
+[10Jan2025 04:35:06.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was frozen by Ice Dragon
+[10Jan2025 04:39:10.237] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[10Jan2025 04:39:24.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 04:39:30.856] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/CompressType
+[10Jan2025 04:39:44.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/CassetteDeckBlockEntity$MonitorType
+[10Jan2025 04:40:35.660] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[10Jan2025 04:40:35.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[10Jan2025 04:40:35.689] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[10Jan2025 04:40:46.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
