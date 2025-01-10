@@ -10223,6 +10223,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-01-10 03:32:20 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:goblins_disguise_success": {
     "criteria": {
       "goblins_disguise_success_0": "2025-01-10 00:30:03 +0000"
@@ -10256,6 +10262,12 @@
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2025-01-10 03:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 03:24:35 +0000"
     },
     "done": true
   },
@@ -10313,6 +10325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 03:24:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-01-10 03:05:31 +0000"
@@ -10322,6 +10340,12 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-01-10 03:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-10 03:24:35 +0000"
     },
     "done": true
   },

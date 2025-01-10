@@ -10313,6 +10313,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-01-10 03:32:28 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_table_basic": {
     "criteria": {
       "quartz_table_basic": "2025-01-10 02:55:44 +0000"
@@ -10508,6 +10514,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-01-10 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-10 03:25:21 +0000"
     },
     "done": true
   },
@@ -10717,6 +10729,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-10 03:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2025-01-10 01:26:05 +0000"
@@ -10756,6 +10774,12 @@
   "pfm:recipes/furniture/quartz_table_dinner": {
     "criteria": {
       "quartz_table_dinner": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2025-01-10 03:29:14 +0000"
     },
     "done": true
   },
