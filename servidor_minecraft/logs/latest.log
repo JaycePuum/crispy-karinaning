@@ -1673,3 +1673,55 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 04:44:42.151] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType
 [10Jan2025 04:48:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> gente
 [10Jan2025 04:52:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Gum Worm
+[10Jan2025 04:53:25.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The (Cinnamon) Spice Must Flow]
+[10Jan2025 04:53:47.831] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 4 ms
+[10Jan2025 04:54:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was impaled on a stalagmite
+[10Jan2025 04:55:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Pure Imagination]
+[10Jan2025 04:55:18.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has reached the goal [Pure Imagination]
+[10Jan2025 04:55:21.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has reached the goal [Pure Imagination]
+[10Jan2025 04:55:33.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 04:56:03.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Carbonated Swim]
+[10Jan2025 04:56:04.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 04:56:10.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Carbonated Swim]
+[10Jan2025 04:56:11.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Carbonated Swim]
+[10Jan2025 04:56:13.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has reached the goal [Pure Imagination]
+[10Jan2025 04:56:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Carbonated Swim]
+[10Jan2025 04:56:24.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Carbonated Swim]
+[10Jan2025 04:56:24.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Pure Imagination]
+[10Jan2025 04:56:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Gummy Gumbo]
+[10Jan2025 04:56:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Yellow Brick Road]
+[10Jan2025 04:56:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has reached the goal [Pure Imagination]
+[10Jan2025 04:56:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Yellow Brick Road]
+[10Jan2025 04:56:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Yellow Brick Road]
+[10Jan2025 04:56:59.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Unwrapped Candy]
+[10Jan2025 04:57:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Yellow Brick Road]
+[10Jan2025 04:57:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Yellow Brick Road]
+[10Jan2025 04:57:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Yellow Brick Road]
+[10Jan2025 04:57:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Caniac No More]
+[10Jan2025 04:57:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Choc-o-Block]
+[10Jan2025 04:58:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Carbonated Swim]
+[10Jan2025 04:58:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> stackeen comia
+[10Jan2025 04:58:09.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hamed'/220324, l='ServerLevel[world]', x=2420.81, y=63.00, z=-2333.60] died, message: 'Hamed was slain by Zombie'
+[10Jan2025 04:58:09.504] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hamed'/220324, l='ServerLevel[world]', x=2420.81, y=63.00, z=-2333.60] died: Hamed was slain by Zombie
+[10Jan2025 04:58:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Choc-o-Block]
+[10Jan2025 04:58:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [I Found the Coin Slot]
+[10Jan2025 04:59:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Caniac No More]
+[10Jan2025 04:59:56.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Tis the Season]
+[10Jan2025 05:00:18.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [I Found the Coin Slot]
+[10Jan2025 05:00:52.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Caniac No More]
+[10Jan2025 05:01:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Where's Goopy?]
+[10Jan2025 05:01:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Gum Worm
+[10Jan2025 05:01:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [I Found the Coin Slot]
+[10Jan2025 05:02:31.229] [pool-9-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=2555, y=69, z=-2645}
+[10Jan2025 05:02:31.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2554, y=66, z=-2645} but found not block entity block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] at location
+[10Jan2025 05:02:31.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=2554, y=66, z=-2645}
+[10Jan2025 05:02:31.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2554, y=66, z=-2646} but found not block entity block Block{minecraft:stone} at location
+[10Jan2025 05:02:31.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2554, y=66, z=-2646}
+[10Jan2025 05:02:31.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2556, y=69, z=-2645} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[10Jan2025 05:02:31.273] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2556, y=69, z=-2645}
+[10Jan2025 05:02:31.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2556, y=68, z=-2645} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[10Jan2025 05:02:31.274] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=2556, y=68, z=-2645}
+[10Jan2025 05:02:31.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2555, y=69, z=-2645} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[10Jan2025 05:02:31.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2555, y=69, z=-2645}
+[10Jan2025 05:02:36.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Oh Little Town of Gingerbread]
+[10Jan2025 05:02:51.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Caniac No More]

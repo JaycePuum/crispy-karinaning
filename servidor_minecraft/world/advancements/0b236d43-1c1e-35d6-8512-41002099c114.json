@@ -8123,6 +8123,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-01-10 04:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-01-10 03:52:40 +0000"
@@ -8132,6 +8138,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-10 04:58:06 +0000"
     },
     "done": true
   },
@@ -8207,6 +8219,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-10 04:56:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-01-10 03:42:55 +0000"
@@ -8264,6 +8282,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_plate_shield": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-01-10 04:56:59 +0000"
     },
     "done": true
   },
@@ -8402,6 +8426,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_round_shield": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-10 05:00:18 +0000"
     },
     "done": true
   },

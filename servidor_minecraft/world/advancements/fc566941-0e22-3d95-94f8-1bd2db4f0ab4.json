@@ -10247,6 +10247,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-01-10 04:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
@@ -10262,6 +10268,12 @@
   "pfm:recipes/furniture/dark_wood_table_modern_dinner": {
     "criteria": {
       "dark_wood_table_modern_dinner": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-10 04:56:24 +0000"
     },
     "done": true
   },
@@ -10427,6 +10439,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-10 04:57:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-01-10 01:30:19 +0000"
@@ -10544,6 +10562,12 @@
   "pfm:recipes/furniture/light_wood_chair": {
     "criteria": {
       "light_wood_chair": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-01-10 04:58:09 +0000"
     },
     "done": true
   },
@@ -10960,6 +10984,12 @@
   "pfm:recipes/furniture/quartz_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-01-10 04:52:57 +0000"
     },
     "done": true
   },

@@ -6208,6 +6208,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-01-10 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-01-10 04:56:03 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/totem_of_undying": {
     "criteria": {
       "has_totem_of_undying": "2025-01-10 02:26:53 +0000"
@@ -6346,6 +6358,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-01-10 04:57:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_cyan_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-10 02:48:03 +0000"
@@ -6419,6 +6437,12 @@
       "has_bed": "2025-01-10 02:48:29 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "yellow": "2025-01-10 04:59:17 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/dreadwood_iceandfire_green_simple_bed": {
     "criteria": {
