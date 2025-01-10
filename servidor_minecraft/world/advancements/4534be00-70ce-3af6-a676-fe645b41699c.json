@@ -80,6 +80,7 @@
       "minecraft:lukewarm_ocean": "2025-01-07 02:11:24 +0000",
       "minecraft:snowy_plains": "2025-01-05 01:36:16 +0000",
       "minecraft:dripstone_caves": "2025-01-05 01:46:56 +0000",
+      "minecraft:snowy_taiga": "2025-01-10 05:24:54 +0000",
       "minecraft:swamp": "2025-01-04 03:05:11 +0000",
       "minecraft:cold_ocean": "2025-01-04 04:19:05 +0000",
       "minecraft:forest": "2025-01-04 04:39:57 +0000",
@@ -8631,6 +8632,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-01-10 05:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-10 01:50:15 +0000"
@@ -9279,6 +9286,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-01-10 05:19:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-01-10 02:54:48 +0000"
@@ -9300,6 +9313,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-01-10 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-01-10 05:24:12 +0000"
     },
     "done": true
   },

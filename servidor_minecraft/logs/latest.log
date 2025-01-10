@@ -1769,3 +1769,51 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 05:11:33.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has completed the challenge [Dessert Power]
 [10Jan2025 05:11:41.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [You're a Monster]
 [10Jan2025 05:12:34.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Spear Mint]
+[10Jan2025 05:15:13.794] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[10Jan2025 05:15:54.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved wrongly!
+[10Jan2025 05:17:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Hooked on a Feeling]
+[10Jan2025 05:17:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Choc-o-Block]
+[10Jan2025 05:17:47.729] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/tick/modifier/TickRateModifierType
+[10Jan2025 05:17:47.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has reached the goal [Sweet Sweet Speeding Up]
+[10Jan2025 05:17:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Hooked on a Feeling]
+[10Jan2025 05:19:32.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Oh Little Town of Gingerbread]
+[10Jan2025 05:20:29.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Caniac No More]
+[10Jan2025 05:20:29.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was doomed to fall by Caniac
+[10Jan2025 05:20:31.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Spear Mint]
+[10Jan2025 05:21:08.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Caniac
+[10Jan2025 05:21:21.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 fell from a high place
+[10Jan2025 05:24:04.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2302, y=76, z=-2396} BlockPos{x=2303, y=77, z=-2395}
+[10Jan2025 05:24:12.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Hooked on a Feeling]
+[10Jan2025 05:26:34.044] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 05:26:35.048] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 05:28:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [I Found the Coin Slot]
+[10Jan2025 05:29:02.000] [pool-9-thread-9/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2203, y=69, z=-2949}
+[10Jan2025 05:29:02.106] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2203, y=69, z=-2950} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10Jan2025 05:29:02.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2203, y=69, z=-2950}
+[10Jan2025 05:29:02.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2203, y=68, z=-2950} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[10Jan2025 05:29:02.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=2203, y=68, z=-2950}
+[10Jan2025 05:29:02.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2203, y=69, z=-2948} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10Jan2025 05:29:02.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2203, y=69, z=-2948}
+[10Jan2025 05:29:02.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2203, y=68, z=-2948} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[10Jan2025 05:29:02.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=2203, y=68, z=-2948}
+[10Jan2025 05:29:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ta arriba
+[10Jan2025 05:29:02.888] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2203, y=69, z=-2949} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10Jan2025 05:29:02.888] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=2203, y=69, z=-2949}
+[10Jan2025 05:29:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 05:30:01.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[10Jan2025 05:30:37.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 05:33:41.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> dale p
+[10Jan2025 05:33:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> dx
+[10Jan2025 05:33:53.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Unwrapped Candy]
+[10Jan2025 05:34:48.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[10Jan2025 05:34:48.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[10Jan2025 05:35:08.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Dessert Power]
+[10Jan2025 05:35:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Gum Worm
+[10Jan2025 05:36:34.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xdd
+[10Jan2025 05:39:03.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has reached the goal [Monsterous Maw]
+[10Jan2025 05:41:53.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2554, y=-44, z=-2265} BlockPos{x=2554, y=-42, z=-2265}
+[10Jan2025 05:42:49.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/272322, l='ServerLevel[world]', x=208.73, y=17.33, z=698.26] died: Restless Spirit was slain by DarkMoon
+[10Jan2025 05:43:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Where's Goopy?]
+[10Jan2025 05:43:37.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Freaky Item]
+[10Jan2025 05:43:41.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gela'/248067, l='ServerLevel[world]', x=2422.92, y=68.00, z=-2266.44] died, message: 'Gela was slain by Zombie'
+[10Jan2025 05:43:41.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gela'/248067, l='ServerLevel[world]', x=2422.92, y=68.00, z=-2266.44] died: Gela was slain by Zombie

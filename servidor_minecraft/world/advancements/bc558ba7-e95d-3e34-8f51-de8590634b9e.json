@@ -1608,6 +1608,7 @@
     "criteria": {
       "sweet_berries": "2025-01-04 05:37:40 +0000",
       "cooked_beef": "2025-01-04 04:02:51 +0000",
+      "potato": "2025-01-10 05:30:34 +0000",
       "cooked_cod": "2025-01-04 04:06:53 +0000",
       "pumpkin_pie": "2025-01-04 05:27:06 +0000",
       "bread": "2025-01-04 04:02:47 +0000",
@@ -3179,6 +3180,7 @@
       "onion": "2025-01-04 04:36:19 +0000",
       "sweet_berries": "2025-01-04 05:37:39 +0000",
       "sugar_cane": "2025-01-06 05:14:30 +0000",
+      "potato": "2025-01-10 05:30:32 +0000",
       "wheat": "2025-01-10 03:43:23 +0000",
       "carrot": "2025-01-05 04:19:21 +0000"
     },
@@ -6747,6 +6749,60 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-01-10 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-01-10 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-01-10 05:17:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-01-10 05:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-10 05:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-10 05:30:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-01-10 05:24:22 +0000"
+    },
+    "done": true
+  },
+  "luminousworld:kill_frost_golem": {
+    "criteria": {
+      "kill_frost_golem_0": "2025-01-10 05:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-10 05:30:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-10 05:24:22 +0000"
     },
     "done": true
   },

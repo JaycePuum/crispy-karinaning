@@ -8525,5 +8525,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2025-01-10 05:17:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
