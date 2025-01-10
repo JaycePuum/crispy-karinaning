@@ -1609,6 +1609,7 @@
       "cooked_mutton": "2025-01-01 20:21:34 +0000",
       "sweet_berries": "2025-01-07 04:56:36 +0000",
       "cooked_beef": "2024-12-30 03:19:52 +0000",
+      "porkchop": "2025-01-10 03:09:22 +0000",
       "apple": "2024-12-30 03:35:11 +0000",
       "bread": "2025-01-04 02:18:27 +0000",
       "rotten_flesh": "2024-12-30 05:01:38 +0000",
@@ -10297,6 +10298,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-01-10 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-10 03:08:11 +0000"
     },
     "done": true
   },

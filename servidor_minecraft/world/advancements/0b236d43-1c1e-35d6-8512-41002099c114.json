@@ -8129,6 +8129,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-10 03:15:24 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_spear": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
@@ -8144,6 +8150,18 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_scythe": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-10 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-10 03:15:29 +0000"
     },
     "done": true
   },
@@ -8252,6 +8270,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-10 03:15:29 +0000"
     },
     "done": true
   },

@@ -6403,6 +6403,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-10 03:12:18 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_cyan_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-10 02:48:03 +0000"

@@ -10630,6 +10630,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-10 03:12:04 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-10 01:52:53 +0000"

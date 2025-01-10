@@ -12829,3 +12829,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 03:08:00.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/125065, l='ServerLevel[world]', x=-886.61, y=28.00, z=998.84] died: Piglin Paratrooper tried to swim in lava
 [10Jan2025 03:08:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Piglin Paratrooper
 [10Jan2025 03:08:44.377] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 03:10:07.873] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[10Jan2025 03:10:13.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -0.37725923957236773,-0.3693736602695026,10.096601719600585
+[10Jan2025 03:10:13.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5298ms or 105 ticks behind
+[10Jan2025 03:10:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> el piglin pica tumbas
+[10Jan2025 03:10:26.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> jajajjajajajja
+[10Jan2025 03:10:48.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:10:48.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 03:11:26.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_2
+[10Jan2025 03:11:26.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_2
+[10Jan2025 03:11:26.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_2
+[10Jan2025 03:12:04.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Mother of Dragons]
+[10Jan2025 03:12:18.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Mother of Dragons]
+[10Jan2025 03:14:02.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room1
+[10Jan2025 03:15:04.510] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[10Jan2025 03:15:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has completed the challenge [Cover Me in Debris]
+[10Jan2025 03:15:48.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:15:48.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 03:15:59.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_2
+[10Jan2025 03:15:59.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_2
+[10Jan2025 03:15:59.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_2
