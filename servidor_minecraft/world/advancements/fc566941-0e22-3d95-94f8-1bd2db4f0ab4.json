@@ -10235,6 +10235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_modern_dinner": {
     "criteria": {
       "dark_wood_table_modern_dinner": "2025-01-10 02:55:44 +0000"
@@ -10256,6 +10262,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },
@@ -10313,6 +10325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-01-10 03:32:28 +0000"
@@ -10334,6 +10352,12 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-01-10 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },
@@ -10415,6 +10439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2025-01-10 02:55:44 +0000"
@@ -10460,6 +10490,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },
@@ -10514,6 +10550,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-01-10 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },
@@ -10645,6 +10687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/quartz_table_natural": {
     "criteria": {
       "quartz_table_natural": "2025-01-10 02:55:44 +0000"
@@ -10666,6 +10714,12 @@
   "incendium:quartz_flats/torte/root": {
     "criteria": {
       "requirement": "2025-01-10 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },
@@ -10759,6 +10813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-10 02:16:19 +0000"
@@ -10768,6 +10828,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-01-10 02:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },
@@ -10786,6 +10852,12 @@
   "pfm:recipes/furniture/quartz_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-10 02:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:44:57 +0000"
     },
     "done": true
   },

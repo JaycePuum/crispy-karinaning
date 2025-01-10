@@ -8123,9 +8123,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
     },
     "done": true
   },
@@ -8147,9 +8159,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-01-10 03:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
     },
     "done": true
   },
@@ -8162,6 +8186,18 @@
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2025-01-10 03:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 03:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 03:42:55 +0000"
     },
     "done": true
   },
@@ -8189,9 +8225,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-10 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_javelin": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-10 03:43:57 +0000"
     },
     "done": true
   },
@@ -8207,6 +8261,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-10 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-01-10 02:58:17 +0000"
@@ -8216,6 +8282,30 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 03:43:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-10 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-01-10 03:43:43 +0000"
     },
     "done": true
   },
@@ -8255,9 +8345,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-10 03:43:57 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
     },
     "done": true
   },
@@ -8270,6 +8378,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_round_shield": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 03:43:43 +0000"
     },
     "done": true
   },
@@ -8297,6 +8411,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_machete": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
@@ -8306,6 +8432,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_claw": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-10 03:42:54 +0000"
     },
     "done": true
   },

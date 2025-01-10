@@ -3177,6 +3177,7 @@
       "onion": "2025-01-04 04:36:19 +0000",
       "sweet_berries": "2025-01-04 05:37:39 +0000",
       "sugar_cane": "2025-01-06 05:14:30 +0000",
+      "wheat": "2025-01-10 03:43:23 +0000",
       "carrot": "2025-01-05 04:19:21 +0000"
     },
     "done": false
@@ -6349,6 +6350,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-10 03:44:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-10 02:48:29 +0000"
@@ -6384,6 +6391,14 @@
       "has_bed": "2025-01-10 02:48:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-01-10 03:44:49 +0000",
+      "minecraft:cow": "2025-01-10 03:45:39 +0000",
+      "minecraft:chicken": "2025-01-10 03:44:36 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/chorus_cataclysm_green_simple_bed": {
     "criteria": {
@@ -6559,6 +6574,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-10 03:36:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/thornwood_alexscaves_green_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-10 02:48:29 +0000"
@@ -6616,6 +6637,12 @@
   "pfm:recipes/furniture/crimson_cyan_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-10 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-10 03:43:23 +0000"
     },
     "done": true
   },
