@@ -10,10 +10,7 @@
 		{ dim: "minecraft:overworld", x: -135, y: -4, z: 2342, time: 1736396978917L, xRot: 25.799797f, yRot: -49.051575f }
 		{ dim: "minecraft:overworld", x: 858, y: 69, z: 4881, time: 1736396989390L, xRot: 23.249971f, yRot: -16.198822f }
 		{ dim: "minecraft:overworld", x: 780, y: 60, z: 4817, time: 1736475210241L }
-		{ dim: "minecraft:overworld", x: -121, y: 74, z: 2427, time: 1736484562129L, xRot: 24.150772f, yRot: 100.65305f }
-		{ dim: "minecraft:overworld", x: 2428, y: 68, z: -2232, time: 1736484905292L, xRot: 10.650127f, yRot: 76.649414f }
-		{ dim: "minecraft:overworld", x: 2602, y: -24, z: -2466, time: 1736486253729L, xRot: 15.899998f, yRot: -59.39795f }
-		{ dim: "minecraft:overworld", x: 2784, y: -26, z: -2501, time: 1736486527096L, xRot: 20.550013f, yRot: 50.16516f }
+		{ dim: "minecraft:overworld", x: -132, y: 78, z: 2427, time: 1736487856319L, xRot: 16.650772f, yRot: -45.447235f }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 859, y: 69, z: 4878, time: 1736127908413L, xRot: 27.599989f, yRot: 178.65121f }
