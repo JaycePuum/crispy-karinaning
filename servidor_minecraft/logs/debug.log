@@ -10760,3 +10760,409 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 00:24:26.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/lava_wall
 [10Jan2025 00:24:26.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/corner_roof
 [10Jan2025 00:24:32.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Upgrades, People. Upgrades.]
+[10Jan2025 00:25:03.265] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.265] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.265] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.265] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.265] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.266] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.266] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.266] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[10Jan2025 00:25:03.266] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.266] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.267] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.267] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.267] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.267] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.267] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.267] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.268] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.268] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.268] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.268] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[10Jan2025 00:25:03.268] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.269] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.269] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[10Jan2025 00:25:03.269] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.269] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[10Jan2025 00:25:03.269] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[10Jan2025 00:25:03.269] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:03.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[10Jan2025 00:25:26.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 00:25:26.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 00:25:28.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[10Jan2025 00:25:38.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_3
+[10Jan2025 00:25:40.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_1
+[10Jan2025 00:25:40.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_3
+[10Jan2025 00:25:40.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[10Jan2025 00:25:40.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[10Jan2025 00:25:40.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[10Jan2025 00:25:40.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_armor
+[10Jan2025 00:25:40.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[10Jan2025 00:25:40.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_archer
+[10Jan2025 00:25:40.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path
+[10Jan2025 00:25:40.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_gold
+[10Jan2025 00:25:40.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils
+[10Jan2025 00:25:40.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[10Jan2025 00:25:40.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_2
+[10Jan2025 00:25:40.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_2
+[10Jan2025 00:25:40.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_alt
+[10Jan2025 00:25:40.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_4
+[10Jan2025 00:25:40.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_2
+[10Jan2025 00:25:40.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down
+[10Jan2025 00:25:40.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_alt
+[10Jan2025 00:25:40.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_5
+[10Jan2025 00:25:40.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_1
+[10Jan2025 00:25:49.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_7
+[10Jan2025 00:26:33.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[10Jan2025 00:26:39.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[10Jan2025 00:26:39.845] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element goblins_tyranny:goblinscamp took 15 ms
+[10Jan2025 00:26:43.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -367.500000, 116.000000, 656.500000]
+[10Jan2025 00:26:44.989] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[10Jan2025 00:26:45.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[10Jan2025 00:26:46.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Jan2025 00:26:46.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Jan2025 00:26:48.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_1
+[10Jan2025 00:26:48.090] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_3
+[10Jan2025 00:26:48.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance
+[10Jan2025 00:26:48.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_1_alt
+[10Jan2025 00:26:48.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/potions
+[10Jan2025 00:26:48.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_smelting
+[10Jan2025 00:26:48.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_bedroom_3
+[10Jan2025 00:26:48.097] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/prison
+[10Jan2025 00:26:48.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_brown_mushroom
+[10Jan2025 00:26:48.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_tnt
+[10Jan2025 00:26:48.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_food
+[10Jan2025 00:26:48.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_alt
+[10Jan2025 00:26:48.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_crafting
+[10Jan2025 00:26:48.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/farm_carrot
+[10Jan2025 00:26:48.103] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_bedroom_2
+[10Jan2025 00:26:48.104] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_lapis
+[10Jan2025 00:26:48.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/music
+[10Jan2025 00:26:48.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/big_rooms/map
+[10Jan2025 00:26:48.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_armor
+[10Jan2025 00:26:48.108] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_1
+[10Jan2025 00:26:48.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_2
+[10Jan2025 00:26:48.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_3
+[10Jan2025 00:26:48.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_alt
+[10Jan2025 00:26:48.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_red_mushroom
+[10Jan2025 00:26:48.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_redstone
+[10Jan2025 00:26:48.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_fossils_2
+[10Jan2025 00:26:48.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/room_fossils_1
+[10Jan2025 00:26:50.917] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:luststructuregenerator
+[10Jan2025 00:27:03.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[10Jan2025 00:27:03.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/villagers/unemployed_plains
+[10Jan2025 00:27:03.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/cows_1
+[10Jan2025 00:27:03.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/horses_5
+[10Jan2025 00:27:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[10Jan2025 00:27:03.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[10Jan2025 00:27:04.314] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[10Jan2025 00:27:04.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$MonitorType
+[10Jan2025 00:27:04.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/ImageInfo$ImageType
+[10Jan2025 00:27:04.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ContinuousType
+[10Jan2025 00:27:04.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[10Jan2025 00:27:05.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_5
+[10Jan2025 00:27:05.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_5
+[10Jan2025 00:27:05.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_5
+[10Jan2025 00:27:21.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[10Jan2025 00:27:21.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[10Jan2025 00:27:21.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[10Jan2025 00:27:27.003] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[10Jan2025 00:27:35.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/wall_base
+[10Jan2025 00:27:35.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_0
+[10Jan2025 00:27:35.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/edge_0_large
+[10Jan2025 00:27:35.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_0
+[10Jan2025 00:27:35.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/connected_wall
+[10Jan2025 00:27:35.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_0
+[10Jan2025 00:27:35.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_wall_0
+[10Jan2025 00:27:35.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/rot/stage_1_0
+[10Jan2025 00:27:35.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/fillers/stage_0
+[10Jan2025 00:27:35.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/rampart_plates/plate_0
+[10Jan2025 00:27:35.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_3
+[10Jan2025 00:27:35.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_0
+[10Jan2025 00:27:35.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_2
+[10Jan2025 00:27:35.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_1
+[10Jan2025 00:27:35.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_3
+[10Jan2025 00:27:35.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_2
+[10Jan2025 00:27:35.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_0
+[10Jan2025 00:27:35.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/edges/edge_0
+[10Jan2025 00:27:35.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_1
+[10Jan2025 00:27:35.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_3
+[10Jan2025 00:27:35.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_0
+[10Jan2025 00:27:35.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_1
+[10Jan2025 00:27:35.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_2
+[10Jan2025 00:28:04.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[10Jan2025 00:28:04.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -1487.500000, 68.000000, 2576.500000]
+[10Jan2025 00:28:05.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[10Jan2025 00:28:05.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[10Jan2025 00:28:05.935] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Jan2025 00:28:05.938] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[10Jan2025 00:28:09.142] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin4
+[10Jan2025 00:28:09.658] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[10Jan2025 00:28:11.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1_alt
+[10Jan2025 00:28:11.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance
+[10Jan2025 00:28:11.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_1
+[10Jan2025 00:28:11.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1_alt
+[10Jan2025 00:28:11.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_2
+[10Jan2025 00:28:11.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1
+[10Jan2025 00:28:11.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_prison
+[10Jan2025 00:28:11.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/minecart/path_1_sculk
+[10Jan2025 00:28:11.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[10Jan2025 00:28:11.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_amethyst
+[10Jan2025 00:28:11.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_3
+[10Jan2025 00:28:11.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_bedroom
+[10Jan2025 00:28:11.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/music
+[10Jan2025 00:28:11.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_3
+[10Jan2025 00:28:11.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_5
+[10Jan2025 00:28:11.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_2
+[10Jan2025 00:28:11.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_alt
+[10Jan2025 00:28:11.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/minecart/connector_2
+[10Jan2025 00:28:11.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_bedroom_3
+[10Jan2025 00:28:11.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_gold
+[10Jan2025 00:28:11.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/copper
+[10Jan2025 00:28:11.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_food
+[10Jan2025 00:28:11.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_lapis
+[10Jan2025 00:28:11.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/minecart/path_1_down_sculk
+[10Jan2025 00:28:11.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_weapons
+[10Jan2025 00:28:11.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_redstone
+[10Jan2025 00:28:11.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/stews
+[10Jan2025 00:28:11.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_archer
+[10Jan2025 00:28:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -1487.700000, 169.830000, 2576.300000]
+[10Jan2025 00:28:15.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin3
+[10Jan2025 00:28:19.861] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[10Jan2025 00:28:37.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[10Jan2025 00:28:46.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[10Jan2025 00:28:46.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[10Jan2025 00:28:47.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[10Jan2025 00:28:47.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[10Jan2025 00:28:47.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[10Jan2025 00:28:47.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[10Jan2025 00:28:47.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[10Jan2025 00:28:47.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[10Jan2025 00:28:48.311] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element goblins_tyranny:goblinscamp took 570 ms
+[10Jan2025 00:28:54.749] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[10Jan2025 00:28:59.801] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[10Jan2025 00:29:00.357] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:02.853] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:05.049] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:05.050] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:05.253] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:05.259] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-60, z=89}
+[10Jan2025 00:29:05.260] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-60, z=90}
+[10Jan2025 00:29:05.898] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars1
+[10Jan2025 00:29:05.898] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars2
+[10Jan2025 00:29:05.899] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars3
+[10Jan2025 00:29:05.901] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars1
+[10Jan2025 00:29:05.902] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars2
+[10Jan2025 00:29:05.902] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:lamp1
+[10Jan2025 00:29:07.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -2655.500000, 120.000000, 704.500000]
+[10Jan2025 00:29:07.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12088ms or 241 ticks behind
+[10Jan2025 00:29:07.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! -1.639447497285147,-3.6945615482487852,9.17564140318973
+[10Jan2025 00:29:07.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! 0.0,-10.806526110008988,0.0
+[10Jan2025 00:29:08.283] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
+[10Jan2025 00:29:10.164] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-53, z=93}
+[10Jan2025 00:29:10.165] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.166] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.167] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.167] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.168] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.168] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.169] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.169] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.170] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.170] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.170] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-58, z=100}
+[10Jan2025 00:29:10.172] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.172] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.172] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=102}
+[10Jan2025 00:29:10.173] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.173] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.174] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.174] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.175] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.175] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.176] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.177] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.177] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[10Jan2025 00:29:10.178] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:10.178] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-54, z=102}
+[10Jan2025 00:29:11.066] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.067] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.067] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.067] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.068] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.068] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.068] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.079] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:11.080] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=32}
+[10Jan2025 00:29:11.080] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-58, z=36}
+[10Jan2025 00:29:13.586] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[10Jan2025 00:29:13.588] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance
+[10Jan2025 00:29:13.589] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path_1
+[10Jan2025 00:29:13.591] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path
+[10Jan2025 00:29:13.594] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[10Jan2025 00:29:13.599] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[10Jan2025 00:29:13.612] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_2
+[10Jan2025 00:29:13.613] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_5
+[10Jan2025 00:29:14.833] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:14.835] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[10Jan2025 00:29:14.835] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[10Jan2025 00:29:14.835] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:14.835] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[10Jan2025 00:29:25.152] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-2597, y=79, z=667}
+[10Jan2025 00:29:29.817] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/villagers/unemployed_savanna
+[10Jan2025 00:29:30.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
+[10Jan2025 00:29:30.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -6.319777507281742,-2.181269999138351,-7.465599530160716
+[10Jan2025 00:29:30.180] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2597, y=76, z=666} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[10Jan2025 00:29:30.180] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=-2597, y=76, z=666}
+[10Jan2025 00:29:30.180] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2596, y=76, z=666} but found not block entity block Block{minecraft:stone} at location
+[10Jan2025 00:29:30.181] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-2596, y=76, z=666}
+[10Jan2025 00:29:30.181] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2596, y=77, z=666} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[10Jan2025 00:29:30.181] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=-2596, y=77, z=666}
+[10Jan2025 00:29:31.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2597, y=79, z=667} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[10Jan2025 00:29:31.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-2597, y=79, z=667}
+[10Jan2025 00:29:36.646] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_alt
+[10Jan2025 00:29:36.664] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1_alt
+[10Jan2025 00:29:36.665] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_5
+[10Jan2025 00:29:36.666] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[10Jan2025 00:29:36.679] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[10Jan2025 00:29:36.680] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_5
+[10Jan2025 00:29:36.683] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_3
+[10Jan2025 00:29:36.684] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/trap/trap_1
+[10Jan2025 00:29:39.512] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance_1_alt
+[10Jan2025 00:29:39.513] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/turn_1
+[10Jan2025 00:29:39.514] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[10Jan2025 00:29:39.516] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[10Jan2025 00:29:39.517] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_1
+[10Jan2025 00:29:39.517] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn
+[10Jan2025 00:29:39.518] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_1
+[10Jan2025 00:29:39.519] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path_1_alt
+[10Jan2025 00:29:39.521] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[10Jan2025 00:29:39.523] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_1
+[10Jan2025 00:29:44.628] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_2
+[10Jan2025 00:29:44.629] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_1
+[10Jan2025 00:29:44.631] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/pathlong_1
+[10Jan2025 00:29:44.632] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1
+[10Jan2025 00:29:44.632] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[10Jan2025 00:29:44.637] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[10Jan2025 00:29:44.638] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance
+[10Jan2025 00:29:44.639] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/trap/trap_2
+[10Jan2025 00:29:51.590] [Worker-Main-25/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Jan2025 00:29:59.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[10Jan2025 00:30:03.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has reached the goal [Hiding Among Fools]
+[10Jan2025 00:30:04.418] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[10Jan2025 00:30:18.513] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[10Jan2025 00:30:33.896] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[10Jan2025 00:30:43.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 00:30:43.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 00:30:48.023] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabone
+[10Jan2025 00:30:49.644] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabtwo
+[10Jan2025 00:30:58.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_3
+[10Jan2025 00:30:58.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_4
+[10Jan2025 00:30:58.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_4_mirrored
+[10Jan2025 00:32:02.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_2
+[10Jan2025 00:32:02.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_4
+[10Jan2025 00:32:02.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/outer_0
+[10Jan2025 00:32:02.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_0
+[10Jan2025 00:32:02.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[10Jan2025 00:32:02.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[10Jan2025 00:32:02.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[10Jan2025 00:32:02.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[10Jan2025 00:32:02.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[10Jan2025 00:32:02.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[10Jan2025 00:32:02.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[10Jan2025 00:32:02.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[10Jan2025 00:32:02.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[10Jan2025 00:32:02.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[10Jan2025 00:32:02.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[10Jan2025 00:32:02.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[10Jan2025 00:32:02.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[10Jan2025 00:32:02.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[10Jan2025 00:32:02.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[10Jan2025 00:32:02.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[10Jan2025 00:32:02.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[10Jan2025 00:32:02.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[10Jan2025 00:32:02.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[10Jan2025 00:32:02.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[10Jan2025 00:32:02.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[10Jan2025 00:32:02.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[10Jan2025 00:32:02.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[10Jan2025 00:32:02.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[10Jan2025 00:32:02.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[10Jan2025 00:32:02.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[10Jan2025 00:32:02.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[10Jan2025 00:32:02.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[10Jan2025 00:32:02.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[10Jan2025 00:32:02.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[10Jan2025 00:32:02.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[10Jan2025 00:32:02.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[10Jan2025 00:32:02.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[10Jan2025 00:32:02.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[10Jan2025 00:32:02.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[10Jan2025 00:32:05.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_0
+[10Jan2025 00:32:05.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_1
+[10Jan2025 00:32:07.631] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance_base
+[10Jan2025 00:32:07.650] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance_face
+[10Jan2025 00:32:07.685] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance
+[10Jan2025 00:32:07.696] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/walls/wall_base_1
+[10Jan2025 00:32:07.703] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/walls/wall_base_0
+[10Jan2025 00:32:07.721] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/bridge_pieces/bridge
+[10Jan2025 00:32:07.731] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/ramparts/rampart_0
+[10Jan2025 00:32:07.733] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/legs/leg_1
+[10Jan2025 00:32:07.734] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/legs/leg_0
+[10Jan2025 00:32:10.077] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[10Jan2025 00:32:10.119] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[10Jan2025 00:32:10.143] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[10Jan2025 00:32:10.180] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[10Jan2025 00:32:10.189] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[10Jan2025 00:32:10.190] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[10Jan2025 00:32:10.191] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[10Jan2025 00:32:10.192] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[10Jan2025 00:32:10.192] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[10Jan2025 00:32:10.193] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[10Jan2025 00:32:10.193] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[10Jan2025 00:32:10.194] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[10Jan2025 00:32:10.195] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[10Jan2025 00:32:10.195] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[10Jan2025 00:32:10.196] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[10Jan2025 00:32:10.197] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[10Jan2025 00:32:10.199] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[10Jan2025 00:32:10.200] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[10Jan2025 00:32:10.203] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[10Jan2025 00:32:10.223] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[10Jan2025 00:32:10.225] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[10Jan2025 00:32:10.227] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[10Jan2025 00:32:10.228] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[10Jan2025 00:32:10.230] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[10Jan2025 00:32:15.319] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[10Jan2025 00:32:21.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[10Jan2025 00:32:21.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[10Jan2025 00:32:21.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[10Jan2025 00:32:21.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[10Jan2025 00:32:21.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[10Jan2025 00:32:21.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[10Jan2025 00:32:31.244] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[10Jan2025 00:32:54.861] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/giant_portal_2
+[10Jan2025 00:32:54.930] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[10Jan2025 00:32:59.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[10Jan2025 00:32:59.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[10Jan2025 00:32:59.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[10Jan2025 00:32:59.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[10Jan2025 00:32:59.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[10Jan2025 00:33:10.084] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[10Jan2025 00:33:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[10Jan2025 00:33:11.309] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[10Jan2025 00:33:11.309] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[10Jan2025 00:33:55.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[10Jan2025 00:33:55.863] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[10Jan2025 00:33:55.863] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10Jan2025 00:34:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [UNLIMITED POWER!!!]
