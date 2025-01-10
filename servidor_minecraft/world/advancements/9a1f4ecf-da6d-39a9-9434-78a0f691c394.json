@@ -9202,7 +9202,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-07 04:55:33 +0000",
-      "minecraft:soul_sand_valley": "2025-01-07 04:52:33 +0000"
+      "minecraft:soul_sand_valley": "2025-01-07 04:52:33 +0000",
+      "minecraft:basalt_deltas": "2025-01-10 00:32:21 +0000"
     },
     "done": false
   },
@@ -10453,6 +10454,24 @@
   "l2weaponry:recipes/misc/generated/recycle/iron_nunchaku": {
     "criteria": {
       "has_iron_nunchaku": "2025-01-09 03:27:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-01-10 00:35:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-01-10 00:34:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-01-10 00:34:16 +0000"
     },
     "done": true
   },

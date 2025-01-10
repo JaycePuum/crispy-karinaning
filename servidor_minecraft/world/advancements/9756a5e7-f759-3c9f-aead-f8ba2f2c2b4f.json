@@ -10221,6 +10221,24 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblin_liquor_success": {
+    "criteria": {
+      "goblin_liquor_success_0": "2025-01-10 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-10 00:38:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-01-10 00:39:37 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:upgrade_success": {
     "criteria": {
       "upgrade_success_0": "2025-01-10 00:24:32 +0000"

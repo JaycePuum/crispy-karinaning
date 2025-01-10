@@ -1018,3 +1018,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 00:33:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
 [10Jan2025 00:33:55.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [10Jan2025 00:34:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [UNLIMITED POWER!!!]
+[10Jan2025 00:34:54.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Ceci n'est pas un blaze]
+[10Jan2025 00:34:54.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7656, l='ServerLevel[world]', x=-243.70, y=66.00, z=1864.30] died: Pipeline Sentry was shot by EdrianferXD10
+[10Jan2025 00:35:13.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7659, l='ServerLevel[world]', x=-244.70, y=67.00, z=1865.60] died: Pipeline Sentry was shot by EdrianferXD10
+[10Jan2025 00:35:30.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/8924, l='ServerLevel[world]', x=-244.61, y=66.39, z=1868.01] died: Toxic Slime was slain by EdrianferXD10
+[10Jan2025 00:35:44.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7658, l='ServerLevel[world]', x=-246.36, y=63.93, z=1870.32] died: Pipeline Sentry was shot by EdrianferXD10
+[10Jan2025 00:35:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Pipe Dream]
+[10Jan2025 00:36:34.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9163, l='ServerLevel[world]', x=-243.74, y=65.00, z=1865.40] died: Toxic Slime was slain by EdrianferXD10
+[10Jan2025 00:37:31.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/8801, l='ServerLevel[world]', x=-193.26, y=-20.00, z=1882.85] died: Toxic Slime was killed
+[10Jan2025 00:38:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Dragon Growth Hormone]
+[10Jan2025 00:38:52.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9161, l='ServerLevel[world]', x=-216.15, y=-20.00, z=1859.26] died: Toxic Slime was killed
+[10Jan2025 00:38:52.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9162, l='ServerLevel[world]', x=-223.74, y=-20.00, z=1886.99] died: Toxic Slime was killed
+[10Jan2025 00:39:37.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Dragon Commander]
+[10Jan2025 00:41:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Suit Up]
+[10Jan2025 00:42:17.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cepatito[/172.22.106.123:52838] logged in with entity id 11108 at (-127.9390459465951, 77.0, 2429.3068706649306)
+[10Jan2025 00:42:17.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito joined the game
+[10Jan2025 00:42:23.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7661, l='ServerLevel[world]', x=-246.30, y=61.64, z=1913.70] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:42:35.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/7646, l='ServerLevel[world]', x=-246.30, y=61.18, z=1913.69] died: Pipeline Sentry was slain by EdrianferXD10
+[10Jan2025 00:43:19.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MotoMoto_7[/172.22.250.207:60133] logged in with entity id 11799 at (-117.57808708954236, -2.0, 2365.362310234487)
+[10Jan2025 00:43:19.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
