@@ -10222,6 +10222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-10 02:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-10 02:03:57 +0000"
@@ -10272,7 +10278,9 @@
   },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
-      "junk": "2025-01-10 02:00:39 +0000"
+      "waste": "2025-01-10 02:08:15 +0000",
+      "junk": "2025-01-10 02:00:39 +0000",
+      "treasure": "2025-01-10 02:06:35 +0000"
     },
     "done": false
   },
