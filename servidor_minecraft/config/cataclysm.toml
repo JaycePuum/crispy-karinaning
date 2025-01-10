@@ -189,10 +189,10 @@
 	MonstrosityDamageMultiplier = 20.0
 	#Monstrosity's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealingMultiplier = 5.0
+	MonstrosityHealingMultiplier = 3.0
 	# Monstrosity's Healing with out target
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityNatureHealing = 10.0
+	MonstrosityNatureHealing = 7.0
 	#Monstrosity's DamageCap
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityDamageCap = 15.0
