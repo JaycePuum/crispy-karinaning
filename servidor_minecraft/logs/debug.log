@@ -13041,3 +13041,60 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [10Jan2025 04:00:39.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! -9.792558950289958,0.0,-4.615419073096746
 [10Jan2025 04:00:39.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of cepatito) moved too quickly! 9.797232624894832,0.0,4.611659829798555
 [10Jan2025 04:00:46.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/library
+[10Jan2025 04:01:04.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:01:04.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 04:01:50.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[10Jan2025 04:01:50.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1551, y=1, z=-1628} but found not block entity block Block{minecraft:stone_bricks} at location
+[10Jan2025 04:01:50.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_bricks} but failed at location BlockPos{x=1551, y=1, z=-1628}
+[10Jan2025 04:02:16.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_1
+[10Jan2025 04:02:16.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/connector_1
+[10Jan2025 04:03:46.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 04:05:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> como se le hace pa el dragon de fuego
+[10Jan2025 04:05:20.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[10Jan2025 04:05:31.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[10Jan2025 04:06:04.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:06:04.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 04:06:34.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:igloo/bottom
+[10Jan2025 04:06:37.436] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[10Jan2025 04:06:37.474] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[10Jan2025 04:06:37.480] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[10Jan2025 04:06:40.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[10Jan2025 04:07:11.826] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[10Jan2025 04:07:11.834] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[10Jan2025 04:07:19.064] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_2
+[10Jan2025 04:08:05.027] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2187, y=67, z=-2043}
+[10Jan2025 04:08:05.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2187, y=64, z=-2042} but found not block entity block Block{minecraft:stone_stairs}[facing=east,half=bottom,shape=straight,waterlogged=false] at location
+[10Jan2025 04:08:05.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=east,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=2187, y=64, z=-2042}
+[10Jan2025 04:08:05.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2188, y=64, z=-2042} but found not block entity block Block{minecraft:stone} at location
+[10Jan2025 04:08:05.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2188, y=64, z=-2042}
+[10Jan2025 04:08:05.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2186, y=67, z=-2043} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[10Jan2025 04:08:05.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=2186, y=67, z=-2043}
+[10Jan2025 04:08:05.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2186, y=66, z=-2043} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[10Jan2025 04:08:05.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=2186, y=66, z=-2043}
+[10Jan2025 04:08:05.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2187, y=67, z=-2043} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[10Jan2025 04:08:05.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=2187, y=67, z=-2043}
+[10Jan2025 04:08:31.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/villagers/unemployed_snow
+[10Jan2025 04:08:55.619] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_alt
+[10Jan2025 04:08:55.664] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance
+[10Jan2025 04:08:55.666] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1_alt
+[10Jan2025 04:08:56.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/connector_2
+[10Jan2025 04:08:56.472] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_1_down_sculk
+[10Jan2025 04:08:56.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_2_down_sculk
+[10Jan2025 04:08:56.477] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_2_down
+[10Jan2025 04:08:56.480] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_2_sculk
+[10Jan2025 04:08:56.482] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_1_sculk
+[10Jan2025 04:08:56.487] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_2
+[10Jan2025 04:09:19.546] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_0 is being run through DFU (hash 41993b47b6a299d7545695cd0b2fb42a1c1bc03231a57947687cef1527cdd088), this will cause launch time delays
+[10Jan2025 04:09:23.095] [Worker-Main-9/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_hut_4 is being run through DFU (hash 1b220da911d5ed271f3af186764277519fde475840912a6fd4a27c455f0267cf), this will cause launch time delays
+[10Jan2025 04:09:30.193] [Worker-Main-9/DEBUG] [ModernFix/]: Structure alexscaves:forlorn_post_2 is being run through DFU (hash 468b86aeb448489afb2a344fbae2d31528221d5c9de630efb2a41f68665feae0), this will cause launch time delays
+[10Jan2025 04:09:30.359] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance_alt
+[10Jan2025 04:09:30.366] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_alt
+[10Jan2025 04:09:33.337] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[10Jan2025 04:09:48.983] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 04:09:49.377] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[10Jan2025 04:09:49.384] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[10Jan2025 04:10:03.123] [pool-9-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2171, y=73, z=-1765}
+[10Jan2025 04:10:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[10Jan2025 04:10:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> dx
+[10Jan2025 04:11:04.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:11:04.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -10540,6 +10540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-10 04:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-10 00:55:44 +0000"
@@ -10579,6 +10585,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-01-10 04:04:09 +0000"
     },
     "done": true
   },
@@ -10666,6 +10678,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-01-10 04:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:14:40 +0000"
@@ -10695,6 +10713,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-10 04:04:09 +0000"
     },
     "done": true
   },
@@ -10770,6 +10794,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 04:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-10 04:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:14:40 +0000"
@@ -10812,6 +10848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-10 04:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-01-10 01:52:34 +0000"
@@ -10842,6 +10884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 04:04:03 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_machete": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:14:40 +0000"
@@ -10860,6 +10908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-01-10 04:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-10 02:14:40 +0000"
@@ -10869,6 +10923,12 @@
   "pfm:recipes/furniture/warped_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-10 01:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-10 04:04:03 +0000"
     },
     "done": true
   },

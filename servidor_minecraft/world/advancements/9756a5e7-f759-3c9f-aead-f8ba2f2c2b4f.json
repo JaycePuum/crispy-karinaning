@@ -10451,6 +10451,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-10 04:04:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_table_dinner": {
     "criteria": {
       "blackstone_table_dinner": "2025-01-10 03:37:58 +0000"
