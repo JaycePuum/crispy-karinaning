@@ -10215,6 +10215,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-01-10 00:53:01 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:goblins_disguise_success": {
     "criteria": {
       "goblins_disguise_success_0": "2025-01-10 00:30:03 +0000"

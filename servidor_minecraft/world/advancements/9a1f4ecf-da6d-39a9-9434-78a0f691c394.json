@@ -10458,6 +10458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-01-10 01:06:07 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_oven_range_hood": {
     "criteria": {
       "has_gray_concrete": "2025-01-10 00:41:29 +0000"
@@ -10470,9 +10476,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-10 00:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-01-10 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-01-10 01:06:19 +0000"
     },
     "done": true
   },
