@@ -10743,3 +10743,41 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 01:54:59.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
 [11Jan2025 01:55:00.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
 [11Jan2025 01:55:46.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[11Jan2025 01:57:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 90 [Stone Bricks] to ErickJaeger]
+[11Jan2025 01:58:08.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 01:58:08.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 01:58:43.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[11Jan2025 01:58:46.608] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
+[11Jan2025 01:58:46.608] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[11Jan2025 01:58:53.543] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[11Jan2025 01:58:53.544] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[11Jan2025 01:58:53.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[11Jan2025 01:59:35.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[11Jan2025 02:02:47.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8156566188383366
+[11Jan2025 02:02:48.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.7614907041275529
+[11Jan2025 02:03:08.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:03:08.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 02:03:25.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.2587885714108534
+[11Jan2025 02:03:27.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.35179882238662685
+[11Jan2025 02:03:27.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.3402447485701389
+[11Jan2025 02:03:29.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.7971833623434662
+[11Jan2025 02:03:29.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8113097135797869
+[11Jan2025 02:03:33.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.7223056881212028
+[11Jan2025 02:03:34.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.4083687904273466
+[11Jan2025 02:03:37.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.4033028593916417
+[11Jan2025 02:03:42.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.5630433541280918
+[11Jan2025 02:03:44.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8059803500442427
+[11Jan2025 02:03:45.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8064690449406794
+[11Jan2025 02:03:46.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8064690449406794
+[11Jan2025 02:03:46.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.817767913440902
+[11Jan2025 02:03:46.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8194328203814291
+[11Jan2025 02:03:46.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.8194328203814291
+[11Jan2025 02:03:46.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 1.6380767299299879
+[11Jan2025 02:03:48.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.46206097897083964
+[11Jan2025 02:03:48.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.46206097897083964
+[11Jan2025 02:03:49.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.6046114223736367
+[11Jan2025 02:03:49.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.6046114223736367
+[11Jan2025 02:03:49.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.5361290080199979
+[11Jan2025 02:03:49.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.5361290080199979
+[11Jan2025 02:04:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 02:04:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Bonfire Lit]
