@@ -1104,3 +1104,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 04:20:29.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [11Jan2025 04:25:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [11Jan2025 04:25:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> erick tienes escombros ancestrales?
+[11Jan2025 04:35:24.046] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[11Jan2025 04:35:24.046] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[11Jan2025 04:35:24.047] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[11Jan2025 04:35:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Kimiyo]
