@@ -6752,84 +6752,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:51:07 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-01-10 05:20:29 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/sugar_rush": {
     "criteria": {
       "all_effects": "2025-01-10 05:17:47 +0000"
@@ -6839,6 +6761,24 @@
   "alexscaves:alexscaves/eat_block_of_chocolate": {
     "criteria": {
       "eat_block_of_chocolate": "2025-01-10 05:17:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-01-10 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-01-10 05:24:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-10 05:24:22 +0000"
     },
     "done": true
   },
@@ -6854,27 +6794,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "has_sugar": "2025-01-10 05:24:22 +0000"
-    },
-    "done": true
-  },
-  "luminousworld:kill_frost_golem": {
-    "criteria": {
-      "kill_frost_golem_0": "2025-01-10 05:39:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-10 05:30:30 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sugar_cube": {
+  "luminousworld:kill_frost_golem": {
     "criteria": {
-      "has_sugar": "2025-01-10 05:24:22 +0000"
+      "kill_frost_golem_0": "2025-01-10 05:39:03 +0000"
     },
     "done": true
   },
