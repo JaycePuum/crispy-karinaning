@@ -11085,6 +11085,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "roast_chicken": "2025-01-11 03:28:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 01:38:32 +0000"

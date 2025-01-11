@@ -1071,3 +1071,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 03:23:48.632] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Damir'/238, l='ServerLevel[world]', x=797.65, y=68.00, z=4899.50] died, message: 'Damir (Staying) was slain by Modern Remnant'
 [11Jan2025 03:23:48.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Damir'/238, l='ServerLevel[world]', x=797.65, y=68.00, z=4899.50] died: Damir (Staying) was slain by Modern Remnant
 [11Jan2025 03:28:41.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [A Glorious Feast]
+[11Jan2025 03:30:14.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mamuka'/44624, l='ServerLevel[world]', x=2410.91, y=66.00, z=-2301.94] died, message: 'Mamuka was slain by Zombie'
+[11Jan2025 03:36:06.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[11Jan2025 03:42:34.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 03:43:59.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> edrian
+[11Jan2025 03:44:59.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karlo'/50934, l='ServerLevel[world]', x=2434.30, y=65.06, z=-2311.41] died, message: 'Karlo (Staying) was slain by EdrianferXD10'
+[11Jan2025 03:44:59.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Karlo'/50934, l='ServerLevel[world]', x=2434.30, y=65.06, z=-2311.41] died: Karlo (Staying) was slain by EdrianferXD10
+[11Jan2025 03:46:59.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> jajja
+[11Jan2025 03:48:44.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Hunted]
+[11Jan2025 03:48:51.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> jajjaja
