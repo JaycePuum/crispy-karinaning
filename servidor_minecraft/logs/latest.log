@@ -1143,3 +1143,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 05:21:11.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124810, l='ServerLevel[world]', x=-132.99, y=-20.00, z=110.17] died: Restless Spirit was killed
 [11Jan2025 05:22:55.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
 [11Jan2025 05:22:55.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[11Jan2025 05:59:53.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has completed the challenge [Best Friends]
