@@ -989,3 +989,44 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 02:03:49.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.5361290080199979
 [11Jan2025 02:04:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [11Jan2025 02:04:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Bonfire Lit]
+[11Jan2025 02:09:39.893] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:39.893] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15562
+[11Jan2025 02:09:39.895] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:09:49.295] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:49.295] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15750
+[11Jan2025 02:09:49.295] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:09:53.745] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:53.746] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15839
+[11Jan2025 02:09:53.746] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:09:54.901] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:54.901] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15862
+[11Jan2025 02:09:54.901] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:10:02.196] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:10:02.196] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16008
+[11Jan2025 02:10:02.196] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:10:16.703] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=71, z=4976} in minecraft:overworld
+[11Jan2025 02:10:16.703] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16298
+[11Jan2025 02:10:16.703] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:10:46.940] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=897, y=70, z=4972} in minecraft:overworld
+[11Jan2025 02:10:46.941] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16903
+[11Jan2025 02:10:46.941] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[11Jan2025 02:10:56.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Jan2025 02:10:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Cosi?
+[11Jan2025 02:11:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> si
+[11Jan2025 02:11:35.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> A quién invocas?
+[11Jan2025 02:12:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> muerte
+[11Jan2025 02:14:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Beat Death]
+[11Jan2025 02:14:59.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[11Jan2025 02:16:10.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [A Burning Arena]
+[11Jan2025 02:18:13.304] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:crimson_forest took 6 ms
+[11Jan2025 02:18:17.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 8.500000, 32.000000, 242.500000]
+[11Jan2025 02:18:17.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has completed the challenge [Hot Tourist Destinations]
+[11Jan2025 02:18:36.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[11Jan2025 02:20:47.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15010, l='ServerLevel[world]', x=-55.14, y=-20.00, z=218.49] died: Toxic Slime was killed
+[11Jan2025 02:20:50.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15172, l='ServerLevel[world]', x=-37.01, y=-20.00, z=155.83] died: Toxic Slime was killed
+[11Jan2025 02:21:04.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15243, l='ServerLevel[world]', x=-17.74, y=-20.00, z=178.74] died: Toxic Slime was killed
+[11Jan2025 02:21:41.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15392, l='ServerLevel[world]', x=41.10, y=-20.00, z=160.88] died: Toxic Slime was killed
+[11Jan2025 02:21:43.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[11Jan2025 02:21:50.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 02:21:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[11Jan2025 02:22:00.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]

@@ -11052,9 +11052,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-11 02:15:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2025-01-11 02:14:44 +0000"
     },
     "done": true
   },
@@ -11064,9 +11100,81 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
@@ -11082,15 +11190,99 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/thornwood_alexscaves_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },

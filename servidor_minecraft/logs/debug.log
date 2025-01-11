@@ -10781,3 +10781,169 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 02:03:49.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of EdrianferXD10) moved wrongly! 0.5361290080199979
 [11Jan2025 02:04:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [11Jan2025 02:04:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Bonfire Lit]
+[11Jan2025 02:08:08.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:08:08.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 02:09:31.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[11Jan2025 02:09:31.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[11Jan2025 02:09:31.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[11Jan2025 02:09:31.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_8
+[11Jan2025 02:09:31.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[11Jan2025 02:09:31.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[11Jan2025 02:09:39.893] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:39.893] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15562
+[11Jan2025 02:09:39.895] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:09:49.295] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:49.295] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15750
+[11Jan2025 02:09:49.295] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:09:53.745] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:53.746] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15839
+[11Jan2025 02:09:53.746] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:09:54.901] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:09:54.901] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15862
+[11Jan2025 02:09:54.901] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:10:02.196] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=70, z=4976} in minecraft:overworld
+[11Jan2025 02:10:02.196] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16008
+[11Jan2025 02:10:02.196] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:10:16.703] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=891, y=71, z=4976} in minecraft:overworld
+[11Jan2025 02:10:16.703] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16298
+[11Jan2025 02:10:16.703] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[11Jan2025 02:10:46.940] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=897, y=70, z=4972} in minecraft:overworld
+[11Jan2025 02:10:46.941] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 16903
+[11Jan2025 02:10:46.941] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[11Jan2025 02:10:56.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Jan2025 02:10:56.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Cosi?
+[11Jan2025 02:11:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> si
+[11Jan2025 02:11:35.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> A quién invocas?
+[11Jan2025 02:12:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> muerte
+[11Jan2025 02:13:08.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:13:08.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 02:14:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Beat Death]
+[11Jan2025 02:14:58.100] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[11Jan2025 02:14:58.102] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[11Jan2025 02:14:58.103] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=787, y=67, z=4877} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[11Jan2025 02:14:58.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:nether_horned_statue
+[11Jan2025 02:14:59.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[11Jan2025 02:15:06.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/edge_0_large
+[11Jan2025 02:15:06.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_2
+[11Jan2025 02:15:06.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/wall_base
+[11Jan2025 02:15:06.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/fillers/stage_0
+[11Jan2025 02:15:06.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/rot/stage_1_0
+[11Jan2025 02:15:06.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_0
+[11Jan2025 02:15:06.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/pathways/pathway_wall_0
+[11Jan2025 02:15:06.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/walls/connected_wall
+[11Jan2025 02:15:06.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_0
+[11Jan2025 02:15:06.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_1
+[11Jan2025 02:15:06.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_3
+[11Jan2025 02:15:06.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_1
+[11Jan2025 02:15:06.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_0
+[11Jan2025 02:15:06.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/rampart_plates/plate_0
+[11Jan2025 02:15:06.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_2_0
+[11Jan2025 02:15:06.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_3
+[11Jan2025 02:15:06.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_2
+[11Jan2025 02:15:06.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/edges/edge_0
+[11Jan2025 02:15:06.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_0
+[11Jan2025 02:15:06.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_1_0
+[11Jan2025 02:15:06.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_2
+[11Jan2025 02:15:06.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_3_1
+[11Jan2025 02:15:06.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/lava_basin
+[11Jan2025 02:15:06.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/entrances/entrance_0
+[11Jan2025 02:15:06.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_3
+[11Jan2025 02:15:06.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_2
+[11Jan2025 02:15:06.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/bottom/wall_1
+[11Jan2025 02:15:06.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_1
+[11Jan2025 02:15:06.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/stairs/lower_stairs
+[11Jan2025 02:15:06.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_main
+[11Jan2025 02:15:06.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_1
+[11Jan2025 02:15:06.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/medium_outer_wall
+[11Jan2025 02:15:06.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/bottom/corner_0
+[11Jan2025 02:15:06.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_0
+[11Jan2025 02:15:06.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/center_roof
+[11Jan2025 02:15:06.655] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/large_bridge_1
+[11Jan2025 02:15:06.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/fire_room
+[11Jan2025 02:15:06.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/mid_wall_side
+[11Jan2025 02:15:06.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/top_wall
+[11Jan2025 02:15:06.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/bottom_wall_0
+[11Jan2025 02:15:06.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_side
+[11Jan2025 02:15:06.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_0
+[11Jan2025 02:15:06.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/main_entrance
+[11Jan2025 02:15:06.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/top/wall_1
+[11Jan2025 02:15:06.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_1
+[11Jan2025 02:15:06.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_2
+[11Jan2025 02:15:06.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/mid/wall_0
+[11Jan2025 02:15:06.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/ramparts/lava_basin_main
+[11Jan2025 02:15:06.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_1
+[11Jan2025 02:15:06.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/tall_outer_wall
+[11Jan2025 02:15:06.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/wall_roof
+[11Jan2025 02:15:06.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_1
+[11Jan2025 02:15:06.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/house_0
+[11Jan2025 02:15:06.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_3
+[11Jan2025 02:15:06.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_2
+[11Jan2025 02:15:06.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/extensions/small_bridge_0
+[11Jan2025 02:15:06.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/entrance_wall
+[11Jan2025 02:15:06.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/top/corner_0
+[11Jan2025 02:15:06.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/outer/outer_wall
+[11Jan2025 02:15:06.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_1
+[11Jan2025 02:15:06.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/corners/middle/corner_0
+[11Jan2025 02:15:06.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/walls/lava_wall
+[11Jan2025 02:15:06.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/roofs/corner_roof
+[11Jan2025 02:15:10.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_1
+[11Jan2025 02:15:10.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_3
+[11Jan2025 02:15:10.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/ramparts/ramparts_1
+[11Jan2025 02:15:17.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena1
+[11Jan2025 02:15:17.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena2
+[11Jan2025 02:15:17.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena3
+[11Jan2025 02:15:17.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena4
+[11Jan2025 02:15:17.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena5
+[11Jan2025 02:15:17.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena6
+[11Jan2025 02:15:17.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena7
+[11Jan2025 02:15:17.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:burning_arena8
+[11Jan2025 02:15:17.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
+[11Jan2025 02:16:01.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[11Jan2025 02:16:01.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[11Jan2025 02:16:01.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[11Jan2025 02:16:01.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[11Jan2025 02:16:01.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[11Jan2025 02:16:01.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[11Jan2025 02:16:10.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [A Burning Arena]
+[11Jan2025 02:16:49.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance_base
+[11Jan2025 02:16:49.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/walls/wall_base_1
+[11Jan2025 02:16:49.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance
+[11Jan2025 02:16:49.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/walls/wall_base_0
+[11Jan2025 02:16:49.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/ramparts/rampart_0
+[11Jan2025 02:16:49.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance_face
+[11Jan2025 02:16:49.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/bridge_pieces/bridge
+[11Jan2025 02:16:49.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/legs/leg_0
+[11Jan2025 02:18:08.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:18:08.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 02:18:13.304] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:crimson_forest took 6 ms
+[11Jan2025 02:18:17.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 8.500000, 32.000000, 242.500000]
+[11Jan2025 02:18:17.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has completed the challenge [Hot Tourist Destinations]
+[11Jan2025 02:18:17.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/stages/stage_0_2
+[11Jan2025 02:18:36.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[11Jan2025 02:19:09.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[11Jan2025 02:20:47.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15010, l='ServerLevel[world]', x=-55.14, y=-20.00, z=218.49] died: Toxic Slime was killed
+[11Jan2025 02:20:50.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15172, l='ServerLevel[world]', x=-37.01, y=-20.00, z=155.83] died: Toxic Slime was killed
+[11Jan2025 02:21:04.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15243, l='ServerLevel[world]', x=-17.74, y=-20.00, z=178.74] died: Toxic Slime was killed
+[11Jan2025 02:21:41.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15392, l='ServerLevel[world]', x=41.10, y=-20.00, z=160.88] died: Toxic Slime was killed
+[11Jan2025 02:21:43.473] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[11Jan2025 02:21:43.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[11Jan2025 02:21:45.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[11Jan2025 02:21:45.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[11Jan2025 02:21:45.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_bedroom_2
+[11Jan2025 02:21:45.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_potions
+[11Jan2025 02:21:45.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/camp
+[11Jan2025 02:21:45.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[11Jan2025 02:21:45.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_diamonds
+[11Jan2025 02:21:45.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_rip
+[11Jan2025 02:21:45.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[11Jan2025 02:21:45.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_armor
+[11Jan2025 02:21:45.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[11Jan2025 02:21:45.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_2
+[11Jan2025 02:21:45.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[11Jan2025 02:21:45.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[11Jan2025 02:21:45.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[11Jan2025 02:21:50.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 02:21:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[11Jan2025 02:22:00.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[11Jan2025 02:23:08.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:23:08.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
