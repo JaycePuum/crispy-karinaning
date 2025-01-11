@@ -1136,3 +1136,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 05:20:07.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124589, l='ServerLevel[world]', x=-174.71, y=-20.00, z=75.44] died: Restless Spirit was killed
 [11Jan2025 05:20:34.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124672, l='ServerLevel[world]', x=-122.10, y=-20.00, z=76.39] died: Restless Spirit was killed
 [11Jan2025 05:20:43.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124707, l='ServerLevel[world]', x=-204.83, y=-20.00, z=29.60] died: Restless Spirit was killed
+[11Jan2025 05:21:04.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124767, l='ServerLevel[world]', x=-180.36, y=-20.00, z=106.44] died: Restless Spirit was killed
+[11Jan2025 05:21:07.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124785, l='ServerLevel[world]', x=-161.13, y=-20.00, z=0.28] died: Restless Spirit was killed
+[11Jan2025 05:21:07.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124789, l='ServerLevel[world]', x=-110.09, y=-20.00, z=68.14] died: Restless Spirit was killed
+[11Jan2025 05:21:10.530] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124804, l='ServerLevel[world]', x=-100.04, y=-20.00, z=78.03] died: Restless Spirit was killed
+[11Jan2025 05:21:11.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124810, l='ServerLevel[world]', x=-132.99, y=-20.00, z=110.17] died: Restless Spirit was killed
+[11Jan2025 05:22:55.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
+[11Jan2025 05:22:55.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
