@@ -11676,3 +11676,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 04:48:57.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/ritualist
 [11Jan2025 04:48:57.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/illusionist
 [11Jan2025 04:48:57.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/mobs/guardian
+[11Jan2025 04:51:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 04:53:11.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:53:11.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:58:11.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:58:11.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

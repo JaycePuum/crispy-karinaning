@@ -1109,3 +1109,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 04:35:24.047] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
 [11Jan2025 04:35:24.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Kimiyo]
 [11Jan2025 04:48:54.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/66350, l='ServerLevel[world]', x=352.09, y=32.88, z=454.53] died: Piglin Civilian burned to death
+[11Jan2025 04:51:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
