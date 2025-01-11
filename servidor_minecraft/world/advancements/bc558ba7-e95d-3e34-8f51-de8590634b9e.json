@@ -6860,6 +6860,12 @@
     },
     "done": true
   },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2025-01-11 04:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-11 03:57:41 +0000"

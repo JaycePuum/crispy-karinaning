@@ -1094,3 +1094,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 04:03:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported Gabriela (Following) to ErickJaeger]
 [11Jan2025 04:04:25.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 817.500000, 66.500000, 4836.500000]
 [11Jan2025 04:09:39.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Merchant]
+[11Jan2025 04:09:54.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Merchant]
+[11Jan2025 04:10:54.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Noble]
+[11Jan2025 04:15:42.967] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[11Jan2025 04:15:42.967] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[11Jan2025 04:15:42.967] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair mca:missing does not exist!
+[11Jan2025 04:15:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Tamaki]
+[11Jan2025 04:16:03.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]

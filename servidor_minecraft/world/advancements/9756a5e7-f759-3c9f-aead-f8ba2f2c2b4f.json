@@ -11049,6 +11049,12 @@
     },
     "done": true
   },
+  "mca:noble": {
+    "criteria": {
+      "baby": "2025-01-11 04:10:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/granite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-11 01:42:05 +0000"
@@ -11124,6 +11130,12 @@
   "pfm:recipes/furniture/thornwood_alexscaves_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2025-01-11 04:09:54 +0000"
     },
     "done": true
   },
