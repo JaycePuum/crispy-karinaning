@@ -10678,3 +10678,20 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 01:05:17.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2damagetracker/contents/attack/LogHelper$Type
 [11Jan2025 01:06:19.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [11Jan2025 01:06:48.073] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[11Jan2025 01:08:08.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 01:08:08.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 01:08:39.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[11Jan2025 01:09:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 80 [Torch] to ErickJaeger]
+[11Jan2025 01:09:53.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[11Jan2025 01:10:17.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[11Jan2025 01:10:18.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[11Jan2025 01:13:04.391] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5108f669 for service interface com.blamejared.clumps.platform.IEventHelper
+[11Jan2025 01:13:04.391] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@3c1e687d for service interface com.blamejared.clumps.platform.IPlatformHelper
+[11Jan2025 01:13:08.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 01:13:08.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 01:13:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 78 [Bread] to ErickJaeger]
+[11Jan2025 01:14:54.831] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.BirdPathNodeMakerMixin from lithium.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[11Jan2025 01:14:54.831] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.pathing.BirdPathNodeMakerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[11Jan2025 01:15:06.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[11Jan2025 01:15:06.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[11Jan2025 01:15:06.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8

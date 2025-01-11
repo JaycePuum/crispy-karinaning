@@ -922,3 +922,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 01:05:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [11Jan2025 01:05:17.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2damagetracker/contents/attack/LogHelper$Type
 [11Jan2025 01:06:19.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[11Jan2025 01:08:39.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[11Jan2025 01:09:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 80 [Torch] to ErickJaeger]
+[11Jan2025 01:09:53.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[11Jan2025 01:10:17.756] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[11Jan2025 01:10:18.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[11Jan2025 01:13:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 78 [Bread] to ErickJaeger]
