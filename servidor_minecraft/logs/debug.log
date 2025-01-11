@@ -11681,3 +11681,37 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 04:53:11.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jan2025 04:58:11.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 04:58:11.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 05:01:37.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/116431, l='ServerLevel[world]', x=353.24, y=-20.00, z=649.88] died: Restless Spirit was killed
+[11Jan2025 05:02:42.809] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[11Jan2025 05:02:42.810] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[11Jan2025 05:02:42.810] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[11Jan2025 05:02:42.811] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[11Jan2025 05:03:11.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 05:03:11.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 05:03:11.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/starting_stairs_3
+[11Jan2025 05:03:11.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_1_3
+[11Jan2025 05:03:11.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_1
+[11Jan2025 05:03:11.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/starting_pieces/stairs_0_mirrored
+[11Jan2025 05:03:11.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_3
+[11Jan2025 05:03:11.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/inner_4
+[11Jan2025 05:03:11.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/small_stables/inner_1
+[11Jan2025 05:03:11.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_2_4
+[11Jan2025 05:03:11.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/large_stables/outer_1
+[11Jan2025 05:03:11.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/hoglin_stable/stairs/stairs_3_1
+[11Jan2025 05:03:32.653] [Worker-Main-137/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[11Jan2025 05:03:32.781] [Worker-Main-288/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[11Jan2025 05:04:02.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/118823, l='ServerLevel[world]', x=258.83, y=46.00, z=150.07] died: Toxic Slime was shot by EdrianferXD10
+[11Jan2025 05:04:43.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/118729, l='ServerLevel[world]', x=213.00, y=47.00, z=154.59] died: Ghast Sentry was shot by EdrianferXD10
+[11Jan2025 05:05:07.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/119565, l='ServerLevel[world]', x=25.74, y=-20.00, z=169.26] died: Toxic Slime was killed
+[11Jan2025 05:05:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[11Jan2025 05:06:06.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[11Jan2025 05:06:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[11Jan2025 05:06:15.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/118996, l='ServerLevel[world]', x=244.74, y=-20.00, z=138.26] died: Toxic Slime was killed
+[11Jan2025 05:06:37.274] [Worker-Main-227/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/center_pieces/center_0
+[11Jan2025 05:06:37.278] [Worker-Main-227/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/units/wall_units/unit_0
+[11Jan2025 05:06:41.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/ramparts/rampart_1
+[11Jan2025 05:06:41.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/rampart_plates/plate_0
+[11Jan2025 05:06:50.696] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[11Jan2025 05:07:26.679] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[11Jan2025 05:08:11.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 05:08:11.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
