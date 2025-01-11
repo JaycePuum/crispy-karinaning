@@ -10740,9 +10740,375 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-11 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-11 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_classic_nightstand": {
+    "criteria": {
+      "granite_classic_nightstand": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_chair_dinner": {
+    "criteria": {
+      "granite_chair_dinner": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-11 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_table_basic": {
+    "criteria": {
+      "granite_table_basic": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_chair": {
+    "criteria": {
+      "granite_chair": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_table_classic": {
+    "criteria": {
+      "granite_table_classic": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-11 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-01-11 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_chair_classic": {
+    "criteria": {
+      "granite_chair_classic": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_chair_modern": {
+    "criteria": {
+      "granite_chair_modern": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-11 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_table_natural": {
+    "criteria": {
+      "granite_table_natural": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_table_modern_dinner": {
+    "criteria": {
+      "granite_table_modern_dinner": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_table_dinner": {
+    "criteria": {
+      "granite_table_dinner": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-11 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_yellow_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_yellow_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/granite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-11 01:42:05 +0000"
     },
     "done": true
   },
