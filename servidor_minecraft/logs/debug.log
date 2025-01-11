@@ -10695,3 +10695,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 01:15:06.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
 [11Jan2025 01:15:06.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
 [11Jan2025 01:15:06.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[11Jan2025 01:17:05.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 90 [Stone Bricks] to ErickJaeger]
+[11Jan2025 01:17:59.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 150 [Cobblestone] to ErickJaeger]
+[11Jan2025 01:18:08.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 01:18:08.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 01:20:04.831] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[11Jan2025 01:20:04.831] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[11Jan2025 01:22:28.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 250 [Cobblestone] to ErickJaeger]
+[11Jan2025 01:23:08.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 01:23:08.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 01:24:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 01:25:50.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[11Jan2025 01:26:06.418] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[11Jan2025 01:26:09.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=816, y=65, z=4854} BlockPos{x=817, y=65, z=4856}
+[11Jan2025 01:26:09.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=816, y=65, z=4854} BlockPos{x=817, y=65, z=4856}
+[11Jan2025 01:26:41.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=823, y=66, z=4849} BlockPos{x=823, y=65, z=4848}
+[11Jan2025 01:26:41.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=66, z=4851} BlockPos{x=823, y=65, z=4851}
+[11Jan2025 01:26:41.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=66, z=4851} BlockPos{x=823, y=65, z=4851}
+[11Jan2025 01:26:41.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=66, z=4851} BlockPos{x=823, y=65, z=4851}
+[11Jan2025 01:26:44.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=66, z=4853} BlockPos{x=826, y=65, z=4853}
