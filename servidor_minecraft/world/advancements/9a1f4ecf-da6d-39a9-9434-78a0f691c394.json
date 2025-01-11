@@ -11053,6 +11053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
@@ -11068,6 +11074,12 @@
   "pfm:recipes/furniture/bamboo_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },
@@ -11128,6 +11140,18 @@
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-01-11 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },
@@ -11245,6 +11269,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
@@ -11347,6 +11377,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
@@ -11392,6 +11428,12 @@
   "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },
@@ -11473,9 +11515,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },
@@ -11557,6 +11611,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/smooth_stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
@@ -11572,6 +11632,12 @@
   "pfm:recipes/furniture/birch_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },

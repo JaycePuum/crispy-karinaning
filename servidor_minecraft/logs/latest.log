@@ -1088,3 +1088,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 03:54:54.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kristine'/56850, l='ServerLevel[world]', x=2409.98, y=63.00, z=-2332.96] died, message: 'Kristine was slain by EdrianferXD10'
 [11Jan2025 03:54:54.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kristine'/56850, l='ServerLevel[world]', x=2409.98, y=63.00, z=-2332.96] died: Kristine was slain by EdrianferXD10
 [11Jan2025 03:58:43.036] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/c2s/ReportBuildingMessage$Action
+[11Jan2025 04:02:41.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[11Jan2025 04:03:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 817.500000, 66.500000, 4836.500000]
+[11Jan2025 04:03:37.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1216.500000, 73.500000, 258.500000]
+[11Jan2025 04:03:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported Gabriela (Following) to ErickJaeger]
+[11Jan2025 04:04:25.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 817.500000, 66.500000, 4836.500000]
+[11Jan2025 04:09:39.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Merchant]
