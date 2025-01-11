@@ -11059,9 +11059,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11071,9 +11083,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11107,6 +11149,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
@@ -11131,6 +11179,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
@@ -11152,6 +11206,12 @@
   "pfm:recipes/furniture/dark_oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11203,6 +11263,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/thornwood_alexscaves_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dreadwood_iceandfire_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
@@ -11212,6 +11278,36 @@
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11239,9 +11335,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/pewen_alexscaves_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11251,9 +11359,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11275,15 +11395,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-01-11 03:48:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/thornwood_alexscaves_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11317,6 +11467,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
@@ -11335,6 +11491,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
@@ -11344,6 +11506,12 @@
   "pfm:recipes/furniture/pewen_alexscaves_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11371,6 +11539,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
@@ -11395,6 +11569,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
@@ -11404,6 +11584,12 @@
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },

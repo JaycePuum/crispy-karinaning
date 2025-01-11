@@ -1080,3 +1080,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 03:46:59.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> jajja
 [11Jan2025 03:48:44.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Hunted]
 [11Jan2025 03:48:51.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> jajjaja
+[11Jan2025 03:51:24.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[11Jan2025 03:51:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[11Jan2025 03:52:40.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[11Jan2025 03:52:48.688] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Inga'/50927, l='ServerLevel[world]', x=2386.52, y=64.00, z=-2192.95] died, message: 'Inga was slain by Zombie'
+[11Jan2025 03:52:48.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Inga'/50927, l='ServerLevel[world]', x=2386.52, y=64.00, z=-2192.95] died: Inga was slain by Zombie
+[11Jan2025 03:54:54.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kristine'/56850, l='ServerLevel[world]', x=2409.98, y=63.00, z=-2332.96] died, message: 'Kristine was slain by EdrianferXD10'
+[11Jan2025 03:54:54.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kristine'/56850, l='ServerLevel[world]', x=2409.98, y=63.00, z=-2332.96] died: Kristine was slain by EdrianferXD10
+[11Jan2025 03:58:43.036] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/c2s/ReportBuildingMessage$Action
