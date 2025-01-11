@@ -200,7 +200,7 @@
 	NetheritemonstrosityBodyBloking = true
 	#Monstrosity's attack Hp Damage
 	#Range: 0.0 ~ 1.0
-	"Monstrosity's attack Hp Damage" = 0.04
+	"Monstrosity's attack Hp Damage" = 0.02
 	#Monstrosity's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Monstrosity's prevent attacks from far away Range" = 18.0
