@@ -10680,78 +10680,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-10 05:34:06 +0000"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-01-10 04:56:13 +0000"
@@ -10761,12 +10689,6 @@
   "alexscaves:alexscaves/enter_purple_soda": {
     "criteria": {
       "in_purple_soda": "2025-01-10 04:56:19 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_caniac": {
-    "criteria": {
-      "killed": "2025-01-10 05:00:52 +0000"
     },
     "done": true
   },
@@ -10782,21 +10704,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/gingerbread_crumbs": {
+  "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
-      "crumbs": "2025-01-10 05:11:41 +0000"
+      "killed": "2025-01-10 05:00:52 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_gumbeeper": {
+  "alexscaves:alexscaves/candy_cane_hook": {
     "criteria": {
-      "killed": "2025-01-10 05:28:31 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/ride_gum_worm": {
-    "criteria": {
-      "ride_gum_worm": "2025-01-10 05:11:33 +0000"
+      "candy_cane_hook": "2025-01-10 05:05:14 +0000"
     },
     "done": true
   },
@@ -10806,9 +10722,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/candy_cane_hook": {
+  "alexscaves:alexscaves/ride_gum_worm": {
     "criteria": {
-      "candy_cane_hook": "2025-01-10 05:05:14 +0000"
+      "ride_gum_worm": "2025-01-10 05:11:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-01-10 05:11:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-01-10 05:28:31 +0000"
     },
     "done": true
   },
