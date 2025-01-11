@@ -10986,6 +10986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-11 01:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-11 01:41:58 +0000"
@@ -11019,6 +11025,12 @@
   "pfm:recipes/furniture/granite_table_modern_dinner": {
     "criteria": {
       "granite_table_modern_dinner": "2025-01-11 01:42:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-11 01:44:08 +0000"
     },
     "done": true
   },
@@ -11091,6 +11103,12 @@
   "pfm:recipes/furniture/chorus_cataclysm_yellow_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-11 01:44:08 +0000"
     },
     "done": true
   },
