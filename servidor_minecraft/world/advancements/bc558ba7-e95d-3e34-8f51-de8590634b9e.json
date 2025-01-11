@@ -6860,6 +6860,12 @@
     },
     "done": true
   },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-01-11 05:59:53 +0000"
+    },
+    "done": true
+  },
   "mca:merchant": {
     "criteria": {
       "baby": "2025-01-11 04:09:39 +0000"
