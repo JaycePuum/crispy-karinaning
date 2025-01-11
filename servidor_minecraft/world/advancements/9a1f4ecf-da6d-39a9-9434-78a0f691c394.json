@@ -9811,7 +9811,8 @@
     "criteria": {
       "incendium:ash_barrens": "2025-01-08 02:47:56 +0000",
       "incendium:quartz_flats": "2025-01-08 02:47:24 +0000",
-      "incendium:toxic_heap": "2025-01-08 03:06:25 +0000"
+      "incendium:toxic_heap": "2025-01-08 03:06:25 +0000",
+      "incendium:withered_forest": "2025-01-11 05:12:05 +0000"
     },
     "done": false
   },
@@ -11134,6 +11135,12 @@
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-01-11 05:12:05 +0000"
     },
     "done": true
   },

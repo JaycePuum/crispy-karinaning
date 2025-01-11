@@ -1124,3 +1124,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 05:06:06.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
 [11Jan2025 05:06:06.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
 [11Jan2025 05:06:15.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/118996, l='ServerLevel[world]', x=244.74, y=-20.00, z=138.26] died: Toxic Slime was killed
+[11Jan2025 05:12:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Ancient Battlefield]
+[11Jan2025 05:12:48.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/123287, l='ServerLevel[world]', x=-125.12, y=33.00, z=71.91] died: Headless Warrior was slain by EdrianferXD10
+[11Jan2025 05:14:44.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/123127, l='ServerLevel[world]', x=-218.34, y=-20.00, z=55.65] died: Toxic Slime was killed
+[11Jan2025 05:15:32.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/123497, l='ServerLevel[world]', x=-182.50, y=-20.00, z=47.85] died: Toxic Slime was killed
+[11Jan2025 05:17:03.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/123857, l='ServerLevel[world]', x=-143.56, y=-20.00, z=96.77] died: Toxic Slime was killed
+[11Jan2025 05:18:29.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/124280, l='ServerLevel[world]', x=-209.74, y=-20.00, z=87.26] died: Toxic Slime was killed
+[11Jan2025 05:18:32.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/124293, l='ServerLevel[world]', x=-60.35, y=-20.00, z=111.53] died: Toxic Slime was killed
+[11Jan2025 05:18:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Subspace Bubble]
+[11Jan2025 05:18:47.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6222ms or 124 ticks behind
+[11Jan2025 05:20:07.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124589, l='ServerLevel[world]', x=-174.71, y=-20.00, z=75.44] died: Restless Spirit was killed
+[11Jan2025 05:20:34.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124672, l='ServerLevel[world]', x=-122.10, y=-20.00, z=76.39] died: Restless Spirit was killed
+[11Jan2025 05:20:43.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/124707, l='ServerLevel[world]', x=-204.83, y=-20.00, z=29.60] died: Restless Spirit was killed
