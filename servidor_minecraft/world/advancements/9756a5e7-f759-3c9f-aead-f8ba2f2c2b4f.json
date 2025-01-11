@@ -11157,6 +11157,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-11 02:23:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/granite_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-11 01:42:05 +0000"
@@ -11226,6 +11232,12 @@
   "pfm:recipes/furniture/cherry_yellow_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 01:38:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-11 02:23:09 +0000"
     },
     "done": true
   },
