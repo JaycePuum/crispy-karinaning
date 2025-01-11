@@ -941,3 +941,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Jan2025 01:26:41.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=66, z=4851} BlockPos{x=823, y=65, z=4851}
 [11Jan2025 01:26:41.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=66, z=4851} BlockPos{x=823, y=65, z=4851}
 [11Jan2025 01:26:44.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=825, y=66, z=4853} BlockPos{x=826, y=65, z=4853}
+[11Jan2025 01:33:17.255] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[11Jan2025 01:36:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 180 [Cobblestone] to ErickJaeger]
