@@ -11054,207 +11054,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-11 05:22:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/chorus_cataclysm_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/bamboo_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dreadwood_iceandfire_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/warped_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/crimson_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dark_oak_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-01-11 05:12:05 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2025-01-11 02:15:06 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "mca:adventure/kill_grim_reaper": {
-    "criteria": {
-      "killed_reaper": "2025-01-11 02:14:44 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/acacia_blue_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11264,15 +11066,75 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/acacia_white_classic_bed": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-11 01:56:52 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2025-01-11 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2025-01-11 02:15:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+  "pfm:recipes/furniture/bamboo_white_simple_bed": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
@@ -11282,39 +11144,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/chorus_cataclysm_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "mca:adventure/scythe_kill": {
-    "criteria": {
-      "iron": "2025-01-11 02:46:17 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/dark_oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11324,33 +11156,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-01-11 03:19:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/chorus_cataclysm_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },
@@ -11372,21 +11180,321 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/thornwood_alexscaves_blue_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/dreadwood_iceandfire_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2025-01-11 02:46:17 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2025-01-11 02:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-01-11 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-01-11 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-01-11 03:48:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-11 03:55:12 +0000"
     },
     "done": true
   },
@@ -11420,45 +11528,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/oak_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/jungle_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/pewen_alexscaves_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
     },
     "done": true
   },
@@ -11468,21 +11540,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-01-11 01:56:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/dreadwood_iceandfire_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
@@ -11492,39 +11552,9 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/thornwood_alexscaves_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/acacia_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "mca:hunted": {
-    "criteria": {
-      "iron": "2025-01-11 03:48:44 +0000"
     },
     "done": true
   },
@@ -11534,21 +11564,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/thornwood_alexscaves_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/birch_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
@@ -11558,69 +11576,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/oak_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pewen_alexscaves_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "mca:adventure/scythe_revive": {
-    "criteria": {
-      "iron": "2025-01-11 02:48:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/dreadwood_iceandfire_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/oak_blue_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/crimson_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-01-11 03:19:57 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
@@ -11630,45 +11588,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/pewen_alexscaves_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/bamboo_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/mangrove_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/thornwood_alexscaves_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
     },
     "done": true
   },
@@ -11678,57 +11600,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/cherry_white_simple_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/birch_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-11 03:55:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/smooth_stone_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-11 04:02:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/bamboo_white_classic_bed": {
-    "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
     },
     "done": true
   },
@@ -11738,29 +11612,155 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/smooth_stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-11 04:02:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-01-11 05:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-01-11 05:18:41 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-01-11 03:19:58 +0000"
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-01-11 01:37:51 +0000"
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "pfm:recipes/furniture/acacia_white_simple_bed": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_bed": "2025-01-11 02:22:52 +0000"
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 04:52:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
