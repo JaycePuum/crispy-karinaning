@@ -886,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-04 07:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-04 06:37:27 +0000"
@@ -1131,7 +1137,8 @@
     "criteria": {
       "cooked_chicken": "2025-05-04 06:35:07 +0000",
       "rotten_flesh": "2025-05-04 06:32:29 +0000",
-      "cooked_salmon": "2025-05-04 06:20:15 +0000"
+      "cooked_salmon": "2025-05-04 06:20:15 +0000",
+      "golden_carrot": "2025-05-04 07:04:55 +0000"
     },
     "done": false
   },

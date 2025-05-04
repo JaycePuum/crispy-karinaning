@@ -44,7 +44,8 @@
       "cooked_chicken": "2025-05-04 06:09:37 +0000",
       "rotten_flesh": "2025-05-04 05:15:48 +0000",
       "cooked_mutton": "2025-05-04 05:29:45 +0000",
-      "cooked_beef": "2025-05-04 05:26:18 +0000"
+      "cooked_beef": "2025-05-04 05:26:18 +0000",
+      "golden_carrot": "2025-05-04 07:04:56 +0000"
     },
     "done": false
   },
@@ -546,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-04 07:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-05-04 05:30:50 +0000"
@@ -990,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-04 07:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-04 06:42:40 +0000"
@@ -1071,6 +1084,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-04 05:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-04 07:04:17 +0000"
     },
     "done": true
   },
@@ -1641,6 +1660,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-04 05:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-04 07:18:35 +0000"
     },
     "done": true
   },
