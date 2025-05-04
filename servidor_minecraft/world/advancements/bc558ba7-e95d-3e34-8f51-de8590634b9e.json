@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-04 05:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-05-04 04:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 05:19:32 +0000"
     },
     "done": true
   },
@@ -473,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 05:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-04 04:13:59 +0000"
@@ -533,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-04 05:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-04 04:31:49 +0000"
@@ -572,6 +596,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 04:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 04:59:20 +0000"
     },
     "done": true
   },
@@ -679,6 +709,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-04 05:19:16 +0000",
       "minecraft:skeleton": "2025-05-04 04:16:40 +0000",
       "minecraft:spider": "2025-05-04 04:39:35 +0000",
       "minecraft:zombie": "2025-05-04 04:26:43 +0000",
@@ -732,6 +763,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 04:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-04 05:04:09 +0000"
     },
     "done": true
   },
@@ -845,10 +882,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-05-04 04:13:26 +0000",
+      "minecraft:badlands": "2025-05-04 05:17:51 +0000",
+      "minecraft:beach": "2025-05-04 04:52:05 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-04 05:01:16 +0000",
+      "minecraft:dark_forest": "2025-05-04 04:55:07 +0000",
       "minecraft:forest": "2025-05-04 04:18:02 +0000",
+      "minecraft:taiga": "2025-05-04 05:02:03 +0000",
       "minecraft:river": "2025-05-04 04:15:20 +0000",
-      "minecraft:birch_forest": "2025-05-04 04:15:30 +0000"
+      "minecraft:lukewarm_ocean": "2025-05-04 05:15:05 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-04 04:13:26 +0000",
+      "minecraft:desert": "2025-05-04 05:18:32 +0000",
+      "minecraft:windswept_forest": "2025-05-04 04:54:17 +0000",
+      "minecraft:jungle": "2025-05-04 05:12:20 +0000",
+      "minecraft:swamp": "2025-05-04 05:08:27 +0000",
+      "minecraft:meadow": "2025-05-04 05:02:42 +0000",
+      "minecraft:birch_forest": "2025-05-04 04:15:30 +0000",
+      "minecraft:savanna": "2025-05-04 04:51:17 +0000",
+      "minecraft:bamboo_jungle": "2025-05-04 05:10:45 +0000",
+      "minecraft:plains": "2025-05-04 04:50:45 +0000",
+      "minecraft:warm_ocean": "2025-05-04 05:21:32 +0000"
     },
     "done": false
   },
@@ -882,6 +934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-04 05:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-04 04:13:59 +0000"
@@ -891,6 +949,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-04 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-04 05:24:08 +0000"
     },
     "done": true
   },
@@ -921,6 +985,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-04 04:19:34 +0000",
+      "bread": "2025-05-04 05:32:12 +0000",
       "rotten_flesh": "2025-05-04 04:16:44 +0000"
     },
     "done": false
@@ -949,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-04 05:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-04 04:28:43 +0000"
@@ -958,6 +1029,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-04 04:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-04 05:23:48 +0000"
     },
     "done": true
   },
@@ -1096,6 +1173,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-04 04:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 04:59:20 +0000"
     },
     "done": true
   },
